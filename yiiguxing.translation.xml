@@ -1,0 +1,77 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="IS OVER SEA" />
+      <item value="// The type only needs to distinguish whether it is text or not" />
+      <item value="Tell the listener that call composition is done and we should start the call." />
+      <item value="Utility class for resizing images before sending them as enriched call attachments." />
+      <item value="Returns a bitmap that is a resized version of the parameter image. The image will only be resized down and sized to be appropriate for an enriched call. @param image to be resized @param rotation degrees to rotate the image clockwise @return resized image" />
+      <item value="Encode images to jpeg as it is better for camera pictures which we expect to be sending" />
+      <item value="is Fully Undialable Voicemail" />
+      <item value="Fragment used to compose call with image from the user's gallery." />
+      <item value="[RCS][] modify video compress size unit" />
+      <item value="Formats a content size to be in the form of bytes, kilobytes, megabytes, etc. &lt;p&gt;As of O, the prefixes are used in their standard meanings in the SI system, so kB = 1000 bytes, MB = 1,000,000 bytes, etc.&lt;/p&gt; &lt;p class=&quot;note&quot;&gt;In {@link android.os.Build.VERSION_CODES#N} and earlier, powers of 1024 are used instead, with KB = 1024 bytes, MB = 1,048,576 bytes, etc.&lt;/p&gt; &lt;p&gt;If the context has a right-to-left locale, the returned string is wrapped in bidi formatting characters to make sure it's displayed correctly if inserted inside a right-to-left string. (This is useful in cases where the unit strings, like &quot;MB&quot;, are left-to-right, but the locale is right-to-left.)&lt;/p&gt; @param context Context to use to load the localized units @param sizeBytes size value to be formatted, in bytes @return formatted string with the number" />
+      <item value="att need recipents ' sendFilePolicy but not have effect in tmo" />
+      <item value="* Initiates a group chat with a group of contact and returns a GroupChat instance. The subject is optional and may * be null." />
+      <item value="第三" />
+      <item value="Reads up to &lt;code&gt;len&lt;/code&gt; bytes of data from the input stream into an array of bytes. An attempt is made to read as many as &lt;code&gt;len&lt;/code&gt; bytes, but a smaller number may be read. The number of bytes actually read is returned as an integer. &lt;p&gt; This method blocks until input data is available, end of file is detected, or an exception is thrown. &lt;p&gt; If &lt;code&gt;len&lt;/code&gt; is zero, then no bytes are read and &lt;code&gt;0&lt;/code&gt; is returned; otherwise, there is an attempt to read at least one byte. If no byte is available because the stream is at end of file, the value &lt;code&gt;-1&lt;/code&gt; is returned; otherwise, at least one byte is read and stored into &lt;code&gt;b&lt;/code&gt;. &lt;p&gt; The first byte read is stored into element &lt;code&gt;b[off]&lt;/code&gt;, the next one into &lt;code&gt;b[off+1]&lt;/code&gt;, and so on. The number of bytes read is, at most, equal to &lt;code&gt;len&lt;/code&gt;. Let &lt;i&gt;k&lt;/i&gt; be the number of bytes actually read; these bytes will be stored in elements &lt;code&gt;b[off]&lt;/code&gt; through &lt;code&gt;b[off+&lt;/code&gt;&lt;i&gt;k&lt;/i&gt;&lt;code&gt;-1]&lt;/code&gt;, leaving elements &lt;code&gt;b[off+&lt;/code&gt;&lt;i&gt;k&lt;/i&gt;&lt;code&gt;]&lt;/code&gt; through &lt;code&gt;b[off+len-1]&lt;/code&gt; unaffected. &lt;p&gt; In every case, elements &lt;code&gt;b[0]&lt;/code&gt; through &lt;code&gt;b[off]&lt;/code&gt; and elements &lt;code&gt;b[off+len]&lt;/code&gt; through &lt;code&gt;b[b.length-1]&lt;/code&gt; are unaffected. &lt;p&gt; The &lt;code&gt;read(b,&lt;/code&gt; &lt;code&gt;off,&lt;/code&gt; &lt;code&gt;len)&lt;/code&gt; method for class &lt;code&gt;InputStream&lt;/code&gt; simply calls the method &lt;code&gt;read()&lt;/code&gt; repeatedly. If the first such call results in an &lt;code&gt;IOException&lt;/code&gt;, that exception is returned from the call to the &lt;code&gt;read(b,&lt;/code&gt; &lt;code&gt;off,&lt;/code&gt; &lt;code&gt;len)&lt;/code&gt; method. If any subsequent call to &lt;code&gt;read()&lt;/code&gt; results in a &lt;code&gt;IOException&lt;/code&gt;, the exception is caught and treated as if it were end of file; the bytes read up to that point are stored into &lt;code&gt;b&lt;/code&gt; and the number of bytes read before the exception occurred is returned. The default implementation of this method blocks until the requested amount of input data &lt;code&gt;len&lt;/code&gt; has been read, end of file is detected, or an exception is thrown. Subclasses are encouraged to provide a more efficient implementation of this method. @param b the buffer into which the data is read. @param off the start offset in array &lt;code&gt;b&lt;/code&gt; at which the data is written. @param len the maximum number of bytes to read. @return the total number of bytes read into the buffer, or &lt;code&gt;-1&lt;/code&gt; if there is no more data because the end of the stream has been reached. @exception IOException If the first byte cannot be read for any reason other than end of file, or if the input stream has been closed, or if some other I/O error occurs. @exception NullPointerException If &lt;code&gt;b&lt;/code&gt; is &lt;code&gt;null&lt;/code&gt;. @exception IndexOutOfBoundsException If &lt;code&gt;off&lt;/code&gt; is negative, &lt;code&gt;len&lt;/code&gt; is negative, or &lt;code&gt;len&lt;/code&gt; is greater than &lt;code&gt;b.length - off&lt;/code&gt; @see java.io.InputStream#read()" />
+      <item value="problem" />
+      <item value="took too long" />
+      <item value="Inform DownloadManager of the file so it will show in the &quot;downloads&quot; app" />
+      <item value="Apps should instead contribute files to * {@link android.provider.MediaStore.Downloads} collection to make them available to user * as part of Downloads." />
+      <item value="rotation" />
+      <item value="EXIF data can take a big chunk of the file size and is often cleared by the carrier, only store orientation since that's critical" />
+      <item value="Persist" />
+      <item value="Returns the MIME type of a content URI returned by {@link #getUriForFile(Context, String, File) getUriForFile()}. @param uri A content URI returned by {@link #getUriForFile(Context, String, File) getUriForFile()}. @return If the associated file has an extension, the MIME type associated with that extension; otherwise &lt;code&gt;application/octet-stream&lt;/code&gt;." />
+      <item value="Use of stream types is deprecated for operations other than volume control" />
+      <item value="See the documentation of setAudioStreamType() for what to use instead with android.media.AudioAttributes to qualify your playback use case" />
+      <item value="mediaplayer went away with unhandled events" />
+      <item value="Absolute filesystem path to the media item on disk. &lt;p&gt; Note that apps may not have filesystem permissions to directly access this path. Instead of trying to open this path directly, apps should use {@link ContentResolver#openFileDescriptor(Uri, String)} to gain access. @deprecated Apps may not have filesystem permissions to directly access this path. Instead of trying to open this path directly, apps should use {@link ContentResolver#openFileDescriptor(Uri, String)} to gain access." />
+      <item value="Returns the vCard of a contact. The contact parameter contains the database URI of the contact in the address book. The method returns a Uri to the visit card. The visit card filename has the file extension .vcf and is generated from the address book vCard URI (see Android SDK attribute ContactsContract.Contacts.CONTENT_VCARD_URI which returns the referenced contact formatted as a vCard when opened through openAssetFileDescriptor(Uri, String)). @param contactUri Contact URI of the contact in the address book @return Uri of vCard or null if not found @throws RcsGenericException" />
+      <item value="Construct a new Location with a named provider. &lt;p&gt;By default time, latitude and longitude are 0, and the location has no bearing, altitude, speed, accuracy or extras. @param provider the name of the provider that generated this location" />
+      <item value="** Interface for filtering sessions (compatible with Predicate from Java 8)" />
+      <item value="Returns a list containing viewable string representations of all existing sessions. &lt;p&gt;Intended for debug display purposes only." />
+      <item value="You need to use a Theme.AppCompat theme (or descendant) with this activity." />
+      <item value="Calling startActivity() from outside of an Activity context requires the FLAG_ACTIVITY_NEW_TASK flag. Is this really what you want?" />
+      <item value="Simulator" />
+      <item value="Portal" />
+      <item value="Activity used to display Enriched call sessions that are currently in memory, and create new outgoing sessions with various bits of data. &lt;p&gt;This activity will dynamically refresh as new sessions are added or updated, but there's no update when sessions are deleted from memory. Use the refresh button to update the view." />
+      <item value="Enriched Call Simulator Activity" />
+      <item value="INCOMING CALL COMPOSER" />
+      <item value="OUTGOING POST CALL" />
+      <item value="INCOMING POST CALL" />
+      <item value="OUTGOING CALL COMPOSER" />
+      <item value="Callback fired when the capabilities are updated." />
+      <item value="Receives updates when enriched call capabilities are ready." />
+      <item value="call" />
+      <item value="Performs all enriched calling logic." />
+      <item value="send Post Call Note" />
+      <item value="Dialer Robolectric" />
+      <item value="Dialer Aosp Espresso" />
+      <item value="TEST variant will be used in situations where we need create in-test application class which doesn't belong to any variants listed above" />
+      <item value="Stub" />
+      <item value="** Stub implementation of {@link EnrichedCallManager}." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="267" />
+        <entry key="ENGLISH" value="268" />
+        <entry key="POLISH" value="1" />
+        <entry key="FRENCH" value="1" />
+        <entry key="CATALAN" value="2" />
+        <entry key="KANNADA" value="1" />
+        <entry key="LATIN" value="2" />
+        <entry key="WELSH" value="2" />
+        <entry key="GREEK" value="3" />
+        <entry key="ITALIAN" value="2" />
+        <entry key="HINDI" value="1" />
+        <entry key="INDONESIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Consolas" />
+  </component>
+</application>
