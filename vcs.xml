@@ -203,124 +203,44 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="https://github.com/dkzwm/SmoothRefreshLayout.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="https://github.com/scwang90/SmartRefreshLayout.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/googlesamples/android-AutofillFramework.git" />
+          <option name="url" value="https://github.com/NateRobinson/CardStackViewpager.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/saulmm/CoordinatorBehaviorExample.git" />
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="chenfuxu188@gmail.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/pchab/AndroidRTC.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/HuanHaiLiuXin/SweetTips.git" />
+          <option name="url" value="https://github.com/ddssingsong/webrtc_android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/venshine/GoodView.git" />
+          <option name="url" value="https://github.com/CarGuo/GSYVideoPlayer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/liuguangli/VerificationCodeInput.git" />
+          <option name="url" value="https://git.fastgit.org/CarGuo/GSYVideoPlayer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/chrisbanes/cheesesquare.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/daimajia/AndroidSwipeLayout.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/anzaizai/EasySwipeMenuLayout.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/kongqw/OpenCVForAndroid.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitee.com/ZhiXueChuangXing/shitang.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/google/cameraview.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/javafa/Camera2_SurfaceView.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/JackCho/AndroidLauncher.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/AlphaBoom/ClassifyView.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/JorgeCastilloPrz/AndroidFillableLoaders.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/hzl123456/LibyuvDemo.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/PrivacyApps/html-textview.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/NightWhistler/HtmlSpanner.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/tuacy/TransitionDemo.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/hanxiaofeng/Material-Design-Demo.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/itdais/MaterialDesignDing.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/wasabeef/Blurry.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/lijiankun24/BottomSheetPractice.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/obaro/SharedElementTransitions.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/0xZhangKe/WebSocketDemo.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="ssh://chenfuxu@gerrit.400free.com:29418/android_rcs_sdk" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/jtreml/mbtiles4j.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/forezp/SpringCloudLearning.git" />
-          <option name="userName" value="" />
+          <option name="url" value="http://gerrit.fontdo.com:7080" />
+          <option name="userName" value="chenfuxu" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\server_sample" />
+    <option name="cloneParentDir" value="E:\android-project\github_demo" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
@@ -334,6 +254,6 @@
     </option>
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="E:/android-project/rcs_messaging_fih" />
+    <option name="PATCH_STORAGE_LOCATION" value="E:/android-project/rcs_messaging_op" />
   </component>
 </application>

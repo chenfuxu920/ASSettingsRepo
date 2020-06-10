@@ -1,0 +1,20 @@
+<application>
+  <component name="GraziConfig">
+    <option name="enabledLanguages">
+      <set>
+        <option value="English (US)" />
+        <option value="Chinese" />
+      </set>
+    </option>
+    <option name="nativeLanguage" value="Chinese" />
+    <option name="enabledCommitIntegration" value="true" />
+    <option name="userEnabledRules">
+      <set>
+        <option value="SHI1_SHI2" />
+        <option value="YUAN_WU" />
+        <option value="凸出" />
+      </set>
+    </option>
+    <option name="lastSeenVersion" value="2019.3-6.2.stable" />
+  </component>
+</application>

@@ -1,7 +1,5 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="$Copy">
-    <keyboard-shortcut first-keystroke="ctrl c" />
-  </action>
+  <action id="$ChooseTranslatorAction" />
   <action id="$EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt numpad2" />
     <keyboard-shortcut first-keystroke="alt w" />
@@ -15,17 +13,14 @@
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="$ShowTranslationDialogAction">
-    <keyboard-shortcut first-keystroke="shift ctrl o" />
+    <keyboard-shortcut first-keystroke="alt numpad0" />
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="ActivateAndroidMonitorToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
   <action id="ActivateTODOToolWindow" />
-  <action id="ECTranslation">
-    <keyboard-shortcut first-keystroke="meta i" />
-    <keyboard-shortcut first-keystroke="alt l" />
-  </action>
+  <action id="ECTranslation" />
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt numpad2" />
     <keyboard-shortcut first-keystroke="alt w" />
@@ -39,14 +34,19 @@
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="Editor ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="alt numpad0" />
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="EditorContextInfo" />
-  <action id="EditorCopy">
-    <keyboard-shortcut first-keystroke="ctrl c" />
+  <action id="EditorDecreaseFontSize">
+    <mouse-shortcut keystroke="control button142" />
   </action>
-  <action id="QuickDocCopy">
-    <keyboard-shortcut first-keystroke="ctrl c" />
+  <action id="EditorIncreaseFontSize">
+    <mouse-shortcut keystroke="control button143" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
@@ -69,17 +69,14 @@
   <action id="TogglePresentationMode">
     <keyboard-shortcut first-keystroke="ctrl numpad1" />
   </action>
-  <action id="UpdateRunningApplication" />
-  <action id="XDebugger.CopyValue">
-    <keyboard-shortcut first-keystroke="ctrl c" />
+  <action id="UpdateCopyright">
+    <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
-  </action>
-  <action id="de.mprengemann.intellij.plugin.androidicons.AndroidMultiDrawableImporter">
-    <keyboard-shortcut first-keystroke="ctrl insert" />
   </action>
 </keymap>
