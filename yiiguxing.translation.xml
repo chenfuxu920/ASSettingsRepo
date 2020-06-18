@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@param minTime minimum time interval between location updates, in milliseconds *" />
+      <item value="m Location Update Min Time" />
+      <item value="m Location Update Min Distance" />
       <item value="Ai Situation Refresh Event" />
       <item value="The position to start parsing from, updated to where parsing stopped." />
       <item value="group * The index of a capturing group in this matcher's pattern" />
@@ -48,14 +51,11 @@
       <item value="Receives updates when enriched call capabilities are ready." />
       <item value="call" />
       <item value="Performs all enriched calling logic." />
-      <item value="send Post Call Note" />
-      <item value="Dialer Robolectric" />
-      <item value="Dialer Aosp Espresso" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="270" />
-        <entry key="ENGLISH" value="271" />
+        <entry key="CHINESE" value="273" />
+        <entry key="ENGLISH" value="274" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
