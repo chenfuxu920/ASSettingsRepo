@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="select All Indices" />
+      <item value="Indices" />
+      <item value="on Negative" />
+      <item value="Neutral" />
+      <item value="prefill" />
       <item value="recover Connection" />
       <item value="ignore temporary non-gps fix" />
       <item value="Long monitor contention event with owner method=java.io.InputStream org.osmdroid.tileprovider.modules.MapTileFileArchiveProvider.getInputStream(long, org.osmdroid.tileprovider.tilesource.ITileSource) from MapTileFileArchiveProvider.java:4294967295 waiters=4 for 108ms" />
@@ -46,16 +51,11 @@
       <item value="Portal" />
       <item value="Activity used to display Enriched call sessions that are currently in memory, and create new outgoing sessions with various bits of data. &lt;p&gt;This activity will dynamically refresh as new sessions are added or updated, but there's no update when sessions are deleted from memory. Use the refresh button to update the view." />
       <item value="Enriched Call Simulator Activity" />
-      <item value="INCOMING CALL COMPOSER" />
-      <item value="OUTGOING POST CALL" />
-      <item value="INCOMING POST CALL" />
-      <item value="OUTGOING CALL COMPOSER" />
-      <item value="Callback fired when the capabilities are updated." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="276" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="CHINESE" value="282" />
+        <entry key="ENGLISH" value="283" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
