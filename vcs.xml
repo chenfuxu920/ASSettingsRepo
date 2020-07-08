@@ -252,4 +252,7 @@
       </list>
     </option>
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="C:/Projects/android-project/rcs_messaging_op" />
+  </component>
 </application>
