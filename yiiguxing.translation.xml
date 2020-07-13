@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Kick off the photo list loader" />
+      <item value="2019.01.09 Yoda modified for TMO-3644 Send multiply pics, tap on the last pic would show the previous picture. Because RCS FT is using QUEUE(3) as status but DRAFT(3) is using when query conversation images. Now, opening image on sending message can not perform horizontal-scroll overview." />
       <item value="** The URL of the photo to display" />
       <item value="** The URI of the group of photos to display" />
       <item value="reset listener when rcs online status changing" />
@@ -49,13 +51,11 @@
       <item value="Absolute filesystem path to the media item on disk. &lt;p&gt; Note that apps may not have filesystem permissions to directly access this path. Instead of trying to open this path directly, apps should use {@link ContentResolver#openFileDescriptor(Uri, String)} to gain access. @deprecated Apps may not have filesystem permissions to directly access this path. Instead of trying to open this path directly, apps should use {@link ContentResolver#openFileDescriptor(Uri, String)} to gain access." />
       <item value="Returns the vCard of a contact. The contact parameter contains the database URI of the contact in the address book. The method returns a Uri to the visit card. The visit card filename has the file extension .vcf and is generated from the address book vCard URI (see Android SDK attribute ContactsContract.Contacts.CONTENT_VCARD_URI which returns the referenced contact formatted as a vCard when opened through openAssetFileDescriptor(Uri, String)). @param contactUri Contact URI of the contact in the address book @return Uri of vCard or null if not found @throws RcsGenericException" />
       <item value="Construct a new Location with a named provider. &lt;p&gt;By default time, latitude and longitude are 0, and the location has no bearing, altitude, speed, accuracy or extras. @param provider the name of the provider that generated this location" />
-      <item value="** Interface for filtering sessions (compatible with Predicate from Java 8)" />
-      <item value="Returns a list containing viewable string representations of all existing sessions. &lt;p&gt;Intended for debug display purposes only." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="287" />
-        <entry key="ENGLISH" value="288" />
+        <entry key="CHINESE" value="289" />
+        <entry key="ENGLISH" value="290" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
