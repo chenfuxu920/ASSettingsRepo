@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="only Show Spinner" />
+      <item value="Spinner" />
       <item value="We are not running the scale up animation. Just let the fragments display and handle the animation." />
       <item value="Attempt to load the initial image thumbnail. Once we have the image, animate it up. Once the animation is complete, we can kick off loading the ViewPager. After the primary fullres image is loaded, we will make our temporary image invisible and display the ViewPager." />
       <item value="Kick off the photo list loader" />
@@ -49,13 +51,11 @@
       <item value="Returns the MIME type of a content URI returned by {@link #getUriForFile(Context, String, File) getUriForFile()}. @param uri A content URI returned by {@link #getUriForFile(Context, String, File) getUriForFile()}. @return If the associated file has an extension, the MIME type associated with that extension; otherwise &lt;code&gt;application/octet-stream&lt;/code&gt;." />
       <item value="Use of stream types is deprecated for operations other than volume control" />
       <item value="See the documentation of setAudioStreamType() for what to use instead with android.media.AudioAttributes to qualify your playback use case" />
-      <item value="mediaplayer went away with unhandled events" />
-      <item value="Absolute filesystem path to the media item on disk. &lt;p&gt; Note that apps may not have filesystem permissions to directly access this path. Instead of trying to open this path directly, apps should use {@link ContentResolver#openFileDescriptor(Uri, String)} to gain access. @deprecated Apps may not have filesystem permissions to directly access this path. Instead of trying to open this path directly, apps should use {@link ContentResolver#openFileDescriptor(Uri, String)} to gain access." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="292" />
-        <entry key="ENGLISH" value="293" />
+        <entry key="CHINESE" value="294" />
+        <entry key="ENGLISH" value="295" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
