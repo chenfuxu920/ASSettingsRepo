@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="(prohibited by Gerrit: create access denied for refs/heads/master)" />
       <item value="Itinerary" />
       <item value="m Itinerary Layer" />
       <item value="]choose the best proportion, not compressed to the limited size." />
@@ -50,12 +51,11 @@
       <item value="problem" />
       <item value="took too long" />
       <item value="Inform DownloadManager of the file so it will show in the &quot;downloads&quot; app" />
-      <item value="Apps should instead contribute files to * {@link android.provider.MediaStore.Downloads} collection to make them available to user * as part of Downloads." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="300" />
+        <entry key="CHINESE" value="300" />
+        <entry key="ENGLISH" value="301" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
