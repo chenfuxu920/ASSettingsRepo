@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This class describes all device configuration information that can impact the resources the application retrieves. This includes both user-specified configuration options (locale list and scaling) as well as device configurations (such as input modes, screen size and screen orientation). &lt;p&gt;You can acquire this object from {@link Resources}, using {@link Resources#getConfiguration}. Thus, from an activity, you can get it by chaining the request with {@link android.app.Activity#getResources}:&lt;/p&gt; &lt;pre&gt;Configuration config = getResources().getConfiguration();&lt;/pre&gt;" />
       <item value="Initiator" />
       <item value="updateAudioDeviceState done" />
       <item value="update" />
@@ -50,12 +51,11 @@
       <item value="Tell the listener that call composition is done and we should start the call." />
       <item value="Utility class for resizing images before sending them as enriched call attachments." />
       <item value="Returns a bitmap that is a resized version of the parameter image. The image will only be resized down and sized to be appropriate for an enriched call. @param image to be resized @param rotation degrees to rotate the image clockwise @return resized image" />
-      <item value="Encode images to jpeg as it is better for camera pictures which we expect to be sending" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="307" />
-        <entry key="ENGLISH" value="308" />
+        <entry key="CHINESE" value="308" />
+        <entry key="ENGLISH" value="309" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
