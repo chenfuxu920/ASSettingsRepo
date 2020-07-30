@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Frame Sequence Drawable" />
+      <item value="Sequence" />
       <item value="Precent" />
       <item value="Interrupted Exception" />
       <item value="Exception" />
@@ -49,13 +51,11 @@
       <item value="Ai Situation Refresh Event" />
       <item value="The position to start parsing from, updated to where parsing stopped." />
       <item value="group * The index of a capturing group in this matcher's pattern" />
-      <item value="IS OVER SEA" />
-      <item value="// The type only needs to distinguish whether it is text or not" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="311" />
-        <entry key="ENGLISH" value="312" />
+        <entry key="CHINESE" value="313" />
+        <entry key="ENGLISH" value="314" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
