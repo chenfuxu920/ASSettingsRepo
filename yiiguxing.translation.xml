@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="milestones" />
+      <item value="Scale View" />
+      <item value="Scale" />
+      <item value="get Standard Days" />
+      <item value="Standard" />
       <item value="Frame Sequence Drawable" />
       <item value="Sequence" />
       <item value="Precent" />
@@ -46,16 +51,11 @@
       <item value="ignore temporary non-gps fix" />
       <item value="Long monitor contention event with owner method=java.io.InputStream org.osmdroid.tileprovider.modules.MapTileFileArchiveProvider.getInputStream(long, org.osmdroid.tileprovider.tilesource.ITileSource) from MapTileFileArchiveProvider.java:4294967295 waiters=4 for 108ms" />
       <item value="@param minTime minimum time interval between location updates, in milliseconds *" />
-      <item value="m Location Update Min Time" />
-      <item value="m Location Update Min Distance" />
-      <item value="Ai Situation Refresh Event" />
-      <item value="The position to start parsing from, updated to where parsing stopped." />
-      <item value="group * The index of a capturing group in this matcher's pattern" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="313" />
-        <entry key="ENGLISH" value="314" />
+        <entry key="CHINESE" value="319" />
+        <entry key="ENGLISH" value="320" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
