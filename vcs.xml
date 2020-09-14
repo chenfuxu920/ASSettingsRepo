@@ -238,8 +238,12 @@
           <option name="url" value="http://gerrit.fontdo.com:7080" />
           <option name="userName" value="chenfuxu" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Esri/arcgis-runtime-samples-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\android-project\github_demo" />
+    <option name="cloneParentDir" value="$USER_HOME$/Project" />
   </component>
 </application>
