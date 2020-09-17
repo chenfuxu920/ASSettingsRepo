@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Converts this duration to a period in days assuming that there are the * standard number of milliseconds in a day. * &lt;p&gt; * This method assumes that there are 24 hours in a day, * 60 minutes in an hour, 60 seconds in a minute and 1000 milliseconds in * a second. This will be true for most days, however days with Daylight * Savings changes will not have 24 hours, so use this method with care. * * @return a period representing the number of standard days in this period, never null * @throws ArithmeticException if the number of days is too large to be represented * @since 2.0" />
       <item value="inflater" />
       <item value="percentage" />
       <item value="ONHOLD" />
@@ -50,12 +51,11 @@
       <item value="Itinerary" />
       <item value="m Itinerary Layer" />
       <item value="]choose the best proportion, not compressed to the limited size." />
-      <item value="elapsed Realtime" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="345" />
-        <entry key="ENGLISH" value="347" />
+        <entry key="CHINESE" value="346" />
+        <entry key="ENGLISH" value="348" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="2" />
