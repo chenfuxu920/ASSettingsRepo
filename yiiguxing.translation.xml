@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Child" />
       <item value="is Expand" />
       <item value="Restricted constructor. * * @param lowerLimit the lower field limit, null means no limit * @param upperLimit the upper field limit, null means no limit" />
       <item value="arrow" />
@@ -50,12 +51,11 @@
       <item value="Elevation" />
       <item value="presence" />
       <item value="用户类型变化" />
-      <item value="(prohibited by Gerrit: create access denied for refs/heads/master)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="351" />
+        <entry key="CHINESE" value="349" />
+        <entry key="ENGLISH" value="352" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="2" />
