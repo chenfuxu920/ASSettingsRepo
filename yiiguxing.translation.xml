@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Azimuth 1" />
+      <item value="Scene View" />
+      <item value="METRIC" />
+      <item value="IMPERIAL" />
+      <item value="Linear Unit" />
+      <item value="set up the distance composite symbol" />
+      <item value="Distance Composite Scene Symbol" />
       <item value="The input spatial reference does not match the owning spatial reference. They must be equivalent or an input null is permitted and assumed to match the owner spatial reference." />
       <item value="mroutetest" />
       <item value="mroutetest Graphics Overlay" />
@@ -44,18 +51,11 @@
       <item value="ONHOLD" />
       <item value="tint" />
       <item value="distribution" />
-      <item value="et distribution" />
-      <item value="memo" />
-      <item value="Schema export directory is not provided to the annotation processor so we cannot export the schema. You can either provide `room.schemaLocation` annotation processor argument OR set exportSchema to false." />
-      <item value="There are multiple good constructors and Room will pick the no-arg constructor. You can use the @Ignore annotation to eliminate unwanted constructors." />
-      <item value="DESC" />
-      <item value="Returns a copy of this datetime with different millis. &lt;p&gt; The returned object will be either be a new instance or &lt;code&gt;this&lt;/code&gt;. Only the millis will change, the chronology and time zone are kept. @param newMillis the new millis, from 1970-01-01T00:00:00Z @return a copy of this datetime with different millis" />
-      <item value="Returns a comparator that only considers time fields. Date is ignored. &lt;p&gt; The time-zone is considered when using this comparator. The input millis are truncated to be within the day in the time-zone of that input value. Thus, two inputs with different time-zones will typically not be equal @return a comparator over all time fields" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="382" />
-        <entry key="ENGLISH" value="383" />
+        <entry key="CHINESE" value="389" />
+        <entry key="ENGLISH" value="390" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="2" />
