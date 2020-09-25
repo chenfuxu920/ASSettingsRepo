@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BACKEND" />
+      <item value="FRONTEND" />
+      <item value="lzl" />
+      <item value="female" />
       <item value="/** Cache of alternate months format. */" />
       <item value="Gets the value as a String in the ISO8601 duration format including * only seconds and milliseconds. * &lt;p&gt; * For example, &quot;PT72.345S&quot; represents 1 minute, 12 seconds and 345 milliseconds. * &lt;p&gt; * For more control over the output, see * {@link org.joda.time.format.PeriodFormatterBuilder PeriodFormatterBuilder}. * * @return the value as an ISO8601 string" />
       <item value="set Milestones" />
@@ -47,15 +51,11 @@
       <item value="create a graphic (with a dashed line symbol) to represent the route" />
       <item value="m Route Traveled Graphic" />
       <item value="m Route Ahead Graphic" />
-      <item value="Traveled" />
-      <item value="Ahead" />
-      <item value="enable Rerouting Async" />
-      <item value="generate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="409" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="CHINESE" value="413" />
+        <entry key="ENGLISH" value="414" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="2" />
