@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="alternative" />
+      <item value="If {@code true}, the field marked with this annotation is written out in the JSON while serializing. If {@code false}, the field marked with this annotation is skipped from the serialized output. Defaults to {@code true}. @since 1.4" />
       <item value="set Lenient" />
       <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $" />
       <item value="Penetration" />
@@ -49,13 +51,11 @@
       <item value="get Azimuth 1" />
       <item value="Scene View" />
       <item value="METRIC" />
-      <item value="IMPERIAL" />
-      <item value="Linear Unit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="432" />
-        <entry key="ENGLISH" value="433" />
+        <entry key="CHINESE" value="434" />
+        <entry key="ENGLISH" value="435" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="2" />
