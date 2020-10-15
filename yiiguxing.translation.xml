@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="user Event Triggered" />
       <item value="You've passed your 25 request sharing limit. Sharing additional requests will result in the archiving of your oldest shared requests. For unlimited sharing, upgrade your plan." />
       <item value="peek" />
       <item value="text All Caps" />
@@ -50,12 +51,11 @@
       <item value="fraction Along" />
       <item value="Along" />
       <item value="fraction" />
-      <item value="distance Geodetic" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="439" />
-        <entry key="ENGLISH" value="439" />
+        <entry key="ENGLISH" value="440" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="2" />
