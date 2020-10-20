@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DOT" />
+      <item value="DASH DOT DOT" />
+      <item value="DASH DOT" />
+      <item value="DASH" />
       <item value="Rendezvous" />
       <item value="not Rend Users" />
       <item value="not" />
@@ -47,15 +51,11 @@
       <item value="female" />
       <item value="/** Cache of alternate months format. */" />
       <item value="Gets the value as a String in the ISO8601 duration format including * only seconds and milliseconds. * &lt;p&gt; * For example, &quot;PT72.345S&quot; represents 1 minute, 12 seconds and 345 milliseconds. * &lt;p&gt; * For more control over the output, see * {@link org.joda.time.format.PeriodFormatterBuilder PeriodFormatterBuilder}. * * @return the value as an ISO8601 string" />
-      <item value="set Milestones" />
-      <item value="Millis" />
-      <item value="i Millis" />
-      <item value="get Abbreviation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="451" />
-        <entry key="ENGLISH" value="452" />
+        <entry key="CHINESE" value="457" />
+        <entry key="ENGLISH" value="458" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="2" />
