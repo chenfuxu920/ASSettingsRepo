@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="唯一" />
       <item value="new structure" />
       <item value="structure" />
       <item value="Adds a repository which looks in the local Maven cache for dependencies. The name of the repository is {@value org.gradle.api.artifacts.ArtifactRepositoryContainer#DEFAULT_MAVEN_LOCAL_REPO_NAME}. &lt;p&gt;Examples:&lt;/p&gt; &lt;pre class='autoTested'&gt; repositories { mavenLocal() } &lt;/pre&gt; &lt;p&gt; The location for the repository is determined as follows (in order of precedence): &lt;/p&gt; &lt;ol&gt; &lt;li&gt;The value of system property 'maven.repo.local' if set;&lt;/li&gt; &lt;li&gt;The value of element &amp;lt;localRepository&amp;gt; of &lt;code&gt;~/.m2/settings.xml&lt;/code&gt; if this file exists and element is set;&lt;/li&gt; &lt;li&gt;The value of element &amp;lt;localRepository&amp;gt; of &lt;code&gt;$M2_HOME/conf/settings.xml&lt;/code&gt; (where &lt;code&gt;$M2_HOME&lt;/code&gt; is the value of the environment variable with that name) if this file exists and element is set;&lt;/li&gt; &lt;li&gt;The path &lt;code&gt;~/.m2/repository&lt;/code&gt;.&lt;/li&gt; &lt;/ol&gt; @param action a configuration action @return the added resolver @since 5.3" />
@@ -50,12 +51,11 @@
       <item value="transitive" />
       <item value="BACKEND" />
       <item value="FRONTEND" />
-      <item value="lzl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="459" />
-        <entry key="ENGLISH" value="459" />
+        <entry key="CHINESE" value="460" />
+        <entry key="ENGLISH" value="460" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="2" />
