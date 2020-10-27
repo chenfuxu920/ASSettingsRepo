@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="in Need Of Sasl Accept" />
+      <item value="TOR NOT AVAILABLE" />
+      <item value="TOR" />
+      <item value="AVAILABLE" />
       <item value="GRANTED" />
       <item value="The user 10147 does not meet the requirements to access device identifiers." />
       <item value="obsolete" />
@@ -47,16 +51,13 @@
       <item value="&lt;b&gt;Note:&lt;/b&gt; only alarms for which there is a strong demand for exact-time * delivery (such as an alarm clock ringing at the requested time) should be * scheduled as exact. Applications are strongly discouraged from using exact * alarms unnecessarily as they reduce the OS's ability to minimize battery use." />
       <item value="Flag indicating that if the described PendingIntent already exists, * the current one should be canceled before generating a new one. * For use with {@link #getActivity}, {@link #getBroadcast}, and * {@link #getService}. &lt;p&gt;You can use * this to retrieve a new PendingIntent when you are only changing the * extra data in the Intent; by canceling the previous pending intent, * this ensures that only entities given the new data will be able to * launch it. If this assurance is not an issue, consider * {@link #FLAG_UPDATE_CURRENT}." />
       <item value="Flag indicating that this PendingIntent can be used only once. * For use with {@link #getActivity}, {@link #getBroadcast}, and * {@link #getService}. &lt;p&gt;If set, after * {@link #send()} is called on it, it will be automatically * canceled for you and any future attempt to send through it will fail." />
-      <item value="This method is like {@link #set(int, long, PendingIntent)}, but does not permit * the OS to adjust the delivery time. The alarm will be delivered as nearly as * possible to the requested trigger time." />
-      <item value="Schedule an alarm to be delivered precisely at the stated time. * * &lt;p&gt; * This method is like {@link #set(int, long, PendingIntent)}, but does not permit * the OS to adjust the delivery time. The alarm will be delivered as nearly as * possible to the requested trigger time. * * &lt;p&gt; * &lt;b&gt;Note:&lt;/b&gt; only alarms for which there is a strong demand for exact-time * delivery (such as an alarm clock ringing at the requested time) should be * scheduled as exact. Applications are strongly discouraged from using exact * alarms unnecessarily as they reduce the OS's ability to minimize battery use. * * @param type type of alarm. * @param triggerAtMillis time in milliseconds that the alarm should go * off, using the appropriate clock (depending on the alarm type). * @param operation Action to perform when the alarm goes off; * typically comes from {@link PendingIntent#getBroadcast * IntentSender.getBroadcast()}." />
-      <item value="Schedule a repeating alarm. &lt;b&gt;Note: for timing operations (ticks, * timeouts, etc) it is easier and much more efficient to use * {@link android.os.Handler}.&lt;/b&gt; If there is already an alarm scheduled * for the same IntentSender, it will first be canceled. * * &lt;p&gt;Like {@link #set}, except you can also supply a period at which * the alarm will automatically repeat. This alarm continues * repeating until explicitly removed with {@link #cancel}. If the stated * trigger time is in the past, the alarm will be triggered immediately, with an * alarm count depending on how far in the past the trigger time is relative * to the repeat interval. * * &lt;p&gt;If an alarm is delayed (by system sleep, for example, for non * _WAKEUP alarm types), a skipped repeat will be delivered as soon as * possible. After that, future alarms will be delivered according to the * original schedule; they do not drift over time. For example, if you have * set a recurring alarm for the top of every hour but the phone was asleep * from 7:45 until 8:45, an alarm will be sent as soon as the phone awakens, * then the next alarm will be sent at 9:00. * * &lt;p&gt;If your application wants to allow the delivery times to drift in * order to guarantee that at least a certain time interval always elapses * between alarms, then the approach to take is to use one-time alarms, * scheduling the next one yourself when handling each alarm delivery. * * &lt;p class=&quot;note&quot;&gt; * &lt;b&gt;Note:&lt;/b&gt; as of API 19, all repeating alarms are inexact. If your * application needs precise delivery times then it must use one-time * exact alarms, rescheduling each time as described above. Legacy applications * whose {@code targetSdkVersion} is earlier than API 19 will continue to have all * of their alarms, including repeating alarms, treated as exact." />
-      <item value="@param intervalMillis interval in milliseconds between subsequent repeats * of the alarm." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="466" />
-        <entry key="ENGLISH" value="467" />
+        <entry key="CHINESE" value="468" />
+        <entry key="ENGLISH" value="469" />
         <entry key="POLISH" value="1" />
+        <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="2" />
         <entry key="KANNADA" value="1" />
