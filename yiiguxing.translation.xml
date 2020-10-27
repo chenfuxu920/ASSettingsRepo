@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Memorizing Trust Manager" />
+      <item value="Memorizing" />
       <item value="get Roster" />
       <item value="Roster" />
       <item value="on Backend Connected" />
@@ -49,13 +51,11 @@
       <item value="alternative" />
       <item value="If {@code true}, the field marked with this annotation is written out in the JSON while serializing. If {@code false}, the field marked with this annotation is skipped from the serialized output. Defaults to {@code true}. @since 1.4" />
       <item value="set Lenient" />
-      <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $" />
-      <item value="Penetration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="474" />
-        <entry key="ENGLISH" value="475" />
+        <entry key="CHINESE" value="476" />
+        <entry key="ENGLISH" value="477" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
