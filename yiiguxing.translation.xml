@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return the FragmentManager for interacting with fragments associated with this fragment's activity. Note that this will available slightly before {@link #getActivity()}, during the time from when the fragment is placed in a {@link FragmentTransaction} until it is committed and attached to its activity. &lt;p&gt;If this Fragment is a child of another Fragment, the FragmentManager returned here will be the parent's {@link #getChildFragmentManager()}. @throws IllegalStateException if not associated with a transaction or host. @see #getFragmentManager()" />
       <item value="Expected URL scheme 'http' or 'https' but no colon was found" />
       <item value="Invoked when a web socket has been closed due to an error reading from or writing to the network. Both outgoing and incoming messages may have been lost. No further calls to this listener will be made." />
       <item value="longitude" />
@@ -50,12 +51,11 @@
       <item value="唯一" />
       <item value="new structure" />
       <item value="structure" />
-      <item value="Adds a repository which looks in the local Maven cache for dependencies. The name of the repository is {@value org.gradle.api.artifacts.ArtifactRepositoryContainer#DEFAULT_MAVEN_LOCAL_REPO_NAME}. &lt;p&gt;Examples:&lt;/p&gt; &lt;pre class='autoTested'&gt; repositories { mavenLocal() } &lt;/pre&gt; &lt;p&gt; The location for the repository is determined as follows (in order of precedence): &lt;/p&gt; &lt;ol&gt; &lt;li&gt;The value of system property 'maven.repo.local' if set;&lt;/li&gt; &lt;li&gt;The value of element &amp;lt;localRepository&amp;gt; of &lt;code&gt;~/.m2/settings.xml&lt;/code&gt; if this file exists and element is set;&lt;/li&gt; &lt;li&gt;The value of element &amp;lt;localRepository&amp;gt; of &lt;code&gt;$M2_HOME/conf/settings.xml&lt;/code&gt; (where &lt;code&gt;$M2_HOME&lt;/code&gt; is the value of the environment variable with that name) if this file exists and element is set;&lt;/li&gt; &lt;li&gt;The path &lt;code&gt;~/.m2/repository&lt;/code&gt;.&lt;/li&gt; &lt;/ol&gt; @param action a configuration action @return the added resolver @since 5.3" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="499" />
-        <entry key="ENGLISH" value="500" />
+        <entry key="CHINESE" value="500" />
+        <entry key="ENGLISH" value="501" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
