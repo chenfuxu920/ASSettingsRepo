@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The style on this component" />
+      <item value="The" />
       <item value="mobilesafe" />
       <item value="Error inflating mobilesafe class" />
       <item value="Add a new listener for changes to the fragment back stack." />
@@ -49,13 +51,11 @@
       <item value="on Backend Connected" />
       <item value="Backend" />
       <item value="USECOMPRESSION" />
-      <item value="only allow account creation for this domain" />
-      <item value="in Need Of Sasl Accept" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="513" />
-        <entry key="ENGLISH" value="514" />
+        <entry key="CHINESE" value="515" />
+        <entry key="ENGLISH" value="516" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="10" />
