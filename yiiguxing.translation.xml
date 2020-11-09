@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mobilesafe" />
+      <item value="Error inflating mobilesafe class" />
       <item value="Add a new listener for changes to the fragment back stack." />
       <item value="on Back Stack Changed" />
       <item value="not Rend Users" />
@@ -49,13 +51,11 @@
       <item value="USECOMPRESSION" />
       <item value="only allow account creation for this domain" />
       <item value="in Need Of Sasl Accept" />
-      <item value="TOR NOT AVAILABLE" />
-      <item value="TOR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="511" />
-        <entry key="ENGLISH" value="512" />
+        <entry key="CHINESE" value="513" />
+        <entry key="ENGLISH" value="514" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="10" />
