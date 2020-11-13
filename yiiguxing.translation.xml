@@ -3,6 +3,24 @@
     <histories>
       <item value="JUDGEMENT" />
       <item value="JUDGEMENT TARGET" />
+      <item value="mobilesafe" />
+      <item value="Error inflating mobilesafe class" />
+      <item value="Add a new listener for changes to the fragment back stack." />
+      <item value="on Back Stack Changed" />
+      <item value="not Rend Users" />
+      <item value="Rend" />
+      <item value="Evacuate" />
+      <item value="Rendezvous" />
+      <item value="Rendezvouses" />
+      <item value="Rendzvous" />
+      <item value="Rendez Vous" />
+      <item value="Prepare" />
+      <item value="Combat" />
+      <item value="Rendzvousaddnew" />
+      <item value="Fragment" />
+      <item value="Insecure Base Configuration" />
+      <item value="Return the FragmentManager for interacting with fragments associated with this fragment's activity. Note that this will available slightly before {@link #getActivity()}, during the time from when the fragment is placed in a {@link FragmentTransaction} until it is committed and attached to its activity. &lt;p&gt;If this Fragment is a child of another Fragment, the FragmentManager returned here will be the parent's {@link #getChildFragmentManager()}. @throws IllegalStateException if not associated with a transaction or host. @see #getFragmentManager()" />
+      <item value="Expected URL scheme 'http' or 'https' but no colon was found" />
       <item value="Invoked when a web socket has been closed due to an error reading from or writing to the network. Both outgoing and incoming messages may have been lost. No further calls to this listener will be made." />
       <item value="longitude" />
       <item value="latitude" />
@@ -13,7 +31,6 @@
       <item value="目标" />
       <item value="参数" />
       <item value="campsite" />
-      <item value="Rendezvous" />
       <item value="tank" />
       <item value="ACCESS FINE LOCATION" />
       <item value="ACCESS COARSE LOCATION" />
@@ -36,29 +53,14 @@
       <item value="USECOMPRESSION" />
       <item value="only allow account creation for this domain" />
       <item value="in Need Of Sasl Accept" />
-      <item value="TOR NOT AVAILABLE" />
-      <item value="TOR" />
-      <item value="AVAILABLE" />
-      <item value="GRANTED" />
-      <item value="The user 10147 does not meet the requirements to access device identifiers." />
-      <item value="obsolete" />
-      <item value="Geo Bezier Curve Arrow" />
-      <item value="Curve" />
-      <item value="get Accent Color" />
-      <item value="Accent" />
-      <item value="Mina" />
-      <item value="Do not treat position as fixed; only use immediately and call `holder.getAdapterPosition()` to look it up later" />
-      <item value="唯一" />
-      <item value="new structure" />
-      <item value="structure" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="500" />
-        <entry key="ENGLISH" value="501" />
+        <entry key="CHINESE" value="513" />
+        <entry key="ENGLISH" value="514" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="3" />
+        <entry key="FRENCH" value="10" />
         <entry key="CATALAN" value="2" />
         <entry key="KANNADA" value="1" />
         <entry key="LATIN" value="2" />
@@ -66,6 +68,7 @@
         <entry key="SWEDISH" value="2" />
         <entry key="WELSH" value="2" />
         <entry key="GREEK" value="3" />
+        <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="2" />
