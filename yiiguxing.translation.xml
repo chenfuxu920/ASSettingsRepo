@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mission" />
       <item value="action menu sw_秒" />
       <item value="minute" />
       <item value="Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $" />
@@ -50,12 +51,11 @@
       <item value="interact" />
       <item value="Memorizing Trust Manager" />
       <item value="Memorizing" />
-      <item value="get Roster" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="518" />
-        <entry key="ENGLISH" value="519" />
+        <entry key="CHINESE" value="519" />
+        <entry key="ENGLISH" value="520" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="10" />
