@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="单位" />
+      <item value="m Alert Point" />
+      <item value="Alert" />
+      <item value="警戒" />
       <item value="高度" />
       <item value="area" />
       <item value="patrol" />
@@ -47,15 +51,11 @@
       <item value="HARDWARE" />
       <item value="rendezvous" />
       <item value="ptz" />
-      <item value="Machine" />
-      <item value="interactive" />
-      <item value="dont Trust System C As" />
-      <item value="interact Cert" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="521" />
-        <entry key="ENGLISH" value="522" />
+        <entry key="CHINESE" value="524" />
+        <entry key="ENGLISH" value="525" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="10" />
