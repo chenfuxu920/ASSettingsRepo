@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="矩形" />
       <item value="单位" />
       <item value="m Alert Point" />
       <item value="Alert" />
@@ -50,7 +51,6 @@
       <item value="LOCATION HARDWARE" />
       <item value="HARDWARE" />
       <item value="rendezvous" />
-      <item value="ptz" />
     </histories>
     <option name="languageScores">
       <map>
