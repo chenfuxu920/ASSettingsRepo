@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="来源" />
+      <item value="from" />
       <item value="Judgement" />
       <item value="on Arrow Up Ctrl Pressed" />
       <item value="Ctrl" />
@@ -49,13 +51,11 @@
       <item value="emulate" />
       <item value="模拟" />
       <item value="Convert screen coordinate to source coordinate. @param vx view X coordinate. @param vy view Y coordinate. @return a coordinate representing the corresponding source coordinate." />
-      <item value="目标" />
-      <item value="参数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="530" />
-        <entry key="ENGLISH" value="531" />
+        <entry key="CHINESE" value="532" />
+        <entry key="ENGLISH" value="533" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="10" />
