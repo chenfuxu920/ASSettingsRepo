@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="equipment" />
       <item value="enqueue" />
       <item value="throw If Reached" />
       <item value="@throws IOException if the request could not be executed due to cancellation, a connectivity problem or timeout. Because networks can fail during an exchange, it is possible that the remote server accepted the request before the failure. @throws IllegalStateException when the call has already been executed." />
@@ -50,12 +51,11 @@
       <item value="LOCATION HARDWARE" />
       <item value="HARDWARE" />
       <item value="rendezvous" />
-      <item value="ptz" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="525" />
-        <entry key="ENGLISH" value="526" />
+        <entry key="CHINESE" value="526" />
+        <entry key="ENGLISH" value="527" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="10" />
