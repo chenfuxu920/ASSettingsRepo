@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="place" />
       <item value="STEP LAYOUT" />
       <item value="STEP ANIMATIONS" />
       <item value="STEP START" />
@@ -50,12 +51,11 @@
       <item value="Mission" />
       <item value="action menu sw_秒" />
       <item value="minute" />
-      <item value="Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="554" />
-        <entry key="ENGLISH" value="555" />
+        <entry key="CHINESE" value="555" />
+        <entry key="ENGLISH" value="556" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="10" />
@@ -74,9 +74,13 @@
       </map>
     </option>
   </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1607215105744" />
+  </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
-    <option name="phoneticFontFamily" value="Consolas" />
+    <option name="phoneticFontFamily" value="Arial" />
+    <option name="primaryFontFamily" value="SimSun" />
   </component>
 </application>
