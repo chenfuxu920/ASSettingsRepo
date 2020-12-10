@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="826" />
+    <option name="newTranslationDialogY" value="470" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="serif" />
+      <item value="typeface" />
+      <item value="text Appearance Small Inverse" />
       <item value="Interactive" />
       <item value="interactive" />
       <item value="from" />
@@ -48,14 +55,11 @@
       <item value="enemy Uav Target" />
       <item value="enemy" />
       <item value="Rescue" />
-      <item value="救护" />
-      <item value="急救" />
-      <item value="完成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="566" />
-        <entry key="ENGLISH" value="567" />
+        <entry key="CHINESE" value="570" />
+        <entry key="ENGLISH" value="571" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="10" />
