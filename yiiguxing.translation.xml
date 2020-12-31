@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="计算&#10;" />
       <item value="This method is invoked on the worker thread with a request to process. Only one Intent is processed at a time, but the processing happens on a worker thread that runs independently from other application logic. So, if this code takes a long time, it will hold up other requests to the same IntentService, but it will not hold up anything else. When all requests have been handled, the IntentService stops itself, so you should not call {@link stopSelf}. @param intent The value passed to {@link android.content.ContextstartService(Intent)}. This may be null if the service is being restarted after its process has gone away; see {@link android.app.ServiceonStartCommand} for details." />
       <item value="Creates an IntentService. Invoked by your subclass's constructor. @param name Used to name the worker thread, important only for debugging." />
       <item value="Constant to return from {@link onStartCommand}: if this service's process is killed while it is started (after returning from {@link onStartCommand}), then leave it in the started state but don't retain this delivered intent. Later the system will try to re-create the service. Because it is in the started state, it will guarantee to call {@link onStartCommand} after creating the new service instance; if there are not any pending start commands to be delivered to the service, it will be called with a null intent object, so you must take care to check for this. &lt;p&gt;This mode makes sense for things that will be explicitly started and stopped to run for arbitrary periods of time, such as a service performing background music playback." />
@@ -54,7 +55,6 @@
       <item value="STEP ANIMATIONS" />
       <item value="STEP START" />
       <item value="True if the resulting bitmap should be mutable (i.e. its pixels can be modified)" />
-      <item value="Error, cannot access an invalid/free'd bitmap here!" />
     </histories>
     <option name="languageScores">
       <map>
