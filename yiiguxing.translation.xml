@@ -5,6 +5,20 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Compute the FPS of the entire pipeline" />
+      <item value="prediction" />
+      <item value="Intrinsic for converting an Android YUV buffer to RGB. The input allocation should be supplied in a supported YUV format as a YUV element Allocation. The output is RGBA; the alpha channel will be set to 255." />
+      <item value="Get the YUV data in byte array form using NV21 format" />
+      <item value="Copy from the Allocation into a {@link android.graphics.Bitmap}. The bitmap must match the dimensions of the Allocation. @param b The bitmap to be set from the Allocation." />
+      <item value="pixel Stride" />
+      <item value="Take into account that the stride may include data from pixels other than this particular plane and row, and that could be between pixels and not after every pixel: |---- Pixel stride ----| Row ends here --&gt; | | Pixel 1 | Other Data | Pixel 2 | Other Data | ... | Pixel N | We need to get (N-1) (pixel stride bytes) per row + 1 byte for the last pixel" />
+      <item value="For NV21 format, V is in even-numbered indices" />
+      <item value="For NV21 format, U is in odd-numbered indices" />
+      <item value="Get the array of pixel planes for this Image. The number of planes is determined by the format of the Image. The application will get an empty array if the image format is {@link android.graphics.ImageFormatPRIVATE PRIVATE}, because the image pixel data is not directly accessible. The application can check the image format by calling {@link ImagegetFormat()}." />
+      <item value="Get the crop rectangle associated with this frame. &lt;p&gt; The crop rectangle specifies the region of valid pixels in the image, using coordinates in the largest-resolution plane." />
+      <item value="planes" />
+      <item value="&lt;p&gt; This class provides the primary method through which data is passed to and from RenderScript kernels. An Allocation provides the backing store for a given {@link android.renderscript.Type}. &lt;p&gt;" />
+      <item value="Bits per pixel is an average for the whole image, so it's useful to compute the size of the full buffer but should not be used to determine pixel offsets" />
       <item value="new Single Thread Executor" />
       <item value="Backpressure" />
       <item value="STRATEGY KEEP ONLY LATEST" />
@@ -41,25 +55,11 @@
       <item value="aka" />
       <item value="Tributes" />
       <item value="来源" />
-      <item value="Judgement" />
-      <item value="on Arrow Up Ctrl Pressed" />
-      <item value="Ctrl" />
-      <item value="StrictMode policy violation; ~duration=11 ms: android.os.strictmode.DiskWriteViolation" />
-      <item value="引导" />
-      <item value="冲锋" />
-      <item value="集结" />
-      <item value="surveillance" />
-      <item value="矩形" />
-      <item value="单位" />
-      <item value="m Alert Point" />
-      <item value="Alert" />
-      <item value="警戒" />
-      <item value="place" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="588" />
-        <entry key="ENGLISH" value="589" />
+        <entry key="CHINESE" value="603" />
+        <entry key="ENGLISH" value="604" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="10" />
@@ -70,6 +70,7 @@
         <entry key="JAPANESE" value="4" />
         <entry key="SWEDISH" value="2" />
         <entry key="WELSH" value="2" />
+        <entry key="SPANISH" value="1" />
         <entry key="GREEK" value="3" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="2" />
@@ -79,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609384133357" />
+    <option name="lastTrimTime" value="1609816170546" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
