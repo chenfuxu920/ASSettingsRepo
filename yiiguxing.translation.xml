@@ -1,10 +1,18 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="islands" />
+      <item value="island" />
+      <item value="is" />
+      <item value="岛屿" />
+      <item value="岛屿&#10;" />
+      <item value="land&#10;" />
+      <item value="land" />
+      <item value="exploded" />
       <item value="Creates a new array with the specified [size], where each element is calculated by calling the specified [init] function. The function [init] is called for each array element sequentially starting from the first one. It should return the value for an array element given its index." />
       <item value="run For Multiple Inputs Outputs" />
       <item value="Compute the FPS of the entire pipeline" />
@@ -47,19 +55,11 @@
       <item value="text Appearance Small Inverse" />
       <item value="Interactive" />
       <item value="interactive" />
-      <item value="from" />
-      <item value="Prepare" />
-      <item value="prepare" />
-      <item value="No Class Def Found Error" />
-      <item value="Failed resolution of:" />
-      <item value="A {@code Future} represents the result of an asynchronous computation. Methods are provided to check if the computation is complete, to wait for its completion, and to retrieve the result of the computation. The result can only be retrieved using method {@code get} when the computation has completed, blocking if necessary until it is ready. Cancellation is performed by the {@code cancel} method. Additional methods are provided to determine if the task completed normally or was cancelled. Once a computation has completed, the computation cannot be cancelled. If you would like to use a {@code Future} for the sake of cancellability but not provide a usable result, you can declare types of the form {@code Future&lt;?&gt;} and return {@code null} as a result of the underlying task." />
-      <item value="expected" />
-      <item value="aka" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="605" />
-        <entry key="ENGLISH" value="606" />
+        <entry key="CHINESE" value="606" />
+        <entry key="ENGLISH" value="607" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="10" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609816170546" />
+    <option name="lastTrimTime" value="1610418494398" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
