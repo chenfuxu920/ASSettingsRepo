@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Devices" />
+      <item value="devices" />
+      <item value="rv devices" />
       <item value="secure" />
       <item value="In an educational UI, explain to the user why your app requires this permission for a specific feature to behave as expected. In this UI, include a &quot;cancel&quot; or &quot;no thanks&quot; button that allows the user to continue using your app without granting the permission." />
       <item value="granted" />
@@ -52,14 +55,11 @@
       <item value="Constant to return from {@link onStartCommand}: if this service's process is killed while it is started (after returning from {@link onStartCommand}), then leave it in the started state but don't retain this delivered intent. Later the system will try to re-create the service. Because it is in the started state, it will guarantee to call {@link onStartCommand} after creating the new service instance; if there are not any pending start commands to be delivered to the service, it will be called with a null intent object, so you must take care to check for this. &lt;p&gt;This mode makes sense for things that will be explicitly started and stopped to run for arbitrary periods of time, such as a service performing background music playback." />
       <item value="parse Subscription From Element" />
       <item value="EXTRA ALLOW PROVISIONING" />
-      <item value="FLAG ACTIVITY NO ANIMATION" />
-      <item value="STYLE SPINNER" />
-      <item value="Build off of nightly TensorFlow Lite" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="620" />
-        <entry key="ENGLISH" value="621" />
+        <entry key="CHINESE" value="624" />
+        <entry key="ENGLISH" value="625" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="10" />
