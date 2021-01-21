@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="可穿戴" />
+      <item value="可穿戴&#10;" />
+      <item value="ke" />
       <item value="Badge" />
       <item value="Vibration" />
       <item value="enable Vibration" />
@@ -52,9 +55,6 @@
       <item value="origin" />
       <item value="Uncomment" />
       <item value="遥控" />
-      <item value="yaok" />
-      <item value="spotless" />
-      <item value="failed to resolve types" />
     </histories>
     <option name="languageScores">
       <map>
