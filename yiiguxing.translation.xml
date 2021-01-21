@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="secure" />
       <item value="In an educational UI, explain to the user why your app requires this permission for a specific feature to behave as expected. In this UI, include a &quot;cancel&quot; or &quot;no thanks&quot; button that allows the user to continue using your app without granting the permission." />
       <item value="granted" />
       <item value="FEATURE INDETERMINATE PROGRESS" />
@@ -54,12 +55,11 @@
       <item value="FLAG ACTIVITY NO ANIMATION" />
       <item value="STYLE SPINNER" />
       <item value="Build off of nightly TensorFlow Lite" />
-      <item value="Patches the application context class loader by appending extra dex files loaded from the application apk. This method should be called in the attachBaseContext of your {@link Application}, see {@link MultiDexApplication} for more explanation and an example. @param context application context. @throws RuntimeException if an error occurred preventing the classloader extension." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="619" />
-        <entry key="ENGLISH" value="620" />
+        <entry key="CHINESE" value="620" />
+        <entry key="ENGLISH" value="621" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="10" />
