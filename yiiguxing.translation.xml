@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Start advertising this device so other BLE devices can see it and connect" />
+      <item value="Advertising" />
+      <item value="start Advertising" />
+      <item value="Advertiser" />
+      <item value="Returns a {@link BluetoothLeAdvertiser} object for Bluetooth LE Advertising operations. Will return null if Bluetooth is turned off or if Bluetooth LE Advertising is not supported on this device. &lt;p&gt; Use {@link isMultipleAdvertisementSupported()} to check whether LE Advertising is supported on this device before calling this method." />
+      <item value="Create a new BluetoothGattCharacteristic. &lt;p&gt;Requires {@link android.Manifest.permissionBLUETOOTH} permission. @param uuid The UUID for this characteristic @param properties Properties of this characteristic @param permissions Permissions for this characteristic" />
+      <item value="PERMISSION" />
+      <item value="PROPERTY" />
+      <item value="PROPERTY WRITE" />
+      <item value="Bluetooth Gatt Characteristic" />
       <item value="UUID identified with this app - set as Service UUID for BLE Chat. Bluetooth requires a certain format for UUIDs associated with Services. The official specification can be found here: [:www.bluetooth.orgen-usspecificationassigned-numbersservice-discovery][https]" />
       <item value="on Failed" />
       <item value="班组" />
@@ -45,21 +55,11 @@
       <item value="Backpressure" />
       <item value="STRATEGY KEEP ONLY LATEST" />
       <item value="LENS FACING BACK" />
-      <item value="计算&#10;" />
-      <item value="This method is invoked on the worker thread with a request to process. Only one Intent is processed at a time, but the processing happens on a worker thread that runs independently from other application logic. So, if this code takes a long time, it will hold up other requests to the same IntentService, but it will not hold up anything else. When all requests have been handled, the IntentService stops itself, so you should not call {@link stopSelf}. @param intent The value passed to {@link android.content.ContextstartService(Intent)}. This may be null if the service is being restarted after its process has gone away; see {@link android.app.ServiceonStartCommand} for details." />
-      <item value="Creates an IntentService. Invoked by your subclass's constructor. @param name Used to name the worker thread, important only for debugging." />
-      <item value="Constant to return from {@link onStartCommand}: if this service's process is killed while it is started (after returning from {@link onStartCommand}), then leave it in the started state but don't retain this delivered intent. Later the system will try to re-create the service. Because it is in the started state, it will guarantee to call {@link onStartCommand} after creating the new service instance; if there are not any pending start commands to be delivered to the service, it will be called with a null intent object, so you must take care to check for this. &lt;p&gt;This mode makes sense for things that will be explicitly started and stopped to run for arbitrary periods of time, such as a service performing background music playback." />
-      <item value="parse Subscription From Element" />
-      <item value="EXTRA ALLOW PROVISIONING" />
-      <item value="FLAG ACTIVITY NO ANIMATION" />
-      <item value="STYLE SPINNER" />
-      <item value="Build off of nightly TensorFlow Lite" />
-      <item value="Patches the application context class loader by appending extra dex files loaded from the application apk. This method should be called in the attachBaseContext of your {@link Application}, see {@link MultiDexApplication} for more explanation and an example. @param context application context. @throws RuntimeException if an error occurred preventing the classloader extension." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="618" />
-        <entry key="ENGLISH" value="619" />
+        <entry key="CHINESE" value="628" />
+        <entry key="ENGLISH" value="629" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="10" />
