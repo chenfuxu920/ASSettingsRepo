@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="班组" />
       <item value="right side" />
       <item value="Marker" />
       <item value="Fragment" />
@@ -54,7 +55,6 @@
       <item value="Patches the application context class loader by appending extra dex files loaded from the application apk. This method should be called in the attachBaseContext of your {@link Application}, see {@link MultiDexApplication} for more explanation and an example. @param context application context. @throws RuntimeException if an error occurred preventing the classloader extension." />
       <item value="ACTION POST CONNECTIVITY CHANGE" />
       <item value="origin" />
-      <item value="Uncomment" />
     </histories>
     <option name="languageScores">
       <map>
