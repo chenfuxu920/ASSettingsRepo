@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Updates the locally stored value of this characteristic. &lt;p&gt;This function modifies the locally stored cached value of this characteristic. To send the value to the remote device, call {@link BluetoothGattwriteCharacteristic} to send the value to the remote device. @param value New value for this characteristic @return true if the locally stored value has been set, false if the requested value could not be stored locally." />
       <item value="Discovered" />
       <item value="on Services Discovered" />
       <item value="object set to use low power (to preserve battery life)." />
@@ -54,12 +55,11 @@
       <item value="Get the array of pixel planes for this Image. The number of planes is determined by the format of the Image. The application will get an empty array if the image format is {@link android.graphics.ImageFormatPRIVATE PRIVATE}, because the image pixel data is not directly accessible. The application can check the image format by calling {@link ImagegetFormat()}." />
       <item value="Get the crop rectangle associated with this frame. &lt;p&gt; The crop rectangle specifies the region of valid pixels in the image, using coordinates in the largest-resolution plane." />
       <item value="planes" />
-      <item value="&lt;p&gt; This class provides the primary method through which data is passed to and from RenderScript kernels. An Allocation provides the backing store for a given {@link android.renderscript.Type}. &lt;p&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="633" />
-        <entry key="ENGLISH" value="634" />
+        <entry key="CHINESE" value="634" />
+        <entry key="ENGLISH" value="635" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="10" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611029675751" />
+    <option name="lastTrimTime" value="1611557689806" />
   </component>
   <component name="Settings">
     <option name="overrideFont" value="true" />
