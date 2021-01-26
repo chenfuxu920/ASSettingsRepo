@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="attitude" />
+      <item value="姿态" />
+      <item value="zhitai" />
+      <item value="zhi" />
+      <item value="zh" />
       <item value="start Advertisement" />
       <item value="discover Services" />
       <item value="Hip joint orientation" />
@@ -50,11 +55,6 @@
       <item value="land&#10;" />
       <item value="land" />
       <item value="exploded" />
-      <item value="Creates a new array with the specified [size], where each element is calculated by calling the specified [init] function. The function [init] is called for each array element sequentially starting from the first one. It should return the value for an array element given its index." />
-      <item value="run For Multiple Inputs Outputs" />
-      <item value="Compute the FPS of the entire pipeline" />
-      <item value="prediction" />
-      <item value="Intrinsic for converting an Android YUV buffer to RGB. The input allocation should be supplied in a supported YUV format as a YUV element Allocation. The output is RGBA; the alpha channel will be set to 255." />
     </histories>
     <option name="languageScores">
       <map>
