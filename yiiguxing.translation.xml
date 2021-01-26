@@ -1,10 +1,17 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Hip joint orientation" />
+      <item value="leftward" />
+      <item value="downward" />
+      <item value="backward" />
+      <item value="rightward" />
+      <item value="upward" />
+      <item value="forward" />
       <item value="UUID identified with this app - set as Service UUID for BLE Chat. Bluetooth requires a certain format for UUIDs associated with Services. The official specification can be found here: [:www.bluetooth.orgen-usspecificationassigned-numbersservice-discovery][https]" />
       <item value="Updates the locally stored value of this characteristic. &lt;p&gt;This function modifies the locally stored cached value of this characteristic. To send the value to the remote device, call {@link BluetoothGattwriteCharacteristic} to send the value to the remote device. @param value New value for this characteristic @return true if the locally stored value has been set, false if the requested value could not be stored locally." />
       <item value="Discovered" />
@@ -48,18 +55,11 @@
       <item value="Intrinsic for converting an Android YUV buffer to RGB. The input allocation should be supplied in a supported YUV format as a YUV element Allocation. The output is RGBA; the alpha channel will be set to 255." />
       <item value="Get the YUV data in byte array form using NV21 format" />
       <item value="Copy from the Allocation into a {@link android.graphics.Bitmap}. The bitmap must match the dimensions of the Allocation. @param b The bitmap to be set from the Allocation." />
-      <item value="pixel Stride" />
-      <item value="Take into account that the stride may include data from pixels other than this particular plane and row, and that could be between pixels and not after every pixel: |---- Pixel stride ----| Row ends here --&gt; | | Pixel 1 | Other Data | Pixel 2 | Other Data | ... | Pixel N | We need to get (N-1) (pixel stride bytes) per row + 1 byte for the last pixel" />
-      <item value="For NV21 format, V is in even-numbered indices" />
-      <item value="For NV21 format, U is in odd-numbered indices" />
-      <item value="Get the array of pixel planes for this Image. The number of planes is determined by the format of the Image. The application will get an empty array if the image format is {@link android.graphics.ImageFormatPRIVATE PRIVATE}, because the image pixel data is not directly accessible. The application can check the image format by calling {@link ImagegetFormat()}." />
-      <item value="Get the crop rectangle associated with this frame. &lt;p&gt; The crop rectangle specifies the region of valid pixels in the image, using coordinates in the largest-resolution plane." />
-      <item value="planes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="635" />
-        <entry key="ENGLISH" value="636" />
+        <entry key="CHINESE" value="641" />
+        <entry key="ENGLISH" value="642" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="10" />
