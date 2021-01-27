@@ -1,10 +1,25 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="chest" />
+      <item value="胸背" />
+      <item value="leg" />
+      <item value="右腿" />
+      <item value="you" />
+      <item value="arm" />
+      <item value="胳膊" />
+      <item value="gebo" />
+      <item value="arm&#10;" />
+      <item value="臂" />
+      <item value="右臂" />
+      <item value="youbi" />
+      <item value="compare To" />
+      <item value="To" />
       <item value="attitude" />
       <item value="姿态" />
       <item value="zhitai" />
@@ -41,25 +56,11 @@
       <item value="right side" />
       <item value="Marker" />
       <item value="Fragment" />
-      <item value="Mark" />
-      <item value="Badge" />
-      <item value="Vibration" />
-      <item value="enable Vibration" />
-      <item value="set Bypass Dnd" />
-      <item value="Trust anchor for certification path not found." />
-      <item value="islands" />
-      <item value="island" />
-      <item value="is" />
-      <item value="岛屿" />
-      <item value="岛屿&#10;" />
-      <item value="land&#10;" />
-      <item value="land" />
-      <item value="exploded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="643" />
-        <entry key="ENGLISH" value="644" />
+        <entry key="CHINESE" value="645" />
+        <entry key="ENGLISH" value="646" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="10" />
