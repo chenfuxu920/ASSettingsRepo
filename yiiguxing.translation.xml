@@ -6,6 +6,12 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="CALLBACK TYPE ALL MATCHES" />
+      <item value="SCAN MODE LOW LATENCY" />
+      <item value="LATENCY" />
+      <item value="BALANCED" />
+      <item value="OPPORTUNISTIC" />
+      <item value="SCAN MODE OPPORTUNISTIC" />
       <item value="paired" />
       <item value="All" />
       <item value="chest" />
@@ -50,17 +56,11 @@
       <item value="Returns a {@link BluetoothLeAdvertiser} object for Bluetooth LE Advertising operations. Will return null if Bluetooth is turned off or if Bluetooth LE Advertising is not supported on this device. &lt;p&gt; Use {@link isMultipleAdvertisementSupported()} to check whether LE Advertising is supported on this device before calling this method." />
       <item value="Create a new BluetoothGattCharacteristic. &lt;p&gt;Requires {@link android.Manifest.permissionBLUETOOTH} permission. @param uuid The UUID for this characteristic @param properties Properties of this characteristic @param permissions Permissions for this characteristic" />
       <item value="PERMISSION" />
-      <item value="PROPERTY" />
-      <item value="PROPERTY WRITE" />
-      <item value="Bluetooth Gatt Characteristic" />
-      <item value="on Failed" />
-      <item value="班组" />
-      <item value="right side" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="647" />
-        <entry key="ENGLISH" value="648" />
+        <entry key="CHINESE" value="653" />
+        <entry key="ENGLISH" value="654" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="10" />
