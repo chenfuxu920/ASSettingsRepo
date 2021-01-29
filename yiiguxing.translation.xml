@@ -6,6 +6,15 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Set whether only legacy advertisments should be returned in scan results. Legacy advertisements include advertisements as specified by the Bluetooth core specification 4.2 and below. This is true by default for compatibility with older apps. @param legacy true if only legacy advertisements will be returned" />
+      <item value="Set match mode for Bluetooth LE scan filters hardware match @param matchMode The match mode can be one of {@link ScanSettingsMATCH_MODE_AGGRESSIVE} or {@link ScanSettingsMATCH_MODE_STICKY} @throws IllegalArgumentException If the {@code matchMode} is invalid." />
+      <item value="Set filter on partial service uuid. The {@code uuidMask} is the bit mask for the {@code serviceUuid}. Set any bit in the mask to 1 to indicate a match is needed for the bit in {@code serviceUuid}, and 0 to ignore that bit. @throws IllegalArgumentException If {@code serviceUuid} is {@code null} but {@code uuidMask} is not {@code null}." />
+      <item value="Set filter on service uuid." />
+      <item value="For sticky mode, higher threshold of signal strength and sightings is required before reporting by hw" />
+      <item value="In Aggressive mode, hw will determine a match sooner even with feeble signal strength and few number of sightingsmatch in a duration." />
+      <item value="Match as many advertisement per filter as hw could allow, depends on current capability and availibility of the resources in hw" />
+      <item value="Match few advertisement per filter, depends on current capability and availibility of the resources in hw" />
+      <item value="Determines how many advertisements to match per filter, as this is scarce hw resource Match one advertisement per filter" />
       <item value="Converts this [Byte] value to [UByte]. If this value is positive, the resulting `UByte` value represents the same numerical value as this `Byte`. The resulting `UByte` value has the same binary representation as this `Byte` value." />
       <item value="Comment out the below line to see all BLE devices around you" />
       <item value="CALLBACK TYPE ALL MATCHES" />
@@ -47,20 +56,11 @@
       <item value="UUID identified with this app - set as Service UUID for BLE Chat. Bluetooth requires a certain format for UUIDs associated with Services. The official specification can be found here: [:www.bluetooth.orgen-usspecificationassigned-numbersservice-discovery][https]" />
       <item value="Updates the locally stored value of this characteristic. &lt;p&gt;This function modifies the locally stored cached value of this characteristic. To send the value to the remote device, call {@link BluetoothGattwriteCharacteristic} to send the value to the remote device. @param value New value for this characteristic @return true if the locally stored value has been set, false if the requested value could not be stored locally." />
       <item value="Discovered" />
-      <item value="on Services Discovered" />
-      <item value="object set to use low power (to preserve battery life)." />
-      <item value="exhaustive" />
-      <item value="destination" />
-      <item value="Start advertising this device so other BLE devices can see it and connect" />
-      <item value="Advertising" />
-      <item value="start Advertising" />
-      <item value="Advertiser" />
-      <item value="Returns a {@link BluetoothLeAdvertiser} object for Bluetooth LE Advertising operations. Will return null if Bluetooth is turned off or if Bluetooth LE Advertising is not supported on this device. &lt;p&gt; Use {@link isMultipleAdvertisementSupported()} to check whether LE Advertising is supported on this device before calling this method." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="655" />
-        <entry key="ENGLISH" value="656" />
+        <entry key="CHINESE" value="664" />
+        <entry key="ENGLISH" value="665" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="10" />
