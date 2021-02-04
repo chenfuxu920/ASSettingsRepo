@@ -6,10 +6,14 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="proj" />
+      <item value="cross" />
+      <item value="mul 1 d" />
+      <item value="dot" />
+      <item value="calculate vector rotation quaternion" />
       <item value="Struct" />
       <item value="btn common task" />
       <item value="common" />
-      <item value="cross" />
       <item value="direction" />
       <item value="不活跃" />
       <item value="buhuoy" />
@@ -52,22 +56,18 @@
       <item value="youbi" />
       <item value="compare To" />
       <item value="To" />
-      <item value="attitude" />
-      <item value="姿态" />
-      <item value="zhitai" />
-      <item value="zhi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="670" />
-        <entry key="ENGLISH" value="671" />
-        <entry key="POLISH" value="1" />
+        <entry key="CHINESE" value="675" />
+        <entry key="ENGLISH" value="675" />
+        <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="11" />
         <entry key="CATALAN" value="2" />
         <entry key="KANNADA" value="1" />
         <entry key="LATIN" value="2" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="ROMANIAN" value="2" />
         <entry key="JAPANESE" value="4" />
         <entry key="SWEDISH" value="2" />
         <entry key="WELSH" value="2" />
