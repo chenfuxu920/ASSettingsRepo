@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The 'kotlin-android-extensions' Gradle plugin is deprecated." />
       <item value="default Nav Host" />
       <item value="exhaustive" />
       <item value="Enqueue a message at the front of the message queue, to be processed on the next iteration of the message loop. You will receive it in {@link handleMessage}, in the thread attached to this handler. &lt;b&gt;This method is only for use in very special circumstances -- it can easily starve the message queue, cause ordering problems, or have other unexpected side-effects.&lt;b&gt; @return Returns true if the message was successfully placed in to the message queue. Returns false on failure, usually because the looper processing the message queue is exiting." />
@@ -55,12 +56,11 @@
       <item value="胳膊" />
       <item value="gebo" />
       <item value="arm&#10;" />
-      <item value="臂" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="678" />
-        <entry key="ENGLISH" value="679" />
+        <entry key="CHINESE" value="679" />
+        <entry key="ENGLISH" value="680" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="11" />
