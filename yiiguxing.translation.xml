@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Locations" />
       <item value="coordinate" />
       <item value="坐标" />
       <item value="volatile" />
@@ -55,12 +56,11 @@
       <item value="LATENCY" />
       <item value="BALANCED" />
       <item value="OPPORTUNISTIC" />
-      <item value="SCAN MODE OPPORTUNISTIC" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="687" />
-        <entry key="ENGLISH" value="688" />
+        <entry key="CHINESE" value="688" />
+        <entry key="ENGLISH" value="689" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="11" />
