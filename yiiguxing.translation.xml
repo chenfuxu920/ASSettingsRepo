@@ -6,6 +6,13 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Tips" />
+      <item value="贴士" />
+      <item value="tieshi" />
+      <item value="ties" />
+      <item value="提示" />
+      <item value="Tip" />
+      <item value="Positive" />
       <item value="Returns a property delegate to access a [ViewModel] scoped to a navigation graph present on the {@link NavController} back stack: ``` class MyFragment : Fragment() { val viewmodel: MainViewModel by navGraphViewModels(R.navigation.main) } ``` Custom [ViewModelProvider.Factory] can be defined via [factoryProducer] parameter, factory returned by it will be used to create [ViewModel]: ``` class MyFragment : Fragment() { val viewmodel: MainViewModel by navGraphViewModels(R.id.main) { myFactory } } ``` This property can be accessed only after this NavGraph is on the NavController back stack, and an attempt access prior to that will result in an IllegalArgumentException. @param navGraphId ID of a NavGraph that exists on the {@link NavController} back stack" />
       <item value="The 'kotlin-android-extensions' Gradle plugin is deprecated." />
       <item value="default Nav Host" />
@@ -49,18 +56,11 @@
       <item value="paired" />
       <item value="All" />
       <item value="chest" />
-      <item value="胸背" />
-      <item value="leg" />
-      <item value="右腿" />
-      <item value="you" />
-      <item value="arm" />
-      <item value="胳膊" />
-      <item value="gebo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="680" />
-        <entry key="ENGLISH" value="681" />
+        <entry key="CHINESE" value="685" />
+        <entry key="ENGLISH" value="686" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="11" />
