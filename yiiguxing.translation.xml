@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="coordinate" />
+      <item value="坐标" />
       <item value="volatile" />
       <item value="Tips" />
       <item value="贴士" />
@@ -54,13 +56,11 @@
       <item value="BALANCED" />
       <item value="OPPORTUNISTIC" />
       <item value="SCAN MODE OPPORTUNISTIC" />
-      <item value="paired" />
-      <item value="All" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="686" />
-        <entry key="ENGLISH" value="687" />
+        <entry key="CHINESE" value="687" />
+        <entry key="ENGLISH" value="688" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="11" />
