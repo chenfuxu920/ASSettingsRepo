@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="巡逻" />
       <item value="confirm" />
       <item value="经度" />
       <item value="Locations" />
@@ -55,7 +56,6 @@
       <item value="Comment out the below line to see all BLE devices around you" />
       <item value="CALLBACK TYPE ALL MATCHES" />
       <item value="SCAN MODE LOW LATENCY" />
-      <item value="LATENCY" />
     </histories>
     <option name="languageScores">
       <map>
