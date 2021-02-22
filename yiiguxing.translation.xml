@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="损坏&#10;" />
+      <item value="损坏" />
+      <item value="s" />
+      <item value="shunhui" />
       <item value="marker" />
       <item value="Mark" />
       <item value="rest" />
@@ -52,10 +56,6 @@
       <item value="De Active Scan" />
       <item value="Active" />
       <item value="Set whether only legacy advertisments should be returned in scan results. Legacy advertisements include advertisements as specified by the Bluetooth core specification 4.2 and below. This is true by default for compatibility with older apps. @param legacy true if only legacy advertisements will be returned" />
-      <item value="Set match mode for Bluetooth LE scan filters hardware match @param matchMode The match mode can be one of {@link ScanSettingsMATCH_MODE_AGGRESSIVE} or {@link ScanSettingsMATCH_MODE_STICKY} @throws IllegalArgumentException If the {@code matchMode} is invalid." />
-      <item value="Set filter on partial service uuid. The {@code uuidMask} is the bit mask for the {@code serviceUuid}. Set any bit in the mask to 1 to indicate a match is needed for the bit in {@code serviceUuid}, and 0 to ignore that bit. @throws IllegalArgumentException If {@code serviceUuid} is {@code null} but {@code uuidMask} is not {@code null}." />
-      <item value="Set filter on service uuid." />
-      <item value="For sticky mode, higher threshold of signal strength and sightings is required before reporting by hw" />
     </histories>
     <option name="languageScores">
       <map>
