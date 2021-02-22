@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="576" />
+    <option name="newTranslationDialogWidth" value="574" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Patrol" />
       <item value="巡逻" />
       <item value="confirm" />
       <item value="经度" />
@@ -55,12 +56,11 @@
       <item value="Converts this [Byte] value to [UByte]. If this value is positive, the resulting `UByte` value represents the same numerical value as this `Byte`. The resulting `UByte` value has the same binary representation as this `Byte` value." />
       <item value="Comment out the below line to see all BLE devices around you" />
       <item value="CALLBACK TYPE ALL MATCHES" />
-      <item value="SCAN MODE LOW LATENCY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="689" />
-        <entry key="ENGLISH" value="690" />
+        <entry key="CHINESE" value="690" />
+        <entry key="ENGLISH" value="691" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="11" />
@@ -81,7 +81,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1612748424286" />
+    <option name="lastTrimTime" value="1613952614285" />
   </component>
   <component name="Settings">
     <option name="overrideFont" value="true" />
