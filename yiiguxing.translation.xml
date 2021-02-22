@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Mark" />
       <item value="rest" />
       <item value="penetration" />
       <item value="Penetration" />
@@ -55,12 +56,11 @@
       <item value="Set filter on service uuid." />
       <item value="For sticky mode, higher threshold of signal strength and sightings is required before reporting by hw" />
       <item value="In Aggressive mode, hw will determine a match sooner even with feeble signal strength and few number of sightingsmatch in a duration." />
-      <item value="Match as many advertisement per filter as hw could allow, depends on current capability and availibility of the resources in hw" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="696" />
-        <entry key="ENGLISH" value="697" />
+        <entry key="CHINESE" value="697" />
+        <entry key="ENGLISH" value="698" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="11" />
