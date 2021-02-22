@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="rest" />
+      <item value="penetration" />
+      <item value="Penetration" />
+      <item value="is Penetration" />
+      <item value="Transportation" />
       <item value="Patrol" />
       <item value="巡逻" />
       <item value="confirm" />
@@ -51,16 +56,11 @@
       <item value="For sticky mode, higher threshold of signal strength and sightings is required before reporting by hw" />
       <item value="In Aggressive mode, hw will determine a match sooner even with feeble signal strength and few number of sightingsmatch in a duration." />
       <item value="Match as many advertisement per filter as hw could allow, depends on current capability and availibility of the resources in hw" />
-      <item value="Match few advertisement per filter, depends on current capability and availibility of the resources in hw" />
-      <item value="Determines how many advertisements to match per filter, as this is scarce hw resource Match one advertisement per filter" />
-      <item value="Converts this [Byte] value to [UByte]. If this value is positive, the resulting `UByte` value represents the same numerical value as this `Byte`. The resulting `UByte` value has the same binary representation as this `Byte` value." />
-      <item value="Comment out the below line to see all BLE devices around you" />
-      <item value="CALLBACK TYPE ALL MATCHES" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="690" />
-        <entry key="ENGLISH" value="691" />
+        <entry key="CHINESE" value="696" />
+        <entry key="ENGLISH" value="697" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="11" />
