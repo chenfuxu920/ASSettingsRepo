@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="未知目标" />
+      <item value="未知" />
+      <item value="failure" />
+      <item value="设备故障" />
+      <item value="设备" />
       <item value="confirm" />
       <item value="损坏&#10;" />
       <item value="损坏" />
@@ -51,16 +56,11 @@
       <item value="buhuoy" />
       <item value="buhuo" />
       <item value="bu" />
-      <item value="De Active" />
-      <item value="De" />
-      <item value="De Active Scan" />
-      <item value="Active" />
-      <item value="Set whether only legacy advertisments should be returned in scan results. Legacy advertisements include advertisements as specified by the Bluetooth core specification 4.2 and below. This is true by default for compatibility with older apps. @param legacy true if only legacy advertisements will be returned" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="699" />
-        <entry key="ENGLISH" value="700" />
+        <entry key="CHINESE" value="700" />
+        <entry key="ENGLISH" value="701" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="11" />
