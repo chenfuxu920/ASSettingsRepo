@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="变量" />
+      <item value="bian" />
       <item value="calling Fragment constructor caused an exception" />
       <item value="host" />
       <item value="Unassigned" />
@@ -54,8 +56,6 @@
       <item value="proj" />
       <item value="cross" />
       <item value="mul 1 d" />
-      <item value="dot" />
-      <item value="calculate vector rotation quaternion" />
     </histories>
     <option name="languageScores">
       <map>
