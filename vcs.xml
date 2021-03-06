@@ -282,6 +282,14 @@
           <option name="url" value="https://github.com/tensorflow/examples.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:FinalTeam/RxGalleryFinal.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:LuckSiege/PictureSelector.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\android_projects\github_demo" />

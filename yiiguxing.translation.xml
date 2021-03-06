@@ -1,72 +1,73 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="574" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="DUAL" />
-      <item value="CLASSIC" />
-      <item value="address" />
-      <item value="Section" />
-      <item value="Devices" />
-      <item value="devices" />
-      <item value="rv devices" />
-      <item value="secure" />
-      <item value="In an educational UI, explain to the user why your app requires this permission for a specific feature to behave as expected. In this UI, include a &quot;cancel&quot; or &quot;no thanks&quot; button that allows the user to continue using your app without granting the permission." />
-      <item value="granted" />
-      <item value="FEATURE INDETERMINATE PROGRESS" />
-      <item value="PROGRESS" />
-      <item value="可穿戴" />
-      <item value="可穿戴&#10;" />
-      <item value="ke" />
-      <item value="Badge" />
-      <item value="Vibration" />
-      <item value="enable Vibration" />
-      <item value="set Bypass Dnd" />
-      <item value="Trust anchor for certification path not found." />
-      <item value="islands" />
-      <item value="island" />
-      <item value="is" />
-      <item value="岛屿" />
-      <item value="岛屿&#10;" />
-      <item value="land&#10;" />
-      <item value="land" />
-      <item value="exploded" />
-      <item value="Creates a new array with the specified [size], where each element is calculated by calling the specified [init] function. The function [init] is called for each array element sequentially starting from the first one. It should return the value for an array element given its index." />
-      <item value="run For Multiple Inputs Outputs" />
-      <item value="Compute the FPS of the entire pipeline" />
-      <item value="prediction" />
-      <item value="Intrinsic for converting an Android YUV buffer to RGB. The input allocation should be supplied in a supported YUV format as a YUV element Allocation. The output is RGBA; the alpha channel will be set to 255." />
-      <item value="Get the YUV data in byte array form using NV21 format" />
-      <item value="Copy from the Allocation into a {@link android.graphics.Bitmap}. The bitmap must match the dimensions of the Allocation. @param b The bitmap to be set from the Allocation." />
-      <item value="pixel Stride" />
-      <item value="Take into account that the stride may include data from pixels other than this particular plane and row, and that could be between pixels and not after every pixel: |---- Pixel stride ----| Row ends here --&gt; | | Pixel 1 | Other Data | Pixel 2 | Other Data | ... | Pixel N | We need to get (N-1) (pixel stride bytes) per row + 1 byte for the last pixel" />
-      <item value="For NV21 format, V is in even-numbered indices" />
-      <item value="For NV21 format, U is in odd-numbered indices" />
-      <item value="Get the array of pixel planes for this Image. The number of planes is determined by the format of the Image. The application will get an empty array if the image format is {@link android.graphics.ImageFormatPRIVATE PRIVATE}, because the image pixel data is not directly accessible. The application can check the image format by calling {@link ImagegetFormat()}." />
-      <item value="Get the crop rectangle associated with this frame. &lt;p&gt; The crop rectangle specifies the region of valid pixels in the image, using coordinates in the largest-resolution plane." />
-      <item value="planes" />
-      <item value="&lt;p&gt; This class provides the primary method through which data is passed to and from RenderScript kernels. An Allocation provides the backing store for a given {@link android.renderscript.Type}. &lt;p&gt;" />
-      <item value="Bits per pixel is an average for the whole image, so it's useful to compute the size of the full buffer but should not be used to determine pixel offsets" />
-      <item value="new Single Thread Executor" />
-      <item value="Backpressure" />
-      <item value="STRATEGY KEEP ONLY LATEST" />
-      <item value="LENS FACING BACK" />
-      <item value="计算&#10;" />
-      <item value="This method is invoked on the worker thread with a request to process. Only one Intent is processed at a time, but the processing happens on a worker thread that runs independently from other application logic. So, if this code takes a long time, it will hold up other requests to the same IntentService, but it will not hold up anything else. When all requests have been handled, the IntentService stops itself, so you should not call {@link stopSelf}. @param intent The value passed to {@link android.content.ContextstartService(Intent)}. This may be null if the service is being restarted after its process has gone away; see {@link android.app.ServiceonStartCommand} for details." />
+      <item value="Failure" />
+      <item value="indeterminate" />
+      <item value="@deprecated &lt;code&gt;ProgressDialog&lt;code&gt; is a modal dialog, which prevents the user from interacting with the app. Instead of using this class, you should use a progress indicator like {@link android.widget.ProgressBar}, which can be embedded in your app's UI. Alternatively, you can use a &lt;a href=&quot;guidetopicsuinotifiersnotifications.html&quot;&gt;notification&lt;a&gt; to inform the user of the task's progress." />
+      <item value="变量" />
+      <item value="bian" />
+      <item value="calling Fragment constructor caused an exception" />
+      <item value="host" />
+      <item value="Unassigned" />
+      <item value="User" />
+      <item value="our" />
+      <item value="我方&#10;" />
+      <item value="own" />
+      <item value="stroke Line Join" />
+      <item value="未知目标" />
+      <item value="未知" />
+      <item value="failure" />
+      <item value="设备故障" />
+      <item value="设备" />
+      <item value="confirm" />
+      <item value="损坏&#10;" />
+      <item value="损坏" />
+      <item value="s" />
+      <item value="shunhui" />
+      <item value="marker" />
+      <item value="Mark" />
+      <item value="rest" />
+      <item value="penetration" />
+      <item value="Penetration" />
+      <item value="is Penetration" />
+      <item value="Transportation" />
+      <item value="Patrol" />
+      <item value="巡逻" />
+      <item value="经度" />
+      <item value="Locations" />
+      <item value="coordinate" />
+      <item value="坐标" />
+      <item value="volatile" />
+      <item value="Tips" />
+      <item value="贴士" />
+      <item value="tieshi" />
+      <item value="ties" />
+      <item value="提示" />
+      <item value="Tip" />
+      <item value="Positive" />
+      <item value="Returns a property delegate to access a [ViewModel] scoped to a navigation graph present on the {@link NavController} back stack: ``` class MyFragment : Fragment() { val viewmodel: MainViewModel by navGraphViewModels(R.navigation.main) } ``` Custom [ViewModelProvider.Factory] can be defined via [factoryProducer] parameter, factory returned by it will be used to create [ViewModel]: ``` class MyFragment : Fragment() { val viewmodel: MainViewModel by navGraphViewModels(R.id.main) { myFactory } } ``` This property can be accessed only after this NavGraph is on the NavController back stack, and an attempt access prior to that will result in an IllegalArgumentException. @param navGraphId ID of a NavGraph that exists on the {@link NavController} back stack" />
+      <item value="The 'kotlin-android-extensions' Gradle plugin is deprecated." />
+      <item value="default Nav Host" />
+      <item value="exhaustive" />
+      <item value="Enqueue a message at the front of the message queue, to be processed on the next iteration of the message loop. You will receive it in {@link handleMessage}, in the thread attached to this handler. &lt;b&gt;This method is only for use in very special circumstances -- it can easily starve the message queue, cause ordering problems, or have other unexpected side-effects.&lt;b&gt; @return Returns true if the message was successfully placed in to the message queue. Returns false on failure, usually because the looper processing the message queue is exiting." />
+      <item value="Enqueue a message into the message queue after all pending messages before the absolute time (in milliseconds) &lt;var&gt;uptimeMillis&lt;var&gt;. &lt;b&gt;The time-base is {@link android.os.SystemClockuptimeMillis}.&lt;b&gt; Time spent in deep sleep will add an additional delay to execution. You will receive it in {@link handleMessage}, in the thread attached to this handler. @param uptimeMillis The absolute time at which the message should be delivered, using the {@link android.os.SystemClockuptimeMillis} time-base. @return Returns true if the message was successfully placed in to the message queue. Returns false on failure, usually because the looper processing the message queue is exiting. Note that a result of true does not mean the message will be processed -- if the looper is quit before the delivery time of the message occurs then the message will be dropped." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="628" />
-        <entry key="ENGLISH" value="629" />
-        <entry key="POLISH" value="1" />
+        <entry key="CHINESE" value="709" />
+        <entry key="ENGLISH" value="710" />
+        <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="10" />
+        <entry key="FRENCH" value="11" />
         <entry key="CATALAN" value="2" />
         <entry key="KANNADA" value="1" />
         <entry key="LATIN" value="2" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="ROMANIAN" value="2" />
         <entry key="JAPANESE" value="4" />
         <entry key="SWEDISH" value="2" />
         <entry key="WELSH" value="2" />
@@ -80,11 +81,12 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611029675751" />
+    <option name="lastTrimTime" value="1614408849911" />
   </component>
   <component name="Settings">
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Arial" />
     <option name="primaryFontFamily" value="SimSun" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
