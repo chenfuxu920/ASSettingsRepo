@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Matter" />
+      <item value="location" />
+      <item value="position" />
       <item value="途经点" />
       <item value="起点" />
       <item value="t" />
@@ -53,14 +56,11 @@
       <item value="坐标" />
       <item value="volatile" />
       <item value="Tips" />
-      <item value="贴士" />
-      <item value="tieshi" />
-      <item value="ties" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="714" />
-        <entry key="ENGLISH" value="715" />
+        <entry key="CHINESE" value="717" />
+        <entry key="ENGLISH" value="718" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="11" />
