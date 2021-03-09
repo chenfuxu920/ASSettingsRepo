@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="penetration" />
       <item value="Matter" />
       <item value="location" />
       <item value="position" />
@@ -44,7 +45,6 @@
       <item value="marker" />
       <item value="Mark" />
       <item value="rest" />
-      <item value="penetration" />
       <item value="Penetration" />
       <item value="is Penetration" />
       <item value="Transportation" />
@@ -59,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="717" />
-        <entry key="ENGLISH" value="718" />
+        <entry key="CHINESE" value="718" />
+        <entry key="ENGLISH" value="719" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="11" />
