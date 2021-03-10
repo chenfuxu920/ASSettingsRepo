@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="proximity Result" />
       <item value="penetration" />
       <item value="Matter" />
       <item value="location" />
@@ -55,12 +56,11 @@
       <item value="coordinate" />
       <item value="坐标" />
       <item value="volatile" />
-      <item value="Tips" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="718" />
-        <entry key="ENGLISH" value="719" />
+        <entry key="CHINESE" value="719" />
+        <entry key="ENGLISH" value="720" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="11" />
