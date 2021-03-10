@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="生成&#10;" />
+      <item value="shengc" />
+      <item value="generation" />
       <item value="proximity Result" />
       <item value="penetration" />
       <item value="Matter" />
@@ -53,14 +56,11 @@
       <item value="巡逻" />
       <item value="经度" />
       <item value="Locations" />
-      <item value="coordinate" />
-      <item value="坐标" />
-      <item value="volatile" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="719" />
-        <entry key="ENGLISH" value="720" />
+        <entry key="CHINESE" value="720" />
+        <entry key="ENGLISH" value="721" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="11" />
