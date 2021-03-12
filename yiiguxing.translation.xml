@@ -1,14 +1,23 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="568" />
+    <option name="newTranslationDialogWidth" value="564" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="无人设备" />
-      <item value="无人" />
+      <item value="arms" />
+      <item value="武器&#10;" />
+      <item value="武器" />
+      <item value="wu" />
+      <item value="wuxi" />
       <item value="无" />
+      <item value="无人" />
+      <item value="无人车" />
+      <item value="无人che" />
+      <item value="无人机" />
+      <item value="Vehicle" />
+      <item value="无人设备" />
       <item value="无人装备" />
       <item value="wuren" />
       <item value="装备" />
@@ -32,7 +41,6 @@
       <item value="matter" />
       <item value="事项" />
       <item value="s" />
-      <item value="Vehicle" />
       <item value="Failure" />
       <item value="indeterminate" />
       <item value="@deprecated &lt;code&gt;ProgressDialog&lt;code&gt; is a modal dialog, which prevents the user from interacting with the app. Instead of using this class, you should use a progress indicator like {@link android.widget.ProgressBar}, which can be embedded in your app's UI. Alternatively, you can use a &lt;a href=&quot;guidetopicsuinotifiersnotifications.html&quot;&gt;notification&lt;a&gt; to inform the user of the task's progress." />
@@ -48,19 +56,11 @@
       <item value="stroke Line Join" />
       <item value="未知目标" />
       <item value="未知" />
-      <item value="failure" />
-      <item value="设备故障" />
-      <item value="设备" />
-      <item value="confirm" />
-      <item value="损坏&#10;" />
-      <item value="损坏" />
-      <item value="shunhui" />
-      <item value="marker" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="722" />
-        <entry key="ENGLISH" value="723" />
+        <entry key="CHINESE" value="723" />
+        <entry key="ENGLISH" value="724" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="11" />
