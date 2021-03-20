@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="TOPOGRAPHIC" />
+      <item value="OCEANS" />
       <item value="Mobile map package contains raster data that requires the mobile map package to be unpacked in a directory before use." />
       <item value="chatty" />
       <item value="后台运行" />
@@ -54,13 +56,11 @@
       <item value="Positive" />
       <item value="Drawble" />
       <item value="Drawable" />
-      <item value="matter" />
-      <item value="事项" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="729" />
-        <entry key="ENGLISH" value="730" />
+        <entry key="CHINESE" value="731" />
+        <entry key="ENGLISH" value="732" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="12" />
