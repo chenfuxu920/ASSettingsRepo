@@ -1,11 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="564" />
+    <option name="newTranslationDialogWidth" value="562" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="后台运行" />
+      <item value="后台yu" />
+      <item value="后台yuxn" />
+      <item value="后台xun" />
+      <item value="后台xunx" />
+      <item value="run On Backing" />
+      <item value="run On Backed" />
       <item value="Strip" />
       <item value="Shown" />
       <item value="marker" />
@@ -49,18 +56,11 @@
       <item value="事项" />
       <item value="s" />
       <item value="Failure" />
-      <item value="indeterminate" />
-      <item value="@deprecated &lt;code&gt;ProgressDialog&lt;code&gt; is a modal dialog, which prevents the user from interacting with the app. Instead of using this class, you should use a progress indicator like {@link android.widget.ProgressBar}, which can be embedded in your app's UI. Alternatively, you can use a &lt;a href=&quot;guidetopicsuinotifiersnotifications.html&quot;&gt;notification&lt;a&gt; to inform the user of the task's progress." />
-      <item value="变量" />
-      <item value="bian" />
-      <item value="calling Fragment constructor caused an exception" />
-      <item value="host" />
-      <item value="Unassigned" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="726" />
-        <entry key="ENGLISH" value="727" />
+        <entry key="CHINESE" value="728" />
+        <entry key="ENGLISH" value="729" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="12" />
