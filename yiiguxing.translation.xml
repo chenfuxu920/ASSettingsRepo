@@ -6,6 +6,12 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="平板电脑" />
+      <item value="平板dian" />
+      <item value="pingb" />
+      <item value="tablet" />
+      <item value="平板" />
+      <item value="platform" />
       <item value="For some reason the multiple keyevent type is not supported by the ndk. Force event injection by overriding dispatchKeyEvent()." />
       <item value="{@link getAction} value: multiple duplicate key events have occurred in a row, or a complex string is being delivered. If the key code is not {link {@link KEYCODE_UNKNOWN} then the {link {@link getRepeatCount()} method returns the number of times the given key code should be executed. Otherwise, if the key code is {@link KEYCODE_UNKNOWN}, then this is a sequence of characters as returned by {@link getCharacters}." />
       <item value="Called when a generic motion event was not handled by any of the views inside of the activity. &lt;p&gt; Generic motion events describe joystick movements, mouse hovers, track pad touches, scroll wheel movements and other input events. The {@link MotionEventgetSource() source} of the motion event specifies the class of input that was received. Implementations of this method must examine the bits in the source before processing the event. The following code example shows how this is done. &lt;p&gt;&lt;p&gt; Generic motion events with source class {@link android.view.InputDeviceSOURCE_CLASS_POINTER} are delivered to the view under the pointer. All other generic motion events ar delivered to the focused view. &lt;p&gt;&lt;p&gt; See {@link ViewonGenericMotionEvent(MotionEvent)} for an example of how to handle this event. &lt;p&gt; @param event The generic motion event being processed. @return Return true if you have consumed the event, false if you haven't. The default implementation always returns false." />
@@ -50,17 +56,11 @@
       <item value="generation" />
       <item value="proximity Result" />
       <item value="penetration" />
-      <item value="Matter" />
-      <item value="location" />
-      <item value="position" />
-      <item value="途经点" />
-      <item value="起点" />
-      <item value="t" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="734" />
-        <entry key="ENGLISH" value="735" />
+        <entry key="CHINESE" value="736" />
+        <entry key="ENGLISH" value="737" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="12" />
