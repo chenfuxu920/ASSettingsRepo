@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="register Data Set Observer" />
       <item value="percentage Complete" />
       <item value="noinline" />
       <item value="disable Edit" />
@@ -55,12 +56,11 @@
       <item value="equipage" />
       <item value="Emitter" />
       <item value="Geometry Dimension" />
-      <item value="生成&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="740" />
-        <entry key="ENGLISH" value="741" />
+        <entry key="CHINESE" value="741" />
+        <entry key="ENGLISH" value="742" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="12" />
