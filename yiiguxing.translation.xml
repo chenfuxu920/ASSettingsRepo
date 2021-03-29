@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="MODE MULTI" />
+      <item value="muc" />
+      <item value="Adhoc" />
+      <item value="trim" />
       <item value="register Data Set Observer" />
       <item value="percentage Complete" />
       <item value="noinline" />
@@ -52,17 +56,13 @@
       <item value="无人设备" />
       <item value="无人装备" />
       <item value="wuren" />
-      <item value="装备" />
-      <item value="equipage" />
-      <item value="Emitter" />
-      <item value="Geometry Dimension" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="741" />
-        <entry key="ENGLISH" value="742" />
+        <entry key="CHINESE" value="744" />
+        <entry key="ENGLISH" value="745" />
         <entry key="POLISH" value="2" />
-        <entry key="GERMAN" value="1" />
+        <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
         <entry key="CATALAN" value="2" />
         <entry key="KANNADA" value="1" />
@@ -77,6 +77,7 @@
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="3" />
         <entry key="INDONESIAN" value="2" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
