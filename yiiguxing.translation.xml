@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sets the position of the animation to the specified fraction. This fraction should be between 0 and the total fraction of the animation, including any repetition. That is, a fraction of 0 will position the animation at the beginning, a value of 1 at the end, and a value of 2 at the end of a reversing animator that repeats once. If the animation has not yet been started, then it will not advance forward after it is set to this fraction; it will simply set the fraction to this value and perform any appropriate actions based on that fraction. If the animation is already running, then setCurrentFraction() will set the current fraction to this value and continue playing from that point. {@link Animator.AnimatorListener} events are not called due to changing the fraction; those events are only processed while the animation is running. @param fraction The fraction to which the animation is advanced or rewound. Values outside the range of 0 to the maximum fraction for the animator will be clamped to the correct range." />
+      <item value="Fraction" />
+      <item value="set Current Fraction" />
+      <item value="DASH" />
+      <item value="indefinitely" />
       <item value="multiplied By" />
       <item value="multiplied" />
       <item value="divided By" />
@@ -51,16 +56,11 @@
       <item value="用户guan" />
       <item value="取消" />
       <item value="arms" />
-      <item value="武器&#10;" />
-      <item value="武器" />
-      <item value="wu" />
-      <item value="wuxi" />
-      <item value="无" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="751" />
-        <entry key="ENGLISH" value="752" />
+        <entry key="CHINESE" value="756" />
+        <entry key="ENGLISH" value="757" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
