@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="File unsuitable for memory mapping" />
       <item value="Return the total size of the file representing this fd, as determined by {@code stat()}. Returns -1 if the fd is not a file." />
       <item value="is Pulsing Internal" />
       <item value="set Current Fraction" />
@@ -55,12 +56,11 @@
       <item value="marker" />
       <item value="Lisenter" />
       <item value="用户管理" />
-      <item value="用户guan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="759" />
-        <entry key="ENGLISH" value="760" />
+        <entry key="CHINESE" value="760" />
+        <entry key="ENGLISH" value="761" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
