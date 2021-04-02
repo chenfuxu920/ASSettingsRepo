@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Reads the next byte of data from the input stream. The value byte is returned as an &lt;code&gt;int&lt;code&gt; in the range &lt;code&gt;0&lt;code&gt; to &lt;code&gt;255&lt;code&gt;. If no byte is available because the end of the stream has been reached, the value &lt;code&gt;-1&lt;code&gt; is returned. This method blocks until input data is available, the end of the stream is detected, or an exception is thrown. &lt;p&gt; A subclass must provide an implementation of this method. @return the next byte of data, or &lt;code&gt;-1&lt;code&gt; if the end of the stream is reached. @exception IOException if an IO error occurs." />
+      <item value="Returns an estimate of the number of remaining bytes that can be read (or skipped over) from this input stream without blocking by the next invocation of a method for this input stream. Returns 0 when the file position is beyond EOF. The next invocation might be the same thread or another thread. A single read or skip of this many bytes will not block, but may read or skip fewer bytes. &lt;p&gt; In some cases, a non-blocking read (or skip) may appear to be blocked when it is merely slow, for example when reading large files over slow networks. @return an estimate of the number of remaining bytes that can be read (or skipped over) from this input stream without blocking. @exception IOException if this file input stream has been closed by calling {@code close} or an IO error occurs." />
       <item value="File unsuitable for memory mapping" />
       <item value="Return the total size of the file representing this fd, as determined by {@code stat()}. Returns -1 if the fd is not a file." />
       <item value="is Pulsing Internal" />
@@ -54,13 +56,11 @@
       <item value="Strip" />
       <item value="Shown" />
       <item value="marker" />
-      <item value="Lisenter" />
-      <item value="用户管理" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="760" />
-        <entry key="ENGLISH" value="761" />
+        <entry key="CHINESE" value="762" />
+        <entry key="ENGLISH" value="763" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
