@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="TLS CERT POLICY INSECURE NO CHECK" />
+      <item value="TLS" />
       <item value="UNINITIALIZED" />
       <item value="HEADSET UNAVAILABLE" />
       <item value="Abandoned" />
@@ -54,8 +56,6 @@
       <item value="后台yuxn" />
       <item value="后台xun" />
       <item value="后台xunx" />
-      <item value="run On Backing" />
-      <item value="run On Backed" />
     </histories>
     <option name="languageScores">
       <map>
