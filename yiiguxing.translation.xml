@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The channel to the framework has been disconnected. Application could try re-initializing using {@link initialize}" />
+      <item value="Indicates if a p2p group has been successfully formed" />
+      <item value="group Formed" />
       <item value="Justify " />
       <item value="treat As Downloadable" />
       <item value="As" />
@@ -53,14 +56,11 @@
       <item value="TOPOGRAPHIC" />
       <item value="OCEANS" />
       <item value="Mobile map package contains raster data that requires the mobile map package to be unpacked in a directory before use." />
-      <item value="chatty" />
-      <item value="后台运行" />
-      <item value="后台yu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="765" />
-        <entry key="ENGLISH" value="766" />
+        <entry key="CHINESE" value="768" />
+        <entry key="ENGLISH" value="769" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
