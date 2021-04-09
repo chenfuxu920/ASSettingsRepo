@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="destination" />
       <item value="剩下的" />
       <item value="yu" />
       <item value="余数" />
@@ -55,12 +56,11 @@
       <item value="pingb" />
       <item value="tablet" />
       <item value="平板" />
-      <item value="platform" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="770" />
-        <entry key="ENGLISH" value="771" />
+        <entry key="CHINESE" value="771" />
+        <entry key="ENGLISH" value="772" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
