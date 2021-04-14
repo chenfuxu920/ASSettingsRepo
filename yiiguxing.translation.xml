@@ -6,6 +6,17 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="`ABSOLUTE`, position graphic using only its Z value. `RELATIVE`, position graphic using its Z value plus the altitude values of the scene. `DRAPED_BILLBOARDED`, position graphic upright on the surface and always facing the camera, not using its z value. `DRAPED_FLAT`, position graphic flat on the surface, not using its z value. `RELATIVE_TO_SCENE`, position graphic using the Z value of the scene layer.`" />
+      <item value="scene" />
+      <item value="surface" />
+      <item value="TRIANGLE" />
+      <item value="ABSOLUTE" />
+      <item value="RELATIVE" />
+      <item value="BILLBOARDED" />
+      <item value="DRAPED BILLBOARDED" />
+      <item value="DRAPED" />
+      <item value="draped Flat Overlay" />
+      <item value="draped Billboarded Overlay" />
       <item value="Auto Pan Mode" />
       <item value="Mode" />
       <item value="DYNAMIC" />
@@ -45,17 +56,6 @@
       <item value="Reads the next byte of data from the input stream. The value byte is returned as an &lt;code&gt;int&lt;code&gt; in the range &lt;code&gt;0&lt;code&gt; to &lt;code&gt;255&lt;code&gt;. If no byte is available because the end of the stream has been reached, the value &lt;code&gt;-1&lt;code&gt; is returned. This method blocks until input data is available, the end of the stream is detected, or an exception is thrown. &lt;p&gt; A subclass must provide an implementation of this method. @return the next byte of data, or &lt;code&gt;-1&lt;code&gt; if the end of the stream is reached. @exception IOException if an IO error occurs." />
       <item value="Returns an estimate of the number of remaining bytes that can be read (or skipped over) from this input stream without blocking by the next invocation of a method for this input stream. Returns 0 when the file position is beyond EOF. The next invocation might be the same thread or another thread. A single read or skip of this many bytes will not block, but may read or skip fewer bytes. &lt;p&gt; In some cases, a non-blocking read (or skip) may appear to be blocked when it is merely slow, for example when reading large files over slow networks. @return an estimate of the number of remaining bytes that can be read (or skipped over) from this input stream without blocking. @exception IOException if this file input stream has been closed by calling {@code close} or an IO error occurs." />
       <item value="File unsuitable for memory mapping" />
-      <item value="Return the total size of the file representing this fd, as determined by {@code stat()}. Returns -1 if the fd is not a file." />
-      <item value="is Pulsing Internal" />
-      <item value="set Current Fraction" />
-      <item value="Sets the position of the animation to the specified fraction. This fraction should be between 0 and the total fraction of the animation, including any repetition. That is, a fraction of 0 will position the animation at the beginning, a value of 1 at the end, and a value of 2 at the end of a reversing animator that repeats once. If the animation has not yet been started, then it will not advance forward after it is set to this fraction; it will simply set the fraction to this value and perform any appropriate actions based on that fraction. If the animation is already running, then setCurrentFraction() will set the current fraction to this value and continue playing from that point. {@link Animator.AnimatorListener} events are not called due to changing the fraction; those events are only processed while the animation is running. @param fraction The fraction to which the animation is advanced or rewound. Values outside the range of 0 to the maximum fraction for the animator will be clamped to the correct range." />
-      <item value="Fraction" />
-      <item value="DASH" />
-      <item value="indefinitely" />
-      <item value="multiplied By" />
-      <item value="multiplied" />
-      <item value="divided By" />
-      <item value="m Conference Adapter" />
     </histories>
     <option name="languageScores">
       <map>
