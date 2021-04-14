@@ -6,9 +6,16 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="DYNAMIC" />
+      <item value="vertical Accuracy" />
+      <item value="horizontal Accuracy" />
+      <item value="velocity" />
+      <item value="Simple Renderer" />
+      <item value="renderer" />
+      <item value="operational Layers" />
+      <item value="Raster Elevation Source" />
       <item value="elevation Sources" />
       <item value="elevation" />
-      <item value="Raster Elevation Source" />
       <item value="raster&#10;" />
       <item value="ras" />
       <item value="terrain" />
@@ -49,13 +56,6 @@
       <item value="m Conference Adapter" />
       <item value="m Adhoc Conference Callback" />
       <item value="Quote" />
-      <item value="过期&#10;" />
-      <item value="for Each Remaining" />
-      <item value="MODE MULTI" />
-      <item value="muc" />
-      <item value="Adhoc" />
-      <item value="trim" />
-      <item value="register Data Set Observer" />
     </histories>
     <option name="languageScores">
       <map>
