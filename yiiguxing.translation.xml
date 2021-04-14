@@ -1,11 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="556" />
+    <option name="newTranslationDialogWidth" value="554" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="elevation Sources" />
+      <item value="elevation" />
+      <item value="Raster Elevation Source" />
+      <item value="raster&#10;" />
+      <item value="ras" />
+      <item value="terrain" />
+      <item value="terr" />
       <item value="Initiate peer discovery. A discovery process involves scanning for available Wi-Fi peers for the purpose of establishing a connection. &lt;p&gt; The function call immediately returns after sending a discovery request to the framework. The application is notified of a success or failure to initiate discovery through listener callbacks {@link ActionListeneronSuccess} or {@link ActionListeneronFailure}. &lt;p&gt; The discovery remains active until a connection is initiated or a p2p group is formed. Register for {@link WIFI_P2P_PEERS_CHANGED_ACTION} intent to determine when the framework notifies of a change as peers are discovered. &lt;p&gt; Upon receiving a {@link WIFI_P2P_PEERS_CHANGED_ACTION} intent, an application can request for the list of peers using {@link requestPeers}. @param c is the channel created at {@link initialize} @param listener for callbacks on success or failure. Can be null." />
       <item value="exists" />
       <item value="destination" />
@@ -49,13 +56,6 @@
       <item value="Adhoc" />
       <item value="trim" />
       <item value="register Data Set Observer" />
-      <item value="percentage Complete" />
-      <item value="noinline" />
-      <item value="disable Edit" />
-      <item value="disable" />
-      <item value="平板电脑" />
-      <item value="平板dian" />
-      <item value="pingb" />
     </histories>
     <option name="languageScores">
       <map>
