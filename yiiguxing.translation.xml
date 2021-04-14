@@ -6,10 +6,20 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="m Orbit Camera Controller" />
+      <item value="Load the plane model from the cache, use to construct a Model Scene Symbol and add it to the scene's graphic overlay." />
+      <item value="Model Scene Symbol" />
+      <item value="set Rotation Expression" />
+      <item value="TRIANGLE" />
+      <item value="set Roll Expression" />
+      <item value="set Pitch Expression" />
+      <item value="set Heading Expression" />
+      <item value="Loads the mission data from a .csv file into memory. @param mission name of the .csv file containing the mission data @return ordered list of mapped key value pairs representing coordinates and rotation parameters for each step of the mission" />
+      <item value="Use the slider to update terrain exaggeration." />
+      <item value="Vertical exaggeration can be used to emphasize subtle changes in a surface. This can be useful in creating visualizations of terrain where the horizontal extent of the surface is significantly greater than the amount of vertical change in the surface. A fractional vertical exaggeration can be used to flatten surfaces or features that have extreme vertical variation." />
       <item value="`ABSOLUTE`, position graphic using only its Z value. `RELATIVE`, position graphic using its Z value plus the altitude values of the scene. `DRAPED_BILLBOARDED`, position graphic upright on the surface and always facing the camera, not using its z value. `DRAPED_FLAT`, position graphic flat on the surface, not using its z value. `RELATIVE_TO_SCENE`, position graphic using the Z value of the scene layer.`" />
       <item value="scene" />
       <item value="surface" />
-      <item value="TRIANGLE" />
       <item value="ABSOLUTE" />
       <item value="RELATIVE" />
       <item value="BILLBOARDED" />
@@ -46,16 +56,6 @@
       <item value="Indicates if a p2p group has been successfully formed" />
       <item value="group Formed" />
       <item value="Justify " />
-      <item value="treat As Downloadable" />
-      <item value="As" />
-      <item value="TLS CERT POLICY INSECURE NO CHECK" />
-      <item value="TLS" />
-      <item value="UNINITIALIZED" />
-      <item value="HEADSET UNAVAILABLE" />
-      <item value="Abandoned" />
-      <item value="Reads the next byte of data from the input stream. The value byte is returned as an &lt;code&gt;int&lt;code&gt; in the range &lt;code&gt;0&lt;code&gt; to &lt;code&gt;255&lt;code&gt;. If no byte is available because the end of the stream has been reached, the value &lt;code&gt;-1&lt;code&gt; is returned. This method blocks until input data is available, the end of the stream is detected, or an exception is thrown. &lt;p&gt; A subclass must provide an implementation of this method. @return the next byte of data, or &lt;code&gt;-1&lt;code&gt; if the end of the stream is reached. @exception IOException if an IO error occurs." />
-      <item value="Returns an estimate of the number of remaining bytes that can be read (or skipped over) from this input stream without blocking by the next invocation of a method for this input stream. Returns 0 when the file position is beyond EOF. The next invocation might be the same thread or another thread. A single read or skip of this many bytes will not block, but may read or skip fewer bytes. &lt;p&gt; In some cases, a non-blocking read (or skip) may appear to be blocked when it is merely slow, for example when reading large files over slow networks. @return an estimate of the number of remaining bytes that can be read (or skipped over) from this input stream without blocking. @exception IOException if this file input stream has been closed by calling {@code close} or an IO error occurs." />
-      <item value="File unsuitable for memory mapping" />
     </histories>
     <option name="languageScores">
       <map>
