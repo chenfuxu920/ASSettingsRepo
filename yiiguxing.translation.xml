@@ -6,6 +6,14 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="add a camera and set it to orbit the location point" />
+      <item value="Geoprocessing Task" />
+      <item value="Calculate a viewshed using a geoprocessing service, in this case showing what parts of a landscape are visible from points on mountainous terrain." />
+      <item value="schedule At Fixed Rate" />
+      <item value="move toward waypoint a short distance" />
+      <item value="Geodetic" />
+      <item value="move Geodetic" />
+      <item value="Model Scene Symbol" />
       <item value="add an integrated mesh layer to the scene" />
       <item value="mesh" />
       <item value="get Elevation Sources" />
@@ -42,20 +50,12 @@
       <item value="elevation Source" />
       <item value="m Orbit Camera Controller" />
       <item value="Load the plane model from the cache, use to construct a Model Scene Symbol and add it to the scene's graphic overlay." />
-      <item value="Model Scene Symbol" />
       <item value="set Rotation Expression" />
       <item value="TRIANGLE" />
       <item value="set Roll Expression" />
       <item value="set Pitch Expression" />
       <item value="set Heading Expression" />
       <item value="Loads the mission data from a .csv file into memory. @param mission name of the .csv file containing the mission data @return ordered list of mapped key value pairs representing coordinates and rotation parameters for each step of the mission" />
-      <item value="Use the slider to update terrain exaggeration." />
-      <item value="Vertical exaggeration can be used to emphasize subtle changes in a surface. This can be useful in creating visualizations of terrain where the horizontal extent of the surface is significantly greater than the amount of vertical change in the surface. A fractional vertical exaggeration can be used to flatten surfaces or features that have extreme vertical variation." />
-      <item value="`ABSOLUTE`, position graphic using only its Z value. `RELATIVE`, position graphic using its Z value plus the altitude values of the scene. `DRAPED_BILLBOARDED`, position graphic upright on the surface and always facing the camera, not using its z value. `DRAPED_FLAT`, position graphic flat on the surface, not using its z value. `RELATIVE_TO_SCENE`, position graphic using the Z value of the scene layer.`" />
-      <item value="scene" />
-      <item value="surface" />
-      <item value="ABSOLUTE" />
-      <item value="RELATIVE" />
     </histories>
     <option name="languageScores">
       <map>
