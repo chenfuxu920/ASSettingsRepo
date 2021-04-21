@@ -6,6 +6,14 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="reason" />
+      <item value="negative" />
+      <item value="nega" />
+      <item value="positive" />
+      <item value="positi" />
+      <item value="posi" />
+      <item value="sh" />
+      <item value="shi" />
       <item value="水平的" />
       <item value="水平" />
       <item value="shuip" />
@@ -48,14 +56,6 @@
       <item value="Stretch Renderer" />
       <item value="Use a stretch renderer to enhance the visual contrast of raster data for analysis." />
       <item value="Geodatabase Feature Table" />
-      <item value="OBJECTID" />
-      <item value="Image Service Raster" />
-      <item value="Service" />
-      <item value="Apply mosaic rule to a mosaic dataset of rasters." />
-      <item value="create an image with the given path and use it to create an image frame" />
-      <item value="pacific Southwest Envelope" />
-      <item value="create an envelope of the pacific southwest sector for displaying the image frame" />
-      <item value="elevation Source" />
     </histories>
     <option name="languageScores">
       <map>
