@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="554" />
+    <option name="newTranslationDialogWidth" value="552" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="水平的" />
+      <item value="水平" />
+      <item value="shuip" />
+      <item value="shui" />
+      <item value="interval" />
       <item value="SSL handshake aborted: ssl=0xe0ad0448: Failure in SSL library, usually a protocol error error:10000412:SSL routines:OPENSSL_internal:SSLV3_ALERT_BAD_CERTIFICATE (usrlocalgooglehomeflooeycodeboringsslssltls_record.cc:587 0xba2cfdc8:0x00000001)" />
       <item value="SSL handshake aborted: ssl=0xe0acfb88: Failure in SSL library, usually a protocol error error:10000412:SSL routines:OPENSSL_internal:SSLV3_ALERT_BAD_CERTIFICATE (usrlocalgooglehomeflooeycodeboringsslssltls_record.cc:587 0xb9f60b88:0x00000001)" />
       <item value="ARCGIS TOPOGRAPHIC" />
@@ -51,11 +56,6 @@
       <item value="pacific Southwest Envelope" />
       <item value="create an envelope of the pacific southwest sector for displaying the image frame" />
       <item value="elevation Source" />
-      <item value="m Orbit Camera Controller" />
-      <item value="Load the plane model from the cache, use to construct a Model Scene Symbol and add it to the scene's graphic overlay." />
-      <item value="set Rotation Expression" />
-      <item value="TRIANGLE" />
-      <item value="set Roll Expression" />
     </histories>
     <option name="languageScores">
       <map>
@@ -82,7 +82,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618190874850" />
+    <option name="lastTrimTime" value="1618991405004" />
   </component>
   <component name="Settings">
     <option name="overrideFont" value="true" />
