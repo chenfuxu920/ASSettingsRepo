@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="附件" />
       <item value="reason" />
       <item value="negative" />
       <item value="nega" />
@@ -55,7 +56,6 @@
       <item value="Percent Clip Stretch Parameters" />
       <item value="Stretch Renderer" />
       <item value="Use a stretch renderer to enhance the visual contrast of raster data for analysis." />
-      <item value="Geodatabase Feature Table" />
     </histories>
     <option name="languageScores">
       <map>
