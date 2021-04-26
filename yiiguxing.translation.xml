@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="useful" />
       <item value="Potal" />
       <item value="arrow" />
       <item value="附件" />
@@ -55,7 +56,6 @@
       <item value="1. Create a `Raster` from a raster file. 2. Create a `RasterLayer` from the raster. 3. Create a `Basemap` from the raster layer with `Basemap(RasterLayer)` and set it to the map with `ArcGISMap(basemap)`. 4. Create a `StretchRenderer`, specifying the stretch parameters and other properties. 5. Set the stretch renderer on the raster layer with `rasterLayer.setRasterRenderer(stretchRenderer)`." />
       <item value="Choose one of the stretch parameter types from the wrench icon in the action bar: Standard deviation - a linear stretch defined by the standard deviation of the pixel values Min-max - a linear stretch based on minimum and maximum pixel values Percent clip - a linear stretch between the defined percent clip minimum and percent clip maximum pixel values Then configure the parameters and tap 'Render'." />
       <item value="An appropriate stretch renderer can enhance the contrast of raster imagery, allowing the user to control how their data is displayed for efficient imagery analysis." />
-      <item value="Percent Clip Stretch Parameters" />
     </histories>
     <option name="languageScores">
       <map>
