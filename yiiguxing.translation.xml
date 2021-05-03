@@ -1,69 +1,69 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="574" />
+    <option name="newTranslationDialogWidth" value="552" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="Failure" />
-      <item value="indeterminate" />
-      <item value="@deprecated &lt;code&gt;ProgressDialog&lt;code&gt; is a modal dialog, which prevents the user from interacting with the app. Instead of using this class, you should use a progress indicator like {@link android.widget.ProgressBar}, which can be embedded in your app's UI. Alternatively, you can use a &lt;a href=&quot;guidetopicsuinotifiersnotifications.html&quot;&gt;notification&lt;a&gt; to inform the user of the task's progress." />
-      <item value="变量" />
-      <item value="bian" />
-      <item value="calling Fragment constructor caused an exception" />
-      <item value="host" />
-      <item value="Unassigned" />
-      <item value="User" />
-      <item value="our" />
-      <item value="我方&#10;" />
-      <item value="own" />
-      <item value="stroke Line Join" />
-      <item value="未知目标" />
-      <item value="未知" />
-      <item value="failure" />
-      <item value="设备故障" />
-      <item value="设备" />
-      <item value="confirm" />
-      <item value="损坏&#10;" />
-      <item value="损坏" />
-      <item value="s" />
-      <item value="shunhui" />
-      <item value="marker" />
-      <item value="Mark" />
-      <item value="rest" />
-      <item value="penetration" />
-      <item value="Penetration" />
-      <item value="is Penetration" />
-      <item value="Transportation" />
-      <item value="Patrol" />
-      <item value="巡逻" />
-      <item value="经度" />
-      <item value="Locations" />
-      <item value="coordinate" />
-      <item value="坐标" />
-      <item value="volatile" />
-      <item value="Tips" />
-      <item value="贴士" />
-      <item value="tieshi" />
-      <item value="ties" />
-      <item value="提示" />
-      <item value="Tip" />
-      <item value="Positive" />
-      <item value="Returns a property delegate to access a [ViewModel] scoped to a navigation graph present on the {@link NavController} back stack: ``` class MyFragment : Fragment() { val viewmodel: MainViewModel by navGraphViewModels(R.navigation.main) } ``` Custom [ViewModelProvider.Factory] can be defined via [factoryProducer] parameter, factory returned by it will be used to create [ViewModel]: ``` class MyFragment : Fragment() { val viewmodel: MainViewModel by navGraphViewModels(R.id.main) { myFactory } } ``` This property can be accessed only after this NavGraph is on the NavController back stack, and an attempt access prior to that will result in an IllegalArgumentException. @param navGraphId ID of a NavGraph that exists on the {@link NavController} back stack" />
-      <item value="The 'kotlin-android-extensions' Gradle plugin is deprecated." />
-      <item value="default Nav Host" />
-      <item value="exhaustive" />
-      <item value="Enqueue a message at the front of the message queue, to be processed on the next iteration of the message loop. You will receive it in {@link handleMessage}, in the thread attached to this handler. &lt;b&gt;This method is only for use in very special circumstances -- it can easily starve the message queue, cause ordering problems, or have other unexpected side-effects.&lt;b&gt; @return Returns true if the message was successfully placed in to the message queue. Returns false on failure, usually because the looper processing the message queue is exiting." />
-      <item value="Enqueue a message into the message queue after all pending messages before the absolute time (in milliseconds) &lt;var&gt;uptimeMillis&lt;var&gt;. &lt;b&gt;The time-base is {@link android.os.SystemClockuptimeMillis}.&lt;b&gt; Time spent in deep sleep will add an additional delay to execution. You will receive it in {@link handleMessage}, in the thread attached to this handler. @param uptimeMillis The absolute time at which the message should be delivered, using the {@link android.os.SystemClockuptimeMillis} time-base. @return Returns true if the message was successfully placed in to the message queue. Returns false on failure, usually because the looper processing the message queue is exiting. Note that a result of true does not mean the message will be processed -- if the looper is quit before the delivery time of the message occurs then the message will be dropped." />
+      <item value="Potal" />
+      <item value="arrow" />
+      <item value="附件" />
+      <item value="reason" />
+      <item value="negative" />
+      <item value="nega" />
+      <item value="positive" />
+      <item value="positi" />
+      <item value="posi" />
+      <item value="sh" />
+      <item value="shi" />
+      <item value="水平的" />
+      <item value="水平" />
+      <item value="shuip" />
+      <item value="shui" />
+      <item value="interval" />
+      <item value="SSL handshake aborted: ssl=0xe0ad0448: Failure in SSL library, usually a protocol error error:10000412:SSL routines:OPENSSL_internal:SSLV3_ALERT_BAD_CERTIFICATE (usrlocalgooglehomeflooeycodeboringsslssltls_record.cc:587 0xba2cfdc8:0x00000001)" />
+      <item value="SSL handshake aborted: ssl=0xe0acfb88: Failure in SSL library, usually a protocol error error:10000412:SSL routines:OPENSSL_internal:SSLV3_ALERT_BAD_CERTIFICATE (usrlocalgooglehomeflooeycodeboringsslssltls_record.cc:587 0xb9f60b88:0x00000001)" />
+      <item value="ARCGIS TOPOGRAPHIC" />
+      <item value="add a camera and set it to orbit the location point" />
+      <item value="Geoprocessing Task" />
+      <item value="Calculate a viewshed using a geoprocessing service, in this case showing what parts of a landscape are visible from points on mountainous terrain." />
+      <item value="schedule At Fixed Rate" />
+      <item value="move toward waypoint a short distance" />
+      <item value="Geodetic" />
+      <item value="move Geodetic" />
+      <item value="Model Scene Symbol" />
+      <item value="add an integrated mesh layer to the scene" />
+      <item value="mesh" />
+      <item value="get Elevation Sources" />
+      <item value="get Operational Layers" />
+      <item value="Analysis Overlay" />
+      <item value="create a viewshed from the camera" />
+      <item value="Location Viewshed" />
+      <item value="Integrated Mesh Layer" />
+      <item value="1. Create a `GeoprocessingTask` with the URL set to the endpoint of a geoprocessing service. 2. Create a query string with the date range as an input of `GeoprocessingParameters`. 3. Use the `GeoprocessingTask` to create a `GeoprocessingJob` with the `GeoprocessingParameters` instance. 4. Start the `GeoprocessingJob` and wait for it to complete and return a `GeoprocessingResult`. 5. Get the resulting `ArcGISMapImageLayer` using `GeoprocessingResult.mapImageLayer`. 6. Add the layer to the map's operational layers." />
+      <item value="Select a date range (between 1998-01-01 and 1998-05-31) from the dialog and tap on Analyze. The results will be shown on the map upon successful completion of the `GeoprocessingJob`." />
+      <item value="This tool identifies statistically significant spatial clusters of high values (hot spots) and low values (cold spots). For example, a hotspot analysis based on the frequency of 911 calls within a set region." />
+      <item value="Use a geoprocessing service and a set of features to identify statistically significant hot spots and cold spots." />
+      <item value="create a PointCloudLayer by passing the URI of the scene layer package to the constructor" />
+      <item value="create" />
+      <item value="scene With Surface" />
+      <item value="Feature layers created from shapefiles do not possess any rendering information, and will be assigned with a default symbology. You can apply custom styling to ensure that the content is visible and usable in the context of a specific map. For example, you could use this to visually differentiate between features originating from two different shapefiles, by applying a blue color to one, and a red color to the other." />
+      <item value="Display a shapefile with custom symbology." />
+      <item value="This sample uses a raster imagery tile of an area of forested mountainous terrain and rivers." />
+      <item value="MinMaxStretchParameters PercentClipStretchParameters Raster RasterLayer StandardDeviationStretchParameters StretchParameters StretchRenderer" />
+      <item value="1. Create a `Raster` from a raster file. 2. Create a `RasterLayer` from the raster. 3. Create a `Basemap` from the raster layer with `Basemap(RasterLayer)` and set it to the map with `ArcGISMap(basemap)`. 4. Create a `StretchRenderer`, specifying the stretch parameters and other properties. 5. Set the stretch renderer on the raster layer with `rasterLayer.setRasterRenderer(stretchRenderer)`." />
+      <item value="Choose one of the stretch parameter types from the wrench icon in the action bar: Standard deviation - a linear stretch defined by the standard deviation of the pixel values Min-max - a linear stretch based on minimum and maximum pixel values Percent clip - a linear stretch between the defined percent clip minimum and percent clip maximum pixel values Then configure the parameters and tap 'Render'." />
+      <item value="An appropriate stretch renderer can enhance the contrast of raster imagery, allowing the user to control how their data is displayed for efficient imagery analysis." />
+      <item value="Percent Clip Stretch Parameters" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="709" />
-        <entry key="ENGLISH" value="710" />
+        <entry key="CHINESE" value="773" />
+        <entry key="ENGLISH" value="774" />
         <entry key="POLISH" value="2" />
-        <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="11" />
+        <entry key="GERMAN" value="2" />
+        <entry key="FRENCH" value="12" />
         <entry key="CATALAN" value="2" />
         <entry key="KANNADA" value="1" />
         <entry key="LATIN" value="2" />
@@ -77,11 +77,12 @@
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="3" />
         <entry key="INDONESIAN" value="2" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617434367886" />
+    <option name="lastTrimTime" value="1619423411763" />
   </component>
   <component name="Settings">
     <option name="overrideFont" value="true" />
