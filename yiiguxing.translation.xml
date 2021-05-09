@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="serviceType service type.&lt;br&gt; e.g) &quot;_ipp._tcp&quot;" />
       <item value="receiver" />
       <item value="receive" />
       <item value="Passed with {@link ActionListeneronFailure}. Indicates that the operation failed because the framework is busy and unable to service the request" />
@@ -55,7 +56,6 @@
       <item value="This tool identifies statistically significant spatial clusters of high values (hot spots) and low values (cold spots). For example, a hotspot analysis based on the frequency of 911 calls within a set region." />
       <item value="Use a geoprocessing service and a set of features to identify statistically significant hot spots and cold spots." />
       <item value="create a PointCloudLayer by passing the URI of the scene layer package to the constructor" />
-      <item value="create" />
     </histories>
     <option name="languageScores">
       <map>
