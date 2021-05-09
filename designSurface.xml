@@ -1,0 +1,10 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android_projects/github_demo/WifiP2P/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/android_projects/github_demo/WifiP2P/app/src/main/res/layout/activity_send_file.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+</application>
