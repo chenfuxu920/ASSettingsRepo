@@ -6,6 +6,13 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The requested Bonjour service response is available. &lt;p&gt;This function is invoked when the device with the specified Bonjour registration type returned the instance name. @param instanceName instance name.&lt;br&gt; e.g) &quot;MyPrinter&quot;. @param registrationType &lt;br&gt; e.g) &quot;_ipp._tcp.local.&quot; @param srcDevice source device." />
+      <item value="INSTANCE NAME" />
+      <item value="Add a service discovery request. &lt;p&gt; The function call immediately returns after sending a request to add service discovery request to the framework. The application is notified of a success or failure to add service through listener callbacks {@link ActionListeneronSuccess} or {@link ActionListeneronFailure}. &lt;p&gt;After service discovery request is added, you can initiate service discovery by {@link discoverServices}. &lt;p&gt;The added service requests can be cleared with calls to {@link removeServiceRequest(Channel, WifiP2pServiceRequest, ActionListener)} or {@link clearServiceRequests(Channel, ActionListener)}. @param c is the channel created at {@link initialize} @param req is the service discovery request. @param listener for callbacks on success or failure. Can be null." />
+      <item value="DNS based service discovery protocol." />
+      <item value="A class for creating a Bonjour service discovery request for use with {@link WifiP2pManageraddServiceRequest} and {@link WifiP2pManagerremoveServiceRequest} {@see WifiP2pManager} {@see WifiP2pServiceRequest} {@see WifiP2pUpnpServiceRequest}" />
+      <item value="Interface for callback invocation when Bonjour service discovery response is received" />
+      <item value="Interface for callback invocation when Bonjour TXT record is available for a service" />
       <item value="serviceType service type.&lt;br&gt; e.g) &quot;_ipp._tcp&quot;" />
       <item value="receiver" />
       <item value="receive" />
@@ -49,13 +56,6 @@
       <item value="get Operational Layers" />
       <item value="Analysis Overlay" />
       <item value="create a viewshed from the camera" />
-      <item value="Location Viewshed" />
-      <item value="Integrated Mesh Layer" />
-      <item value="1. Create a `GeoprocessingTask` with the URL set to the endpoint of a geoprocessing service. 2. Create a query string with the date range as an input of `GeoprocessingParameters`. 3. Use the `GeoprocessingTask` to create a `GeoprocessingJob` with the `GeoprocessingParameters` instance. 4. Start the `GeoprocessingJob` and wait for it to complete and return a `GeoprocessingResult`. 5. Get the resulting `ArcGISMapImageLayer` using `GeoprocessingResult.mapImageLayer`. 6. Add the layer to the map's operational layers." />
-      <item value="Select a date range (between 1998-01-01 and 1998-05-31) from the dialog and tap on Analyze. The results will be shown on the map upon successful completion of the `GeoprocessingJob`." />
-      <item value="This tool identifies statistically significant spatial clusters of high values (hot spots) and low values (cold spots). For example, a hotspot analysis based on the frequency of 911 calls within a set region." />
-      <item value="Use a geoprocessing service and a set of features to identify statistically significant hot spots and cold spots." />
-      <item value="create a PointCloudLayer by passing the URI of the scene layer package to the constructor" />
     </histories>
     <option name="languageScores">
       <map>
