@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A data output stream lets an application write primitive Java data types to an output stream in a portable way. An application can then use a data input stream to read the data back in." />
       <item value="is Restricted" />
       <item value="The requested Bonjour service response is available. &lt;p&gt;This function is invoked when the device with the specified Bonjour registration type returned the instance name. @param instanceName instance name.&lt;br&gt; e.g) &quot;MyPrinter&quot;. @param registrationType &lt;br&gt; e.g) &quot;_ipp._tcp.local.&quot; @param srcDevice source device." />
       <item value="INSTANCE NAME" />
@@ -55,7 +56,6 @@
       <item value="mesh" />
       <item value="get Elevation Sources" />
       <item value="get Operational Layers" />
-      <item value="Analysis Overlay" />
     </histories>
     <option name="languageScores">
       <map>
