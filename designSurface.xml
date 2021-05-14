@@ -6,6 +6,8 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_audio_thumb.xml" value="0.238125" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_compose.xml" value="0.17890625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_tips_time.xml" value="0.1" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/audio_notification.xml" value="0.11859219586840092" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/audio_notification_minified.xml" value="0.11859219586840092" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/ease_widget_voice_recorder.xml" value="0.1" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_edit_mark.xml" value="0.1" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/layout_audio_view.xml" value="0.6492248062015504" />
@@ -17,6 +19,7 @@
         <entry key="..\:/android_projects/github_demo/WifiP2P/app/src/main/res/layout/activity_receive_file.xml" value="0.24722222222222223" />
         <entry key="..\:/android_projects/github_demo/WifiP2P/app/src/main/res/layout/activity_send_file.xml" value="0.1" />
         <entry key="..\:/android_projects/github_demo/audioview/app/src/main/res/layout/activity_main.xml" value="1.0" />
+        <entry key="..\:/android_projects/github_demo/audioview/audioview/src/main/res/layout/audio_notification_minified.xml" value="0.29528985507246375" />
         <entry key="..\:/android_projects/github_demo/audioview/audioview/src/main/res/layout/audioview_min.xml" value="0.29528985507246375" />
         <entry key="..\:/android_projects/walkie/app/src/main/res/drawable/ease_recording_hint_bg.xml" value="0.1" />
         <entry key="..\:/android_projects/walkie/app/src/main/res/layout/activity_message.xml" value="0.1" />
