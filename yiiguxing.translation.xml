@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Pressed" />
       <item value="indeterminate" />
       <item value="default" />
       <item value="rsb indicator height" />
@@ -55,7 +56,6 @@
       <item value="sh" />
       <item value="shi" />
       <item value="水平的" />
-      <item value="水平" />
     </histories>
     <option name="languageScores">
       <map>
