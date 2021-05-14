@@ -6,6 +6,12 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="default" />
+      <item value="rsb indicator height" />
+      <item value="indicator" />
+      <item value="rsb thumb scale ratio" />
+      <item value="rsb thumb inactivated drawable" />
+      <item value="thumb" />
       <item value="switch Receive Mode" />
       <item value="The channel to the framework has been disconnected. Application could try re-initializing using {@link initialize}" />
       <item value="on Channel Disconnected" />
@@ -50,12 +56,6 @@
       <item value="水平的" />
       <item value="水平" />
       <item value="shuip" />
-      <item value="shui" />
-      <item value="interval" />
-      <item value="SSL handshake aborted: ssl=0xe0ad0448: Failure in SSL library, usually a protocol error error:10000412:SSL routines:OPENSSL_internal:SSLV3_ALERT_BAD_CERTIFICATE (usrlocalgooglehomeflooeycodeboringsslssltls_record.cc:587 0xba2cfdc8:0x00000001)" />
-      <item value="SSL handshake aborted: ssl=0xe0acfb88: Failure in SSL library, usually a protocol error error:10000412:SSL routines:OPENSSL_internal:SSLV3_ALERT_BAD_CERTIFICATE (usrlocalgooglehomeflooeycodeboringsslssltls_record.cc:587 0xb9f60b88:0x00000001)" />
-      <item value="ARCGIS TOPOGRAPHIC" />
-      <item value="add a camera and set it to orbit the location point" />
     </histories>
     <option name="languageScores">
       <map>
