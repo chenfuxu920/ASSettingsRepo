@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="indeterminate" />
       <item value="default" />
       <item value="rsb indicator height" />
       <item value="indicator" />
@@ -55,7 +56,6 @@
       <item value="shi" />
       <item value="水平的" />
       <item value="水平" />
-      <item value="shuip" />
     </histories>
     <option name="languageScores">
       <map>
@@ -82,7 +82,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620521610912" />
+    <option name="lastTrimTime" value="1620958999751" />
   </component>
   <component name="Settings">
     <option name="overrideFont" value="true" />
