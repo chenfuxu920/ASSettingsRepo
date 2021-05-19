@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Patrol" />
       <item value="set Web View Data Directory Suffix" />
       <item value="View" />
       <item value="feedback" />
@@ -55,7 +56,6 @@
       <item value="Potal" />
       <item value="arrow" />
       <item value="附件" />
-      <item value="reason" />
     </histories>
     <option name="languageScores">
       <map>
