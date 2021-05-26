@@ -2,6 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/IMALL/conversations/src/main/res/layout/activity_rtp_session.xml" value="0.1" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ease_recording_hint_bg.xml" value="0.1" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_arrow_white_l.xml" value="0.222265625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_audio_thumb.xml" value="0.238125" />
@@ -43,6 +44,7 @@
         <entry key="..\:/android_projects/walkie/app/src/main/res/layout/activity_message.xml" value="0.1" />
         <entry key="..\:/android_projects/walkie/app/src/main/res/layout/compose_message_view.xml" value="0.4410621761658031" />
         <entry key="..\:/android_projects/walkie/app/src/main/res/layout/ease_widget_voice_recorder.xml" value="0.1" />
+        <entry key="..\:/android_projects/walkie/app/src/main/res/layout/fragment_client_monitor.xml" value="0.4365284974093264" />
         <entry key="..\:/android_projects/zhizhe/app/src/main/res/layout/fragment_card_list.xml" value="0.35778985507246375" />
       </map>
     </option>
