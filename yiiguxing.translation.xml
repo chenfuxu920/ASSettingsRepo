@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Swapped Feeds" />
       <item value="Enumerator" />
       <item value="Child" />
       <item value="previse" />
@@ -55,7 +56,6 @@
       <item value="The requested Bonjour service response is available. &lt;p&gt;This function is invoked when the device with the specified Bonjour registration type returned the instance name. @param instanceName instance name.&lt;br&gt; e.g) &quot;MyPrinter&quot;. @param registrationType &lt;br&gt; e.g) &quot;_ipp._tcp.local.&quot; @param srcDevice source device." />
       <item value="INSTANCE NAME" />
       <item value="Add a service discovery request. &lt;p&gt; The function call immediately returns after sending a request to add service discovery request to the framework. The application is notified of a success or failure to add service through listener callbacks {@link ActionListeneronSuccess} or {@link ActionListeneronFailure}. &lt;p&gt;After service discovery request is added, you can initiate service discovery by {@link discoverServices}. &lt;p&gt;The added service requests can be cleared with calls to {@link removeServiceRequest(Channel, WifiP2pServiceRequest, ActionListener)} or {@link clearServiceRequests(Channel, ActionListener)}. @param c is the channel created at {@link initialize} @param req is the service discovery request. @param listener for callbacks on success or failure. Can be null." />
-      <item value="DNS based service discovery protocol." />
     </histories>
     <option name="languageScores">
       <map>
