@@ -7,10 +7,13 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_arrow_white_l.xml" value="0.222265625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_audio_thumb.xml" value="0.238125" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_compose.xml" value="0.17890625" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_horizontal_tips.xml" value="0.273046875" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_tips_time.xml" value="0.1" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_uav.xml" value="0.273046875" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_vertical_tips.xml" value="0.273046875" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/activity_gantt.xml" value="0.2109375" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/activity_main.xml" value="0.24445812807881773" />
-        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/activity_manual_control.xml" value="0.33" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/activity_manual_control.xml" value="0.23583743842364532" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/audio_notification.xml" value="0.11859219586840092" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/audio_notification_minified.xml" value="0.11859219586840092" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/audioview_min.xml" value="0.11859219586840092" />
