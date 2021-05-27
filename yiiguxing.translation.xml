@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="548" />
+    <option name="newTranslationDialogWidth" value="546" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Attack" />
+      <item value="battery" />
+      <item value="Fort" />
       <item value="炮台" />
       <item value="paot" />
       <item value="setPortMode on output to DynamicANWBuffer failed w err -2147483648" />
@@ -53,9 +56,6 @@
       <item value="Disconnected" />
       <item value="on Disconnected" />
       <item value="on Dis Connected" />
-      <item value="group Formed" />
-      <item value="progress" />
-      <item value="剩余长度" />
     </histories>
     <option name="languageScores">
       <map>
