@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="炮台" />
+      <item value="paot" />
       <item value="setPortMode on output to DynamicANWBuffer failed w err -2147483648" />
       <item value="FrameFlowInit app is not supported by frameflow solution" />
       <item value="prefer Codec" />
@@ -54,8 +56,6 @@
       <item value="group Formed" />
       <item value="progress" />
       <item value="剩余长度" />
-      <item value="剩余" />
-      <item value="sheng" />
     </histories>
     <option name="languageScores">
       <map>
