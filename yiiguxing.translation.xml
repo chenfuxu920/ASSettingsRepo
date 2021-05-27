@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="依附" />
+      <item value="yifu" />
+      <item value="y" />
+      <item value="yi" />
       <item value="Attack" />
       <item value="battery" />
       <item value="Fort" />
@@ -52,10 +56,6 @@
       <item value="thumb" />
       <item value="switch Receive Mode" />
       <item value="The channel to the framework has been disconnected. Application could try re-initializing using {@link initialize}" />
-      <item value="on Channel Disconnected" />
-      <item value="Disconnected" />
-      <item value="on Disconnected" />
-      <item value="on Dis Connected" />
     </histories>
     <option name="languageScores">
       <map>
