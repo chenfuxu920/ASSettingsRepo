@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Calls the specified function [block] with `this` value as its receiver and returns its encapsulated result if invocation was successful, catching any [Throwable] exception that was thrown from the [block] function execution and encapsulating it as a failure." />
       <item value="定位" />
       <item value="positioning" />
       <item value="position" />
@@ -55,7 +56,6 @@
       <item value="feedba" />
       <item value="feed" />
       <item value="PBC" />
-      <item value="A key response is received from the license server by the app, then it is provided to the DRM engine plugin using provideKeyResponse. When the response is for an offline key request, a key-set identifier is returned that can be used to later restore the keys to a new session with the method {@ link restoreKeys}. When the response is for a streaming or release request, null is returned. @param keySetId When the response is for a release request, keySetId identifie the saved key associated with the release request (i.e., the same keySetId passed to the earlier {@ link getKeyRequest} call. It MUST be null when the response is for either streaming or offline key requests. @param response the byte array response from the server @throws NoDrmSchemeException if there is no active DRM session @throws DeniedByServerException if the response indicates that the server rejected the request" />
     </histories>
     <option name="languageScores">
       <map>
