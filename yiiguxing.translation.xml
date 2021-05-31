@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="透明" />
+      <item value="get Decorated Bounds With Margins" />
+      <item value="My Item Decoration" />
       <item value="inside" />
       <item value="lat" />
       <item value="Constructs a string builder with no characters in it and an initial capacity of 16 characters." />
@@ -53,9 +56,6 @@
       <item value="distinct" />
       <item value="Patrol" />
       <item value="set Web View Data Directory Suffix" />
-      <item value="View" />
-      <item value="feedback" />
-      <item value="feedback&#10;" />
     </histories>
     <option name="languageScores">
       <map>
