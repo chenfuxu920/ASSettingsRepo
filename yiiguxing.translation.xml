@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="inside" />
       <item value="lat" />
       <item value="Constructs a string builder with no characters in it and an initial capacity of 16 characters." />
       <item value="Calls the specified function [block] with `this` value as its receiver and returns its encapsulated result if invocation was successful, catching any [Throwable] exception that was thrown from the [block] function execution and encapsulating it as a failure." />
@@ -55,7 +56,6 @@
       <item value="View" />
       <item value="feedback" />
       <item value="feedback&#10;" />
-      <item value="feedba" />
     </histories>
     <option name="languageScores">
       <map>
