@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="IMAGERY WITH LABELS VECTOR" />
+      <item value="is Attribution Text Visible" />
       <item value="透明" />
       <item value="get Decorated Bounds With Margins" />
       <item value="My Item Decoration" />
@@ -54,8 +56,6 @@
       <item value="Inserts all of the elements of the specified collection [elements] into this list at the specified [index]. @return `true` if the list was changed as the result of the operation." />
       <item value="geometry1 and geometry2 must have equivalent spatial references" />
       <item value="distinct" />
-      <item value="Patrol" />
-      <item value="set Web View Data Directory Suffix" />
     </histories>
     <option name="languageScores">
       <map>
