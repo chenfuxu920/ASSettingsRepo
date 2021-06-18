@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="time interval" />
+      <item value="区间" />
       <item value="grey" />
       <item value="点" />
       <item value="person" />
@@ -54,8 +56,6 @@
       <item value="forestall" />
       <item value="caution" />
       <item value="警戒" />
-      <item value="Lifecycles can only be bound to on the main thread!" />
-      <item value="Dispose the resource, the operation should be idempotent." />
     </histories>
     <option name="languageScores">
       <map>
