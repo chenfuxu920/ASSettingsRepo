@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="negative" />
       <item value="time interval" />
       <item value="区间" />
       <item value="grey" />
@@ -55,7 +56,6 @@
       <item value="forewarn" />
       <item value="forestall" />
       <item value="caution" />
-      <item value="警戒" />
     </histories>
     <option name="languageScores">
       <map>
