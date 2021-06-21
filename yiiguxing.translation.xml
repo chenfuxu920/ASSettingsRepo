@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&lt;!-- Constrains the text to a single horizontally scrolling line instead of letting it wrap onto multiple lines, and advances focus instead of inserting a newline when you press the enter key. The default value is false (multi-line wrapped text mode) for non-editable text, but if you specify any value for inputType, the default is true (single-line input field mode). {@deprecated This attribute is deprecated. Use &lt;code&gt;maxLines&lt;code&gt; instead to change the layout of a static text, and use the &lt;code&gt;textMultiLine&lt;code&gt; flag in the inputType attribute instead for editable text views (if both singleLine and inputType are supplied, the inputType flags will override the value of singleLine). } --&gt;" />
       <item value="time range" />
       <item value="participant" />
       <item value="参与者" />
@@ -55,7 +56,6 @@
       <item value="Enumerator" />
       <item value="Child" />
       <item value="previse" />
-      <item value="admonish" />
     </histories>
     <option name="languageScores">
       <map>
