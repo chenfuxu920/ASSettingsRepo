@@ -23,6 +23,8 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/rect_12.xml" value="0.2475" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/rect_16.xml" value="0.2640625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/rect_8.xml" value="0.253515625" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/selector_checkbox.xml" value="0.24625" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/selector_play.xml" value="0.24625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/activity_gantt.xml" value="0.2109375" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/activity_main.xml" value="0.24445812807881773" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/activity_manual_control.xml" value="0.23583743842364532" />
@@ -54,7 +56,8 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_mark.xml" value="0.23399014778325122" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_matter.xml" value="0.67" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_patrol_task.xml" value="0.23029556650246305" />
-        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_person.xml" value="0.22844827586206898" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_person.xml" value="0.23786739576213262" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_rest_point_edit.xml" value="0.11859219586840092" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_route_patrol.xml" value="0.23399014778325122" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_route_plan_lv0.xml" value="0.23399014778325122" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/layout_audio_view.xml" value="0.6492248062015504" />
