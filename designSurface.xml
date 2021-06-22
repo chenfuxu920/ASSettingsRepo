@@ -37,6 +37,7 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/ease_widget_voice_recorder.xml" value="0.1" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_common_list.xml" value="0.23029556650246305" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_edit_mark.xml" value="0.25" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_edit_matter_list.xml" value="0.67" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_edit_patrol_task.xml" value="0.67" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_equipment.xml" value="0.11782708492731446" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_equipment_detail.xml" value="0.24445812807881773" />
@@ -68,6 +69,7 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/manager_company_item.xml" value="0.22844827586206898" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/row_select_contacts_gird.xml" value="0.22844827586206898" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/row_select_friend.xml" value="0.22844827586206898" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/toolbar.xml" value="0.1981637337413925" />
         <entry key="..\:/android_projects/ar_glass_control_and_replay/app/src/main/res/layout/activity_grid_view.xml" value="0.1" />
         <entry key="..\:/android_projects/github_demo/RangeSeekBar/app/src/main/res/drawable/thumb_activated.xml" value="0.56875" />
         <entry key="..\:/android_projects/github_demo/RangeSeekBar/app/src/main/res/drawable/thumb_green_alpha.xml" value="0.56875" />
@@ -88,6 +90,7 @@
         <entry key="..\:/android_projects/walkie/app/src/main/res/layout/ease_widget_voice_recorder.xml" value="0.1" />
         <entry key="..\:/android_projects/walkie/app/src/main/res/layout/fragment_client_monitor.xml" value="0.4365284974093264" />
         <entry key="..\:/android_projects/zhizhe/app/src/main/res/layout/fragment_card_list.xml" value="0.35778985507246375" />
+        <entry key="..\:/android_projects/zhizhe/app/src/main/res/layout/toolbar.xml" value="0.35280797101449274" />
       </map>
     </option>
   </component>
