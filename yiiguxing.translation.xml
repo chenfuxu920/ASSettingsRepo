@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="mediarecorder went away with unhandled events" />
       <item value="set Offset Y" />
       <item value="set Leader Offset X" />
       <item value="SCREEN" />
@@ -55,7 +56,6 @@
       <item value="完整" />
       <item value="wanzheng" />
       <item value="路线" />
-      <item value="依附" />
     </histories>
     <option name="languageScores">
       <map>
