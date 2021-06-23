@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="minute" />
       <item value="度分秒" />
       <item value="du" />
       <item value="度" />
@@ -55,7 +56,6 @@
       <item value="Fort" />
       <item value="炮台" />
       <item value="paot" />
-      <item value="setPortMode on output to DynamicANWBuffer failed w err -2147483648" />
     </histories>
     <option name="languageScores">
       <map>

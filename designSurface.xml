@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/IMALL/conversations/src/main/res/layout/activity_rtp_session.xml" value="0.1" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/bg_table_header.xml" value="0.245" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/divider_tran.xml" value="0.2640625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/divider_transparent_6.xml" value="0.1" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/dot.xml" value="0.4265625" />
@@ -12,6 +13,7 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_audio_thumb.xml" value="0.238125" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_back.xml" value="0.2625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_baseline_add_24.xml" value="0.245" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_checkbox.xml" value="0.245" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_checkbox_host_checked.xml" value="0.24625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_compose.xml" value="0.245" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_delete_audio.xml" value="0.4265625" />
@@ -21,6 +23,7 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_host_user.xml" value="0.273046875" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_into_r.xml" value="0.245" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_matter.xml" value="0.24625" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_radio_button_checked.xml" value="0.245" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_tips_reason.xml" value="0.273046875" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_tips_time.xml" value="0.273046875" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_uav.xml" value="0.273046875" />
@@ -31,13 +34,15 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/selector_checkbox.xml" value="0.24625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/selector_checkbox_host.xml" value="0.24625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/selector_play.xml" value="0.24625" />
-        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/activity_gantt.xml" value="0.2109375" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/separator_table_header.xml" value="0.245" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/activity_gantt.xml" value="0.21625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/activity_main.xml" value="0.24445812807881773" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/activity_manual_control.xml" value="0.23583743842364532" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/audio_notification.xml" value="0.11859219586840092" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/audio_notification_minified.xml" value="0.11859219586840092" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/audioview_min.xml" value="0.11859219586840092" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/combatprepare_company_item.xml" value="0.22844827586206898" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/division_group.xml" value="0.1981637337413925" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/ease_widget_voice_recorder.xml" value="0.1" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_common_list.xml" value="0.566120218579235" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_common_task.xml" value="0.1929992348890589" />
@@ -72,13 +77,20 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_rest_point_edit.xml" value="0.11859219586840092" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_route_patrol.xml" value="0.23399014778325122" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_route_plan_lv0.xml" value="0.23399014778325122" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_table_cal.xml" value="0.1981637337413925" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_table_list.xml" value="0.1981637337413925" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_table_minute.xml" value="0.12299158377964804" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_table_pj.xml" value="0.1981637337413925" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/layout_audio_view.xml" value="0.6492248062015504" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/layout_new_navigation.xml" value="1.0" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/layout_time_bar.xml" value="0.24445812807881773" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/layout_toolbar.xml" value="0.1981637337413925" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/manager_company_item.xml" value="0.22844827586206898" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/rg_time_type.xml" value="0.12299158377964804" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/row_select_contacts_gird.xml" value="0.22844827586206898" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/row_select_friend.xml" value="0.22844827586206898" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/toolbar.xml" value="0.1981637337413925" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/menu/menu_sw_hour.xml" value="0.21625" />
         <entry key="..\:/android_projects/ar_glass_control_and_replay/app/src/main/res/layout/activity_grid_view.xml" value="0.1" />
         <entry key="..\:/android_projects/github_demo/RangeSeekBar/app/src/main/res/drawable/thumb_activated.xml" value="0.56875" />
         <entry key="..\:/android_projects/github_demo/RangeSeekBar/app/src/main/res/drawable/thumb_green_alpha.xml" value="0.56875" />
