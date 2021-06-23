@@ -6,6 +6,13 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Offset Y" />
+      <item value="set Leader Offset X" />
+      <item value="SCREEN" />
+      <item value="MAP" />
+      <item value="get Angle Alignment" />
+      <item value="CENTER" />
+      <item value="MIDDLE" />
       <item value="minute" />
       <item value="度分秒" />
       <item value="du" />
@@ -49,13 +56,6 @@
       <item value="wanzheng" />
       <item value="路线" />
       <item value="依附" />
-      <item value="yifu" />
-      <item value="y" />
-      <item value="Attack" />
-      <item value="battery" />
-      <item value="Fort" />
-      <item value="炮台" />
-      <item value="paot" />
     </histories>
     <option name="languageScores">
       <map>
@@ -82,7 +82,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624003532474" />
+    <option name="lastTrimTime" value="1624438043578" />
   </component>
   <component name="Settings">
     <option name="overrideFont" value="true" />
