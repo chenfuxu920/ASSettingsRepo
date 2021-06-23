@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/IMALL/conversations/src/main/res/layout/activity_rtp_session.xml" value="0.1" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/bg_compose.xml" value="0.245" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/bg_table_header.xml" value="0.245" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/divider_tran.xml" value="0.2640625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/divider_transparent_6.xml" value="0.1" />
@@ -23,6 +24,7 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_host_user.xml" value="0.273046875" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_into_r.xml" value="0.245" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_matter.xml" value="0.24625" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_point_add.xml" value="0.245" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_radio_button_checked.xml" value="0.245" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_tips_reason.xml" value="0.273046875" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_tips_time.xml" value="0.273046875" />
@@ -77,6 +79,7 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_rest_point_edit.xml" value="0.11859219586840092" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_route_patrol.xml" value="0.23399014778325122" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_route_plan_lv0.xml" value="0.23399014778325122" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_route_point.xml" value="0.67" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_table_cal.xml" value="0.1981637337413925" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_table_list.xml" value="0.1981637337413925" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_table_minute.xml" value="0.12299158377964804" />
