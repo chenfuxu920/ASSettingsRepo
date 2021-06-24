@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Listener" />
       <item value="dropdown" />
       <item value="下拉" />
       <item value="confirm" />
@@ -55,7 +56,6 @@
       <item value="until Event" />
       <item value="ch" />
       <item value="c" />
-      <item value="从头" />
     </histories>
     <option name="languageScores">
       <map>
