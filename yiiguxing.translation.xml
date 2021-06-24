@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Display the content view in a popup window at the specified location. If the popup window cannot fit on screen, it will be clipped. See {@link android.view.WindowManager.LayoutParams} for more information on how gravity and the x and y parameters are related. Specifying a gravity of {@link android.view.GravityNO_GRAVITY} is similar to specifying &lt;code&gt;Gravity.LEFT | Gravity.TOP&lt;code&gt;. &lt;p&gt; @param parent a parent view to get the {@link android.view.ViewgetWindowToken()} token from @param gravity the gravity which controls the placement of the popup window @param x the popup's x location offset @param y the popup's y location offset" />
       <item value="Listener" />
       <item value="dropdown" />
       <item value="下拉" />
@@ -55,7 +56,6 @@
       <item value="position" />
       <item value="until Event" />
       <item value="ch" />
-      <item value="c" />
     </histories>
     <option name="languageScores">
       <map>
