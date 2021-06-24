@@ -19,16 +19,23 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_checkbox_host_checked.xml" value="0.24625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_compose.xml" value="0.245" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_delete_audio.xml" value="0.4265625" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_equipment.xml" value="0.245" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_equipment_failure.xml" value="0.4265625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_get_point.xml" value="0.245" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_horizontal_tips.xml" value="0.273046875" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_host_user.xml" value="0.273046875" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_into_r.xml" value="0.245" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_mark.xml" value="0.245" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_mark_layer.xml" value="0.245" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_matter.xml" value="0.24625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_matter_point.xml" value="0.2" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_person.xml" value="0.245" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_point_add.xml" value="0.245" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_radio_button_checked.xml" value="0.245" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_start_point.xml" value="0.236875" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_target.xml" value="0.245" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_target_layer.xml" value="0.245" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_tips_participant.xml" value="0.2" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_tips_reason.xml" value="0.273046875" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_tips_time.xml" value="0.273046875" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_uav.xml" value="0.273046875" />
@@ -97,7 +104,7 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/row_select_contacts_gird.xml" value="0.22844827586206898" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/row_select_friend.xml" value="0.22844827586206898" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/toolbar.xml" value="0.1981637337413925" />
-        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/window_map_layer.xml" value="0.1981637337413925" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/window_map_layer.xml" value="1.0" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/window_patrol_info.xml" value="0.11342769701606734" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/window_select_route.xml" value="0.67" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/window_track_point.xml" value="0.11342769701606734" />
