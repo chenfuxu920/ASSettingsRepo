@@ -98,6 +98,10 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/row_select_friend.xml" value="0.22844827586206898" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/toolbar.xml" value="0.1981637337413925" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/window_map_layer.xml" value="0.1981637337413925" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/window_patrol_info.xml" value="0.11342769701606734" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/window_select_route.xml" value="0.67" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/window_track_point.xml" value="0.11342769701606734" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/window_user_info.xml" value="0.11342769701606734" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/menu/menu_sw_hour.xml" value="0.21625" />
         <entry key="..\:/android_projects/ar_glass_control_and_replay/app/src/main/res/layout/activity_grid_view.xml" value="0.1" />
         <entry key="..\:/android_projects/github_demo/RangeSeekBar/app/src/main/res/drawable/thumb_activated.xml" value="0.56875" />
