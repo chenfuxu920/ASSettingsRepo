@@ -73,7 +73,7 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_manual_control.xml" value="0.23583743842364532" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_map.xml" value="1.0" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_mark.xml" value="0.1981637337413925" />
-        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_mark_detail.xml" value="0.25" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_mark_detail.xml" value="0.11859219586840092" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_mark_list.xml" value="0.1981637337413925" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_patrol_list.xml" value="0.23029556650246305" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_patrol_task.xml" value="0.22844827586206898" />
@@ -85,6 +85,7 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_common_task.xml" value="0.33" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_local_message.xml" value="0.11859219586840092" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_mark.xml" value="0.6431226765799256" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_mark_details_image.xml" value="0.1929992348890589" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_matter.xml" value="0.67" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_participant.xml" value="0.11859219586840092" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_patrol_task.xml" value="0.23029556650246305" />
