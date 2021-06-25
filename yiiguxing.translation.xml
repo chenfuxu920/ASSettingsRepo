@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="corner Family" />
+      <item value="rounded" />
+      <item value="圆形" />
+      <item value="圆形&#10;" />
+      <item value="yuanx" />
       <item value="Display the content view in a popup window at the specified location. If the popup window cannot fit on screen, it will be clipped. See {@link android.view.WindowManager.LayoutParams} for more information on how gravity and the x and y parameters are related. Specifying a gravity of {@link android.view.GravityNO_GRAVITY} is similar to specifying &lt;code&gt;Gravity.LEFT | Gravity.TOP&lt;code&gt;. &lt;p&gt; @param parent a parent view to get the {@link android.view.ViewgetWindowToken()} token from @param gravity the gravity which controls the placement of the popup window @param x the popup's x location offset @param y the popup's y location offset" />
       <item value="Listener" />
       <item value="dropdown" />
@@ -51,11 +56,6 @@
       <item value="lat" />
       <item value="Constructs a string builder with no characters in it and an initial capacity of 16 characters." />
       <item value="Calls the specified function [block] with `this` value as its receiver and returns its encapsulated result if invocation was successful, catching any [Throwable] exception that was thrown from the [block] function execution and encapsulating it as a failure." />
-      <item value="定位" />
-      <item value="positioning" />
-      <item value="position" />
-      <item value="until Event" />
-      <item value="ch" />
     </histories>
     <option name="languageScores">
       <map>
