@@ -9,6 +9,7 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/divider_transparent_6.xml" value="0.1" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/dot.xml" value="0.4265625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ease_recording_hint_bg.xml" value="0.1" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_add_image.xml" value="0.2425" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_arrow_white_l.xml" value="0.2625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_arrow_white_r.xml" value="0.2625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/ic_attack_target.xml" value="0.2" />
@@ -87,7 +88,7 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_local_message.xml" value="0.11859219586840092" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_mark.xml" value="0.6431226765799256" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_mark_details_image.xml" value="0.1929992348890589" />
-        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_mark_edit_image.xml" value="0.18783473603672532" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_mark_edit_image.xml" value="0.1981637337413925" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_matter.xml" value="0.67" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_participant.xml" value="0.11859219586840092" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_patrol_task.xml" value="0.23029556650246305" />
