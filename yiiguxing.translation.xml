@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="indeterminate true if the dialog should be {@link setIndeterminate(boolean) indeterminate}, false otherwise" />
+      <item value="indeterminate" />
+      <item value="Change the indeterminate mode for this ProgressDialog. In indeterminate mode, the progress is ignored and the dialog shows an infinite animation instead. &lt;p&gt;&lt;strong&gt;Note:&lt;strong&gt; A ProgressDialog with style {@link STYLE_SPINNER} is always indeterminate and will ignore this setting.&lt;p&gt; @param indeterminate true to enable indeterminate mode, false otherwise @see setProgressStyle(int)" />
+      <item value="m Indeterminate" />
       <item value="corner Family" />
       <item value="rounded" />
       <item value="圆形" />
@@ -52,10 +56,6 @@
       <item value="透明" />
       <item value="get Decorated Bounds With Margins" />
       <item value="My Item Decoration" />
-      <item value="inside" />
-      <item value="lat" />
-      <item value="Constructs a string builder with no characters in it and an initial capacity of 16 characters." />
-      <item value="Calls the specified function [block] with `this` value as its receiver and returns its encapsulated result if invocation was successful, catching any [Throwable] exception that was thrown from the [block] function execution and encapsulating it as a failure." />
     </histories>
     <option name="languageScores">
       <map>
