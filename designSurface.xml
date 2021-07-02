@@ -48,6 +48,7 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/selector_checkbox.xml" value="0.24625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/selector_checkbox_host.xml" value="0.24625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/selector_play.xml" value="0.24625" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/separator_table_first.xml" value="0.238125" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/separator_table_header.xml" value="0.245" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/activity_gantt.xml" value="0.21625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/activity_main.xml" value="0.24445812807881773" />
@@ -55,6 +56,7 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/audio_notification.xml" value="0.11859219586840092" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/audio_notification_minified.xml" value="0.11859219586840092" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/audioview_min.xml" value="0.11859219586840092" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/child_division_group.xml" value="0.1981637337413925" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/combatprepare_company_item.xml" value="0.22844827586206898" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/division_group.xml" value="0.1981637337413925" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/ease_widget_voice_recorder.xml" value="0.1" />
@@ -100,6 +102,8 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_route_plan_lv0.xml" value="0.23399014778325122" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_route_point.xml" value="0.67" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_table_cal.xml" value="0.1981637337413925" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_table_gantt.xml" value="0.1981637337413925" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_table_hour.xml" value="0.1981637337413925" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_table_list.xml" value="0.1981637337413925" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_table_minute.xml" value="0.12299158377964804" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_table_pj.xml" value="0.22" />
