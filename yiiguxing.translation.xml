@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Certifcation" />
       <item value="Display size minus ProjectView" />
       <item value="Return the height of the row. @param row the row. If the row is &lt;code&gt;-1&lt;code&gt; it is the header. @return The height of the row, in pixels." />
       <item value="分割线" />
@@ -55,7 +56,6 @@
       <item value="grey" />
       <item value="点" />
       <item value="person" />
-      <item value="force Has Overlapping Rendering" />
     </histories>
     <option name="languageScores">
       <map>
