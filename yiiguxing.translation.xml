@@ -6,6 +6,12 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Gallery" />
+      <item value="Create and pre-populate the database. See this article for more details:" />
+      <item value="Seed Database Worker" />
+      <item value="Coroutine Worker" />
+      <item value="plant" />
+      <item value="Garden Activity" />
       <item value="generate Gson" />
       <item value="产生" />
       <item value="chans" />
@@ -50,12 +56,6 @@
       <item value="度分秒" />
       <item value="du" />
       <item value="度" />
-      <item value="度分泌" />
-      <item value="经度" />
-      <item value="rendezvous" />
-      <item value="已添加" />
-      <item value="yi" />
-      <item value="text Appearance Headline 1" />
     </histories>
     <option name="languageScores">
       <map>
