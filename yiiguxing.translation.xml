@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="enable Placeholders" />
+      <item value="Unsplash" />
+      <item value="Unsplash Repository" />
       <item value="Gallery" />
       <item value="Create and pre-populate the database. See this article for more details:" />
       <item value="Seed Database Worker" />
@@ -53,9 +56,6 @@
       <item value="CENTER" />
       <item value="MIDDLE" />
       <item value="minute" />
-      <item value="度分秒" />
-      <item value="du" />
-      <item value="度" />
     </histories>
     <option name="languageScores">
       <map>
