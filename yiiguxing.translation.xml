@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Incremental annotation processing requested, but support is disabled because the following processors are not incremental: androidx.room.RoomProcessor (DYNAMIC)." />
+      <item value="Invocation Target Exception" />
       <item value="Query parameter appended to the URL. &lt;p&gt;Values are converted to strings using {@link RetrofitstringConverter(Type, Annotation[])} (or {@link ObjecttoString()}, if no matching string converter is installed) and then URL encoded. {@code null} values are ignored. Passing a {@link java.util.List List} or array will result in a query parameter for each non-{@code null} item. &lt;p&gt;Simple Example: &lt;pre&gt;&lt;code&gt; &amp;64;GET(&quot;friends&quot;) Call&amp;lt;ResponseBody&amp;gt; friends(@Query(&quot;page&quot;) int page); &lt;code&gt;&lt;pre&gt; Calling with {@code foo.friends(1)} yields {@code friends?page=1}. &lt;p&gt;Example with {@code null}: &lt;pre&gt;&lt;code&gt; &amp;64;GET(&quot;friends&quot;) Call&amp;lt;ResponseBody&amp;gt; friends(@Query(&quot;group&quot;) String group); &lt;code&gt;&lt;pre&gt; Calling with {@code foo.friends(null)} yields {@code friends}. &lt;p&gt;ArrayVarargs Example: &lt;pre&gt;&lt;code&gt; &amp;64;GET(&quot;friends&quot;) Call&amp;lt;ResponseBody&amp;gt; friends(@Query(&quot;group&quot;) String... groups); &lt;code&gt;&lt;pre&gt; Calling with {@code foo.friends(&quot;coworker&quot;, &quot;bowling&quot;)} yields {@code friends?group=coworker&amp;group=bowling}. &lt;p&gt;Parameter names and values are URL encoded by default. Specify {@link encoded() encoded=true} to change this behavior. &lt;pre&gt;&lt;code&gt; &amp;64;GET(&quot;friends&quot;) Call&amp;lt;ResponseBody&amp;gt; friends(@Query(value=&quot;group&quot;, encoded=true) String group); &lt;code&gt;&lt;pre&gt; Calling with {@code foo.friends(&quot;foo+bar&quot;))} yields {@code friends?group=foo+bar}. @see QueryMap @see QueryName" />
       <item value="enable Placeholders" />
       <item value="Unsplash" />
@@ -54,8 +56,6 @@
       <item value="SCREEN" />
       <item value="MAP" />
       <item value="get Angle Alignment" />
-      <item value="CENTER" />
-      <item value="MIDDLE" />
     </histories>
     <option name="languageScores">
       <map>
