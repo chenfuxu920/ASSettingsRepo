@@ -1,11 +1,28 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="544" />
+    <option name="newTranslationDialogWidth" value="540" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="should Be Watered" />
+      <item value="fight" />
+      <item value="fighting" />
+      <item value="combat" />
+      <item value="分队作战系统" />
+      <item value="分队作战xot" />
+      <item value="分队作战xo" />
+      <item value="分队作战" />
+      <item value="分队zuoz" />
+      <item value="分队zuo" />
+      <item value="分队" />
+      <item value="fen" />
+      <item value="fenz" />
+      <item value="squad" />
+      <item value="班" />
+      <item value="班组" />
+      <item value="repo List Rate Limit" />
       <item value="appender Open" />
       <item value="log Instance Ptr" />
       <item value="Returns the absolute path to the directory on the filesystem where files created with {@link openFileOutput} are stored. &lt;p&gt; The returned path may change over time if the calling app is moved to an adopted storage device, so only relative paths should be persisted. &lt;p&gt; No additional permissions are required for the calling app to read or write files under the returned path. @return The path of the directory holding application files. @see openFileOutput @see getFileStreamPath @see getDir" />
@@ -39,23 +56,6 @@
       <item value="dagger.internal.codegen.ComponentProcessor was unable to process this class because not all of its dependencies could be resolved. Check for compilation errors or a circular dependency with generated code. public final class SSLHelper {" />
       <item value="dagger.internal.codegen.ComponentProcessor was unable to process this class because not all of its dependencies could be resolved. Check for compilation errors or a circular dependency with generated code. public abstract static class SingletonC implements HiltWrapper_ActivityRetainedComponentManager_ActivityRetainedComponentBuilderEntryPoint," />
       <item value="[ComponentProcessor:MiscError] dagger.internal.codegen.ComponentProcessor was unable to process this class because not all of its dependencies could be resolved. Check for compilation errors or a circular dependency with generated code." />
-      <item value="correct" />
-      <item value="Certifcation" />
-      <item value="Display size minus ProjectView" />
-      <item value="Return the height of the row. @param row the row. If the row is &lt;code&gt;-1&lt;code&gt; it is the header. @return The height of the row, in pixels." />
-      <item value="分割线" />
-      <item value="展开 折叠" />
-      <item value="展开 zedie" />
-      <item value="展开" />
-      <item value="zg" />
-      <item value="indeterminate true if the dialog should be {@link setIndeterminate(boolean) indeterminate}, false otherwise" />
-      <item value="indeterminate" />
-      <item value="Change the indeterminate mode for this ProgressDialog. In indeterminate mode, the progress is ignored and the dialog shows an infinite animation instead. &lt;p&gt;&lt;strong&gt;Note:&lt;strong&gt; A ProgressDialog with style {@link STYLE_SPINNER} is always indeterminate and will ignore this setting.&lt;p&gt; @param indeterminate true to enable indeterminate mode, false otherwise @see setProgressStyle(int)" />
-      <item value="m Indeterminate" />
-      <item value="corner Family" />
-      <item value="rounded" />
-      <item value="圆形" />
-      <item value="圆形&#10;" />
     </histories>
     <option name="languageScores">
       <map>
