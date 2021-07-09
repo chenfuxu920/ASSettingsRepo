@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Logged In User" />
       <item value="Stops to listen the given {@code LiveData}. @param toRemote {@code LiveData} to stop to listen @param &lt;S&gt; the type of data hold by {@code source} LiveData" />
       <item value="The current value of this state flow. Setting a value that is [equal][Any.equals] to the previous one does nothing. This property is thread-safe and can be safely updated from concurrent coroutines without external synchronization." />
       <item value="Class is referenced as a converter but it does not have any converter methods. - androidx.databinding.adapters.Converters" />
@@ -55,7 +56,6 @@
       <item value="generate Gson" />
       <item value="产生" />
       <item value="chans" />
-      <item value="sheng" />
     </histories>
     <option name="languageScores">
       <map>
