@@ -73,7 +73,7 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_edit_patrol_task.xml" value="0.41943900848010435" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_edit_route.xml" value="0.1981637337413925" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_equipment.xml" value="0.11782708492731446" />
-        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_equipment_detail.xml" value="0.24445812807881773" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_equipment_detail.xml" value="0.3052536231884058" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_equipment_list.xml" value="0.3052536231884058" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_equipment_patrol.xml" value="0.24107142857142858" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_equipment_patrol_child.xml" value="0.24107142857142858" />
@@ -85,7 +85,7 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_mark_list.xml" value="0.1981637337413925" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_patrol_list.xml" value="0.23029556650246305" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_patrol_task.xml" value="0.22844827586206898" />
-        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_patrol_task_details.xml" value="0.75" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_patrol_task_details.xml" value="0.32653061224489793" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_rescue_details.xml" value="0.11859219586840092" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_route_patrol.xml" value="0.29921875" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_select_user.xml" value="0.5" />
