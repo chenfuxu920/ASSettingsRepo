@@ -48,7 +48,7 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/rect_12.xml" value="0.2475" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/rect_16.xml" value="0.2640625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/rect_8.xml" value="0.253515625" />
-        <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/selector_checkbox.xml" value="0.24625" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/selector_checkbox.xml" value="0.33177083333333335" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/selector_checkbox_host.xml" value="0.24625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/selector_play.xml" value="0.24625" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/drawable/separator_table_first.xml" value="0.238125" />
@@ -74,7 +74,7 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_edit_route.xml" value="0.1981637337413925" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_equipment.xml" value="0.11782708492731446" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_equipment_detail.xml" value="0.24445812807881773" />
-        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_equipment_list.xml" value="0.1" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_equipment_list.xml" value="0.3052536231884058" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_equipment_patrol.xml" value="0.24107142857142858" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_equipment_patrol_child.xml" value="0.24107142857142858" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/fragment_equipment_previse.xml" value="0.24107142857142858" />
@@ -93,6 +93,8 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/header_add_patrol.xml" value="0.23029556650246305" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/header_patrol.xml" value="0.1" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_common_task.xml" value="0.33" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_equipment.xml" value="0.3052536231884058" />
+        <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_equipment_type.xml" value="0.3052536231884058" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_local_message.xml" value="0.11859219586840092" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_mark.xml" value="0.37640449438202245" />
         <entry key="..\:/IMALL/txxyApp/src/main/res/layout/item_mark_details_image.xml" value="0.1929992348890589" />
@@ -131,6 +133,7 @@
         <entry key="..\:/IMALL/txxyApp/src/main/res/menu/menu_sw_hour.xml" value="0.21625" />
         <entry key="..\:/android_projects/ar_glass_control_and_replay/app/src/main/res/layout/activity_grid_view.xml" value="0.1" />
         <entry key="..\:/android_projects/architecture-components-samples/GithubBrowserSample/app/src/main/res/layout/repo_fragment.xml" value="0.30842391304347827" />
+        <entry key="..\:/android_projects/architecture-components-samples/GithubBrowserSample/app/src/main/res/layout/user_fragment.xml" value="0.3016304347826087" />
         <entry key="..\:/android_projects/github_demo/RangeSeekBar/app/src/main/res/drawable/thumb_activated.xml" value="0.56875" />
         <entry key="..\:/android_projects/github_demo/RangeSeekBar/app/src/main/res/drawable/thumb_green_alpha.xml" value="0.56875" />
         <entry key="..\:/android_projects/github_demo/RangeSeekBar/app/src/main/res/layout/fragment_single.xml" value="0.3088768115942029" />
