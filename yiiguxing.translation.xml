@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="exhaustive" />
       <item value="This declaration is in a preview state and can be changed in a backwards-incompatible manner with a best-effort migration." />
       <item value="Experimental" />
       <item value="Experimental Coroutines Api" />
@@ -55,7 +56,6 @@
       <item value="Seed Database Worker" />
       <item value="Coroutine Worker" />
       <item value="plant" />
-      <item value="Garden Activity" />
     </histories>
     <option name="languageScores">
       <map>
