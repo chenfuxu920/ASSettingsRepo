@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This declaration is in a preview state and can be changed in a backwards-incompatible manner with a best-effort migration." />
+      <item value="Experimental" />
+      <item value="Experimental Coroutines Api" />
       <item value="set Logged In User" />
       <item value="Stops to listen the given {@code LiveData}. @param toRemote {@code LiveData} to stop to listen @param &lt;S&gt; the type of data hold by {@code source} LiveData" />
       <item value="The current value of this state flow. Setting a value that is [equal][Any.equals] to the previous one does nothing. This property is thread-safe and can be safely updated from concurrent coroutines without external synchronization." />
@@ -53,9 +56,6 @@
       <item value="Coroutine Worker" />
       <item value="plant" />
       <item value="Garden Activity" />
-      <item value="generate Gson" />
-      <item value="产生" />
-      <item value="chans" />
     </histories>
     <option name="languageScores">
       <map>
