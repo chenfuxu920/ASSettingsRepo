@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Resolves the given {@code type} against the type context represented by this type. For example: &lt;pre&gt;{@code new TypeToken&lt;List&lt;String&gt;&gt;() {}.resolveType( List.class.getMethod(&quot;get&quot;, int.class).getGenericReturnType()) =&gt; String.class }&lt;pre&gt;" />
       <item value="Returns the value type that this adapter uses when converting the HTTP response body to a Java object. For example, the response type for {@code Call&lt;Repo&gt;} is {@code Repo}. This type is used to prepare the {@code call} passed to {@code adapt}. &lt;p&gt;Note: This is typically not the same type as the {@code returnType} provided to this call adapter's factory." />
       <item value="Rescue Bean" />
       <item value="parameterized" />
@@ -55,7 +56,6 @@
       <item value="This class captures the relationship between a [Plant] and a user's [GardenPlanting], which is used by Room to fetch the related entities." />
       <item value="Foreign Key" />
       <item value="disable Modules Have Install In Check" />
-      <item value="Denotes that a parameter, field or method return value can never be null. &lt;p&gt; This is a marker annotation and it has no specific attributes." />
     </histories>
     <option name="languageScores">
       <map>
