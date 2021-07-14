@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Rescue Bean" />
+      <item value="parameterized" />
       <item value="The column userId in the junction entity com.txxy.zcglkz.ui.commonTask.CommonTaskUserBean is being used to resolve a relationship but it is not covered by any index. This might cause a full table scan when resolving the relationship, it is highly advised to create an index that covers this column." />
       <item value="milliseconds" />
       <item value="Millis" />
@@ -54,8 +56,6 @@
       <item value="disable Modules Have Install In Check" />
       <item value="Denotes that a parameter, field or method return value can never be null. &lt;p&gt; This is a marker annotation and it has no specific attributes." />
       <item value="Non Null" />
-      <item value="Incremental annotation processing requested, but support is disabled because the following processors are not incremental: androidx.room.RoomProcessor (DYNAMIC)." />
-      <item value="Invocation Target Exception" />
     </histories>
     <option name="languageScores">
       <map>
