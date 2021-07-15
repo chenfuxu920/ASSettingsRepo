@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Atomically compares the current [value] with [expect] and sets it to [update] if it is equal to [expect]. The result is `true` if the [value] was set to [update] and `false` otherwise. This function use a regular comparison using [Any.equals]. If both [expect] and [update] are equal to the current [value], this function returns `true`, but it does not actually change the reference that is stored in the [value]. This method is thread-safe and can be safely invoked from concurrent coroutines without external synchronization." />
       <item value="Asynchronously send the request and notify {@code callback} of its response or if an error occurred talking to the server, creating the request, or processing the response." />
       <item value="Resolves the given {@code type} against the type context represented by this type. For example: &lt;pre&gt;{@code new TypeToken&lt;List&lt;String&gt;&gt;() {}.resolveType( List.class.getMethod(&quot;get&quot;, int.class).getGenericReturnType()) =&gt; String.class }&lt;pre&gt;" />
       <item value="Returns the value type that this adapter uses when converting the HTTP response body to a Java object. For example, the response type for {@code Call&lt;Repo&gt;} is {@code Repo}. This type is used to prepare the {@code call} passed to {@code adapt}. &lt;p&gt;Note: This is typically not the same type as the {@code returnType} provided to this call adapter's factory." />
@@ -55,7 +56,6 @@
       <item value="Garden" />
       <item value="Embedded" />
       <item value="This class captures the relationship between a [Plant] and a user's [GardenPlanting], which is used by Room to fetch the related entities." />
-      <item value="Foreign Key" />
     </histories>
     <option name="languageScores">
       <map>
