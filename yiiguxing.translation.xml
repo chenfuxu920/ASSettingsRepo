@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="TOPOGRAPHIC" />
       <item value="Sharing is started immediately and never stops." />
       <item value="Sharing is started when the first subscriber appears and never stops." />
       <item value="Sharing" />
@@ -55,7 +56,6 @@
       <item value="log Instance Ptr" />
       <item value="Returns the absolute path to the directory on the filesystem where files created with {@link openFileOutput} are stored. &lt;p&gt; The returned path may change over time if the calling app is moved to an adopted storage device, so only relative paths should be persisted. &lt;p&gt; No additional permissions are required for the calling app to read or write files under the returned path. @return The path of the directory holding application files. @see openFileOutput @see getFileStreamPath @see getDir" />
       <item value="this is necessary, or may crash for SIGBUS" />
-      <item value="Starts to listen the given {@code source} LiveData, {@code onChanged} observer will be called when {@code source} value was changed. &lt;p&gt; {@code onChanged} callback will be called only when this {@code MediatorLiveData} is active. &lt;p&gt; If the given LiveData is already added as a source but with a different Observer, {@link IllegalArgumentException} will be thrown. @param source the {@code LiveData} to listen to @param onChanged The observer that will receive the events @param &lt;S&gt; The type of data hold by {@code source} LiveData" />
     </histories>
     <option name="languageScores">
       <map>
