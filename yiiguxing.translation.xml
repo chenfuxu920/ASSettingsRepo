@@ -1,11 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="548" />
+    <option name="newTranslationDialogWidth" value="546" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="油门" />
+      <item value="转弯曲率" />
+      <item value="转弯 " />
+      <item value="转弯" />
+      <item value="纬度" />
+      <item value="经度" />
+      <item value="jingdu" />
       <item value="炮台" />
       <item value="paot" />
       <item value="setPortMode on output to DynamicANWBuffer failed w err -2147483648" />
@@ -49,13 +56,6 @@
       <item value="thumb" />
       <item value="switch Receive Mode" />
       <item value="The channel to the framework has been disconnected. Application could try re-initializing using {@link initialize}" />
-      <item value="on Channel Disconnected" />
-      <item value="Disconnected" />
-      <item value="on Disconnected" />
-      <item value="on Dis Connected" />
-      <item value="group Formed" />
-      <item value="progress" />
-      <item value="剩余长度" />
     </histories>
     <option name="languageScores">
       <map>
