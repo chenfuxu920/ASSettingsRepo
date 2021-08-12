@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="视角" />
+      <item value="shi" />
       <item value="TOPOGRAPHIC" />
       <item value="Sharing is started immediately and never stops." />
       <item value="Sharing is started when the first subscriber appears and never stops." />
@@ -54,13 +56,11 @@
       <item value="repo List Rate Limit" />
       <item value="appender Open" />
       <item value="log Instance Ptr" />
-      <item value="Returns the absolute path to the directory on the filesystem where files created with {@link openFileOutput} are stored. &lt;p&gt; The returned path may change over time if the calling app is moved to an adopted storage device, so only relative paths should be persisted. &lt;p&gt; No additional permissions are required for the calling app to read or write files under the returned path. @return The path of the directory holding application files. @see openFileOutput @see getFileStreamPath @see getDir" />
-      <item value="this is necessary, or may crash for SIGBUS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="773" />
-        <entry key="ENGLISH" value="774" />
+        <entry key="CHINESE" value="782" />
+        <entry key="ENGLISH" value="783" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
