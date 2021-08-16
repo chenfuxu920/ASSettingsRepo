@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="540" />
+    <option name="newTranslationDialogWidth" value="538" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="infrared" />
+      <item value="红外" />
+      <item value="红外光" />
       <item value="set Fps Reduction" />
       <item value="视角" />
       <item value="shi" />
@@ -53,14 +56,11 @@
       <item value="fenz" />
       <item value="squad" />
       <item value="班" />
-      <item value="班组" />
-      <item value="repo List Rate Limit" />
-      <item value="appender Open" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="783" />
-        <entry key="ENGLISH" value="784" />
+        <entry key="CHINESE" value="791" />
+        <entry key="ENGLISH" value="792" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
