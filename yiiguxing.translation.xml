@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="make Notification Read" />
       <item value="infrared" />
       <item value="红外" />
       <item value="红外光" />
@@ -55,12 +56,11 @@
       <item value="fen" />
       <item value="fenz" />
       <item value="squad" />
-      <item value="班" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="791" />
-        <entry key="ENGLISH" value="792" />
+        <entry key="CHINESE" value="792" />
+        <entry key="ENGLISH" value="793" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
