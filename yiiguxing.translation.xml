@@ -1,0 +1,93 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="544" />
+    <option name="newTranslationDialogX" value="826" />
+    <option name="newTranslationDialogY" value="470" />
+    <option name="pinNewTranslationDialog" value="true" />
+    <histories>
+      <item value="longitude" />
+      <item value="Command" />
+      <item value="指令" />
+      <item value="zhi" />
+      <item value="焦距" />
+      <item value="视野角" />
+      <item value="垂直的" />
+      <item value="水平的" />
+      <item value="水平" />
+      <item value="云台" />
+      <item value="油门" />
+      <item value="转弯曲率" />
+      <item value="转弯 " />
+      <item value="转弯" />
+      <item value="纬度" />
+      <item value="经度" />
+      <item value="jingdu" />
+      <item value="炮台" />
+      <item value="paot" />
+      <item value="setPortMode on output to DynamicANWBuffer failed w err -2147483648" />
+      <item value="FrameFlowInit app is not supported by frameflow solution" />
+      <item value="prefer Codec" />
+      <item value="No payload types with name" />
+      <item value="video Codec Hw Acceleration" />
+      <item value="set Swapped Feeds" />
+      <item value="Enumerator" />
+      <item value="Child" />
+      <item value="previse" />
+      <item value="admonish" />
+      <item value="forewarn" />
+      <item value="forestall" />
+      <item value="caution" />
+      <item value="警戒" />
+      <item value="Lifecycles can only be bound to on the main thread!" />
+      <item value="Dispose the resource, the operation should be idempotent." />
+      <item value="手动" />
+      <item value="shoud" />
+      <item value="synthesize Text" />
+      <item value="Inserts all of the elements of the specified collection [elements] into this list at the specified [index]. @return `true` if the list was changed as the result of the operation." />
+      <item value="geometry1 and geometry2 must have equivalent spatial references" />
+      <item value="distinct" />
+      <item value="Patrol" />
+      <item value="set Web View Data Directory Suffix" />
+      <item value="View" />
+      <item value="feedback" />
+      <item value="feedback&#10;" />
+      <item value="feedba" />
+      <item value="feed" />
+      <item value="PBC" />
+      <item value="A key response is received from the license server by the app, then it is provided to the DRM engine plugin using provideKeyResponse. When the response is for an offline key request, a key-set identifier is returned that can be used to later restore the keys to a new session with the method {@ link restoreKeys}. When the response is for a streaming or release request, null is returned. @param keySetId When the response is for a release request, keySetId identifie the saved key associated with the release request (i.e., the same keySetId passed to the earlier {@ link getKeyRequest} call. It MUST be null when the response is for either streaming or offline key requests. @param response the byte array response from the server @throws NoDrmSchemeException if there is no active DRM session @throws DeniedByServerException if the response indicates that the server rejected the request" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="773" />
+        <entry key="ENGLISH" value="774" />
+        <entry key="POLISH" value="2" />
+        <entry key="GERMAN" value="2" />
+        <entry key="FRENCH" value="12" />
+        <entry key="CATALAN" value="2" />
+        <entry key="KANNADA" value="1" />
+        <entry key="LATIN" value="2" />
+        <entry key="ROMANIAN" value="2" />
+        <entry key="JAPANESE" value="4" />
+        <entry key="SWEDISH" value="2" />
+        <entry key="WELSH" value="2" />
+        <entry key="SPANISH" value="1" />
+        <entry key="GREEK" value="3" />
+        <entry key="HUNGARIAN" value="1" />
+        <entry key="ITALIAN" value="2" />
+        <entry key="HINDI" value="3" />
+        <entry key="INDONESIAN" value="2" />
+        <entry key="VIETNAMESE" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1630124717506" />
+  </component>
+  <component name="Settings">
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Arial" />
+    <option name="primaryFontFamily" value="SimSun" />
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>

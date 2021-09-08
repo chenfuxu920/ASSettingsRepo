@@ -1,0 +1,106 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>Alpha</entry>
+        <entry>pient</entry>
+        <entry encoding="base64">XDxDb250YWN0SWRcPg==</entry>
+        <entry encoding="base64">XDw7XD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>ls</entry>
+        <entry>b2</entry>
+        <entry>set nu</entry>
+        <entry>199</entry>
+        <entry>/Alpha</entry>
+        <entry encoding="base64">JzwsJz5zL3BpZW50L1BPT1MvZw==</entry>
+        <entry>%s/pient/POOS/gc</entry>
+        <entry>!date</entry>
+        <entry>dw</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="E:/android-project/rcs_messaging/src/com/gsma/rcs/utils/ApiUtils.java" timestamp="1574841370896">
+        <mark key="'" line="605" column="0" />
+        <mark key="[" line="17" column="54" />
+        <mark key="]" line="16" column="50" />
+        <mark key="." line="16" column="50" />
+        <mark key="^" line="16" column="50" />
+      </file>
+      <file name="E:/android-project/rcs_messaging_fih/src/com/android/messaging/datamodel/data/ContactListItemData.java" timestamp="1574828173563">
+        <mark key="'" line="128" column="42" />
+        <mark key="[" line="129" column="8" />
+        <mark key="]" line="129" column="8" />
+        <mark key="." line="129" column="8" />
+        <mark key="^" line="129" column="17" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="127" column="9" filename="E:/android-project/rcs_messaging_fih/src/com/android/messaging/datamodel/data/ContactListItemData.java" />
+      <jump line="194" column="21" filename="E:/android-project/rcs_messaging_fih/src/com/android/messaging/datamodel/data/ContactListItemData.java" />
+      <jump line="195" column="16" filename="E:/android-project/rcs_messaging_fih/src/com/android/messaging/datamodel/data/ContactListItemData.java" />
+      <jump line="53" column="20" filename="E:/android-project/rcs_messaging_fih/src/com/android/messaging/datamodel/data/ContactListItemData.java" />
+      <jump line="90" column="9" filename="E:/android-project/rcs_messaging_fih/src/com/android/messaging/datamodel/data/ContactListItemData.java" />
+      <jump line="128" column="42" filename="E:/android-project/rcs_messaging_fih/src/com/android/messaging/datamodel/data/ContactListItemData.java" />
+      <jump line="244" column="8" filename="E:/android-project/rcs_messaging/src/com/gsma/rcs/utils/ApiUtils.java" />
+      <jump line="23" column="37" filename="E:/android-project/rcs_messaging/src/com/gsma/rcs/utils/ApiUtils.java" />
+      <jump line="370" column="44" filename="E:/android-project/rcs_messaging/src/com/gsma/rcs/utils/ApiUtils.java" />
+      <jump line="605" column="0" filename="E:/android-project/rcs_messaging/src/com/gsma/rcs/utils/ApiUtils.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y29udGFjdElkIA==</text>
+      </register>
+      <register name=":" type="4">
+        <text>%s/pient/POOS/gc</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">Y29udGFjdElkIA==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDw7XD4=</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDw7XD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDw7XD4=</last-pattern>
+      <last-replace>POOS</last-replace>
+      <last-substitute>pient</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>
