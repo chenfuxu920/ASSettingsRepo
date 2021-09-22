@@ -1,12 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="542" />
+    <option name="newTranslationDialogWidth" value="538" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Screen Grid View" />
+      <item value="网格" />
+      <item value="九宫" />
       <item value="九宫格" />
+      <item value="Gantt Constant" />
       <item value="测试" />
       <item value="gr" />
       <item value="grid" />
@@ -52,15 +56,11 @@
       <item value="Dispose the resource, the operation should be idempotent." />
       <item value="手动" />
       <item value="shoud" />
-      <item value="synthesize Text" />
-      <item value="Inserts all of the elements of the specified collection [elements] into this list at the specified [index]. @return `true` if the list was changed as the result of the operation." />
-      <item value="geometry1 and geometry2 must have equivalent spatial references" />
-      <item value="distinct" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="794" />
-        <entry key="ENGLISH" value="795" />
+        <entry key="CHINESE" value="816" />
+        <entry key="ENGLISH" value="817" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
@@ -85,6 +85,11 @@
     <option name="lastTrimTime" value="1631950786319" />
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Arial" />
     <option name="primaryFontFamily" value="SimSun" />
