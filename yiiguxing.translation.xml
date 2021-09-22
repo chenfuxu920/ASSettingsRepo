@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="digit To Int" />
       <item value="until" />
       <item value="间隙" />
       <item value="horizontal" />
@@ -55,12 +56,11 @@
       <item value="admonish" />
       <item value="forewarn" />
       <item value="forestall" />
-      <item value="caution" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="827" />
-        <entry key="ENGLISH" value="828" />
+        <entry key="CHINESE" value="828" />
+        <entry key="ENGLISH" value="829" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
