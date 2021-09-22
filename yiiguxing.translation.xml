@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="until" />
+      <item value="间隙" />
+      <item value="horizontal" />
+      <item value="vertical" />
+      <item value="Line" />
       <item value="Screen Grid View" />
       <item value="网格" />
       <item value="九宫" />
@@ -51,16 +56,11 @@
       <item value="forewarn" />
       <item value="forestall" />
       <item value="caution" />
-      <item value="警戒" />
-      <item value="Lifecycles can only be bound to on the main thread!" />
-      <item value="Dispose the resource, the operation should be idempotent." />
-      <item value="手动" />
-      <item value="shoud" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="816" />
-        <entry key="ENGLISH" value="817" />
+        <entry key="CHINESE" value="827" />
+        <entry key="ENGLISH" value="828" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
