@@ -1,11 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="544" />
+    <option name="newTranslationDialogWidth" value="542" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="九宫格" />
+      <item value="测试" />
+      <item value="gr" />
+      <item value="grid" />
+      <item value="9宫格" />
+      <item value="宫格" />
+      <item value="九宫格&#10;" />
       <item value="Enabled" />
       <item value="multi Dex Enabled" />
       <item value="longitude" />
@@ -49,18 +56,11 @@
       <item value="Inserts all of the elements of the specified collection [elements] into this list at the specified [index]. @return `true` if the list was changed as the result of the operation." />
       <item value="geometry1 and geometry2 must have equivalent spatial references" />
       <item value="distinct" />
-      <item value="Patrol" />
-      <item value="set Web View Data Directory Suffix" />
-      <item value="View" />
-      <item value="feedback" />
-      <item value="feedback&#10;" />
-      <item value="feedba" />
-      <item value="feed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="775" />
-        <entry key="ENGLISH" value="776" />
+        <entry key="CHINESE" value="794" />
+        <entry key="ENGLISH" value="795" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
@@ -88,6 +88,7 @@
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Arial" />
     <option name="primaryFontFamily" value="SimSun" />
+    <option name="takeWordWhenDialogOpens" value="true" />
     <option name="translateDocumentation" value="true" />
   </component>
 </application>
