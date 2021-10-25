@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="map Directory" />
+      <item value="Directory" />
+      <item value="External" />
       <item value="Basemap" />
       <item value="improved" />
       <item value="imporoved" />
@@ -53,9 +56,6 @@
       <item value="prefer Codec" />
       <item value="No payload types with name" />
       <item value="video Codec Hw Acceleration" />
-      <item value="set Swapped Feeds" />
-      <item value="Enumerator" />
-      <item value="Child" />
     </histories>
     <option name="languageScores">
       <map>
