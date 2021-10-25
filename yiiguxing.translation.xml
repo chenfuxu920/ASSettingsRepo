@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="538" />
+    <option name="newTranslationDialogWidth" value="536" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="improved" />
+      <item value="imporoved" />
       <item value="infrared" />
       <item value="digit To Int" />
       <item value="until" />
@@ -54,13 +56,11 @@
       <item value="Enumerator" />
       <item value="Child" />
       <item value="previse" />
-      <item value="admonish" />
-      <item value="forewarn" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="829" />
-        <entry key="ENGLISH" value="830" />
+        <entry key="CHINESE" value="846" />
+        <entry key="ENGLISH" value="846" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
@@ -82,14 +82,9 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632883144356" />
+    <option name="lastTrimTime" value="1635131732963" />
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Arial" />
     <option name="primaryFontFamily" value="SimSun" />
