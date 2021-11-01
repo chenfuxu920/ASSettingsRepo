@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="associated" />
       <item value="Baseurl" />
       <item value="latitude" />
       <item value="latitu" />
@@ -56,12 +57,11 @@
       <item value="经度" />
       <item value="jingdu" />
       <item value="炮台" />
-      <item value="paot" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="850" />
-        <entry key="ENGLISH" value="848" />
+        <entry key="CHINESE" value="851" />
+        <entry key="ENGLISH" value="849" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
