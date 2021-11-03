@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="减" />
+      <item value="jia" />
+      <item value="iv zoom_" />
       <item value="START STICKY" />
       <item value="associated" />
       <item value="Baseurl" />
@@ -54,9 +57,6 @@
       <item value="转弯曲率" />
       <item value="转弯 " />
       <item value="转弯" />
-      <item value="纬度" />
-      <item value="经度" />
-      <item value="jingdu" />
     </histories>
     <option name="languageScores">
       <map>
