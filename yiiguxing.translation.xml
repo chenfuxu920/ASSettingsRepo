@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="followed" />
       <item value="减" />
       <item value="jia" />
       <item value="iv zoom_" />
@@ -56,12 +57,11 @@
       <item value="油门" />
       <item value="转弯曲率" />
       <item value="转弯 " />
-      <item value="转弯" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="852" />
-        <entry key="ENGLISH" value="850" />
+        <entry key="CHINESE" value="853" />
+        <entry key="ENGLISH" value="851" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
