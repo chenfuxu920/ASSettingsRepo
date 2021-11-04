@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Optionally, specify a URI for the directory that should be opened in the system file picker before your app creates the document." />
+      <item value="To improve user privacy, direct access to sharedexternal storage devices is deprecated. When an app targets Build.VERSION_CODES.Q, the path returned from this method is no longer directly accessible to apps. Apps can continue to access content stored on sharedexternal storage by migrating to alternatives such as Context.getExternalFilesDir(String), MediaStore, or Intent.ACTION_OPEN_DOCUMENT." />
+      <item value="Recursively" />
       <item value="followed" />
       <item value="减" />
       <item value="jia" />
@@ -54,14 +57,11 @@
       <item value="水平的" />
       <item value="水平" />
       <item value="云台" />
-      <item value="油门" />
-      <item value="转弯曲率" />
-      <item value="转弯 " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="853" />
-        <entry key="ENGLISH" value="851" />
+        <entry key="CHINESE" value="856" />
+        <entry key="ENGLISH" value="854" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
