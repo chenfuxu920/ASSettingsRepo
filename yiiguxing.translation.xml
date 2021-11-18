@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="If we want to allow showing the drawer, we use a real, remembered drawer state defined above" />
+      <item value="remember Size Aware Drawer State" />
+      <item value="Only enable opening the drawer via gestures if the screen is not expanded" />
       <item value="Provide Window Insets" />
       <item value="Markup" />
       <item value="Optionally, specify a URI for the directory that should be opened in the system file picker before your app creates the document." />
@@ -54,14 +57,11 @@
       <item value="指令" />
       <item value="zhi" />
       <item value="焦距" />
-      <item value="视野角" />
-      <item value="垂直的" />
-      <item value="水平的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="858" />
-        <entry key="ENGLISH" value="856" />
+        <entry key="CHINESE" value="861" />
+        <entry key="ENGLISH" value="859" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
