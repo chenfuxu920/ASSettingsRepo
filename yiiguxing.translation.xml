@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="sealed" />
+      <item value="interacted With Article Details" />
       <item value="If we want to allow showing the drawer, we use a real, remembered drawer state defined above" />
       <item value="remember Size Aware Drawer State" />
       <item value="Only enable opening the drawer via gestures if the screen is not expanded" />
@@ -55,13 +57,11 @@
       <item value="longitude" />
       <item value="Command" />
       <item value="指令" />
-      <item value="zhi" />
-      <item value="焦距" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="861" />
-        <entry key="ENGLISH" value="859" />
+        <entry key="CHINESE" value="863" />
+        <entry key="ENGLISH" value="861" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
