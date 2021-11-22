@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Size in percents to apply." />
+      <item value="Spacer" />
       <item value="look at result of runCatching and show any errors" />
       <item value="associate By" />
       <item value="superior" />
@@ -55,13 +57,11 @@
       <item value="九宫格" />
       <item value="Gantt Constant" />
       <item value="测试" />
-      <item value="gr" />
-      <item value="grid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="871" />
-        <entry key="ENGLISH" value="869" />
+        <entry key="CHINESE" value="873" />
+        <entry key="ENGLISH" value="871" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
