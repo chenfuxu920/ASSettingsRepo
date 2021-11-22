@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="superior" />
+      <item value="superior Id" />
       <item value="Category" />
       <item value="Navigation Rail" />
       <item value="Scaffold" />
@@ -55,13 +57,11 @@
       <item value="grid" />
       <item value="9宫格" />
       <item value="宫格" />
-      <item value="九宫格&#10;" />
-      <item value="Enabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="867" />
-        <entry key="ENGLISH" value="865" />
+        <entry key="CHINESE" value="869" />
+        <entry key="ENGLISH" value="867" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
