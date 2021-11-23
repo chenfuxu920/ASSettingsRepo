@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="small" />
       <item value="implies" />
       <item value="contract" />
       <item value="Device Posture" />
@@ -56,12 +57,11 @@
       <item value="digit To Int" />
       <item value="until" />
       <item value="间隙" />
-      <item value="horizontal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="883" />
-        <entry key="ENGLISH" value="881" />
+        <entry key="CHINESE" value="884" />
+        <entry key="ENGLISH" value="882" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
