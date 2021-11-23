@@ -7,6 +7,10 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="implies" />
+      <item value="contract" />
+      <item value="Device Posture" />
+      <item value="Provide Window Insets" />
       <item value="fraction" />
       <item value="e: This version (1.0.1) of the Compose Compiler requires Kotlin version 1.5.21 but you appear to be using Kotlin version 1.5.31 which is not known to be compatible. Please fix your configuration (or `suppressKotlinVersionCompatibilityCheck` but don't say I didn't warn you!)." />
       <item value="The column userId in the junction entity com.txxy.zcglkz.ui.commonTask.CommonTaskUserBean is being used to resolve a relationship but it is not covered by any index. This might cause a full table scan when resolving the relationship, it is highly advised to create an index that covers this column." />
@@ -27,7 +31,6 @@
       <item value="If we want to allow showing the drawer, we use a real, remembered drawer state defined above" />
       <item value="remember Size Aware Drawer State" />
       <item value="Only enable opening the drawer via gestures if the screen is not expanded" />
-      <item value="Provide Window Insets" />
       <item value="Markup" />
       <item value="Optionally, specify a URI for the directory that should be opened in the system file picker before your app creates the document." />
       <item value="To improve user privacy, direct access to sharedexternal storage devices is deprecated. When an app targets Build.VERSION_CODES.Q, the path returned from this method is no longer directly accessible to apps. Apps can continue to access content stored on sharedexternal storage by migrating to alternatives such as Context.getExternalFilesDir(String), MediaStore, or Intent.ACTION_OPEN_DOCUMENT." />
@@ -54,14 +57,11 @@
       <item value="until" />
       <item value="间隙" />
       <item value="horizontal" />
-      <item value="vertical" />
-      <item value="Line" />
-      <item value="Screen Grid View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="879" />
-        <entry key="ENGLISH" value="877" />
+        <entry key="CHINESE" value="883" />
+        <entry key="ENGLISH" value="881" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
