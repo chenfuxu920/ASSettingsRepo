@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="@Composable invocations can only happen from the context of a @Composable function" />
+      <item value="all Team Item" />
       <item value="Expand" />
       <item value="include Font Padding" />
       <item value="primary Variant" />
@@ -55,8 +57,6 @@
       <item value="External" />
       <item value="Basemap" />
       <item value="improved" />
-      <item value="imporoved" />
-      <item value="infrared" />
     </histories>
     <option name="languageScores">
       <map>
