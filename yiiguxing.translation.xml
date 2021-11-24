@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Expand" />
       <item value="include Font Padding" />
       <item value="primary Variant" />
       <item value="small" />
@@ -56,12 +57,11 @@
       <item value="improved" />
       <item value="imporoved" />
       <item value="infrared" />
-      <item value="digit To Int" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="886" />
-        <entry key="ENGLISH" value="884" />
+        <entry key="CHINESE" value="887" />
+        <entry key="ENGLISH" value="885" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
