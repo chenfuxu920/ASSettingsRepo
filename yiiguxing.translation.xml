@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="'fun LazyListScope.allTeamItem(expandWrapper: ExpandWrapper&lt;TeamBean&gt;, onClick: (PersonBean) -&gt; Unit): Unit' can't be called in this context by implicit receiver. Use the explicit one if necessary" />
+      <item value="all Team Item" />
+      <item value="Nesting" />
       <item value="组合" />
       <item value="zuhw" />
       <item value="recursivez" />
@@ -14,7 +17,6 @@
       <item value="put If Absent" />
       <item value="Recursive referencing through @Embedded andor @Relation detected: com.txxy.zcglkz.ui.userManegement.TeamRelationBean -&gt; com.txxy.zcglkz.ui.userManegement.TeamRelationBean" />
       <item value="@Composable invocations can only happen from the context of a @Composable function" />
-      <item value="all Team Item" />
       <item value="Expand" />
       <item value="include Font Padding" />
       <item value="primary Variant" />
@@ -55,13 +57,11 @@
       <item value="associated" />
       <item value="Baseurl" />
       <item value="latitude" />
-      <item value="latitu" />
-      <item value="la" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="889" />
-        <entry key="ENGLISH" value="887" />
+        <entry key="CHINESE" value="890" />
+        <entry key="ENGLISH" value="888" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
