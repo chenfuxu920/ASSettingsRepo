@@ -7,6 +7,11 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="组合" />
+      <item value="zuhw" />
+      <item value="recursivez" />
+      <item value="recursive" />
+      <item value="put If Absent" />
       <item value="Recursive referencing through @Embedded andor @Relation detected: com.txxy.zcglkz.ui.userManegement.TeamRelationBean -&gt; com.txxy.zcglkz.ui.userManegement.TeamRelationBean" />
       <item value="@Composable invocations can only happen from the context of a @Composable function" />
       <item value="all Team Item" />
@@ -52,16 +57,11 @@
       <item value="latitude" />
       <item value="latitu" />
       <item value="la" />
-      <item value="collect Latest" />
-      <item value="Directory" />
-      <item value="map Directory" />
-      <item value="External" />
-      <item value="Basemap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="888" />
-        <entry key="ENGLISH" value="886" />
+        <entry key="CHINESE" value="889" />
+        <entry key="ENGLISH" value="887" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
