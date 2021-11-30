@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="fitness" />
       <item value="arm" />
       <item value="profession" />
       <item value="service" />
@@ -56,12 +57,11 @@
       <item value="Only enable opening the drawer via gestures if the screen is not expanded" />
       <item value="Markup" />
       <item value="Optionally, specify a URI for the directory that should be opened in the system file picker before your app creates the document." />
-      <item value="To improve user privacy, direct access to sharedexternal storage devices is deprecated. When an app targets Build.VERSION_CODES.Q, the path returned from this method is no longer directly accessible to apps. Apps can continue to access content stored on sharedexternal storage by migrating to alternatives such as Context.getExternalFilesDir(String), MediaStore, or Intent.ACTION_OPEN_DOCUMENT." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="901" />
-        <entry key="ENGLISH" value="899" />
+        <entry key="CHINESE" value="902" />
+        <entry key="ENGLISH" value="900" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
