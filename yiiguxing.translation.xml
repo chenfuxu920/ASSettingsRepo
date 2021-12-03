@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Inherit" />
       <item value="calculation" />
       <item value="计算" />
       <item value="include Font Padding" />
@@ -56,12 +57,11 @@
       <item value="Navigation Rail" />
       <item value="Scaffold" />
       <item value="interacted With Feed" />
-      <item value="interacted With Article Details" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="905" />
-        <entry key="ENGLISH" value="903" />
+        <entry key="CHINESE" value="906" />
+        <entry key="ENGLISH" value="904" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
