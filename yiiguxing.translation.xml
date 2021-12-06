@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="associate By" />
       <item value="Entry" />
       <item value="cancel Select Arms" />
       <item value="change" />
@@ -56,12 +57,11 @@
       <item value="e: This version (1.0.1) of the Compose Compiler requires Kotlin version 1.5.21 but you appear to be using Kotlin version 1.5.31 which is not known to be compatible. Please fix your configuration (or `suppressKotlinVersionCompatibilityCheck` but don't say I didn't warn you!)." />
       <item value="The column userId in the junction entity com.txxy.zcglkz.ui.commonTask.CommonTaskUserBean is being used to resolve a relationship but it is not covered by any index. This might cause a full table scan when resolving the relationship, it is highly advised to create an index that covers this column." />
       <item value="population" />
-      <item value="Palette" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="911" />
-        <entry key="ENGLISH" value="909" />
+        <entry key="CHINESE" value="912" />
+        <entry key="ENGLISH" value="910" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
