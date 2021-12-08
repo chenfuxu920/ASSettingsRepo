@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Message Shown" />
+      <item value="should Randomly Fail" />
       <item value="episodes" />
       <item value="top Podcasts" />
       <item value="associate By" />
@@ -55,13 +57,11 @@
       <item value="contract" />
       <item value="Device Posture" />
       <item value="Provide Window Insets" />
-      <item value="fraction" />
-      <item value="e: This version (1.0.1) of the Compose Compiler requires Kotlin version 1.5.21 but you appear to be using Kotlin version 1.5.31 which is not known to be compatible. Please fix your configuration (or `suppressKotlinVersionCompatibilityCheck` but don't say I didn't warn you!)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="914" />
-        <entry key="ENGLISH" value="912" />
+        <entry key="CHINESE" value="916" />
+        <entry key="ENGLISH" value="914" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
