@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Authentication token manipulation error&#10;" />
+      <item value="snack Id" />
       <item value="rtl Aware" />
       <item value="set Message Shown" />
       <item value="should Randomly Fail" />
@@ -55,8 +57,6 @@
       <item value="primary Variant" />
       <item value="small" />
       <item value="implies" />
-      <item value="contract" />
-      <item value="Device Posture" />
     </histories>
     <option name="languageScores">
       <map>
