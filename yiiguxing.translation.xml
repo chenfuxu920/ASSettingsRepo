@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Appedner Mode Sync" />
+      <item value="Appedner Mode Async" />
       <item value="on Characteristic Changed" />
       <item value="Envelope" />
       <item value="Once" />
@@ -55,13 +57,11 @@
       <item value="zuhw" />
       <item value="recursivez" />
       <item value="recursive" />
-      <item value="put If Absent" />
-      <item value="Recursive referencing through @Embedded andor @Relation detected: com.txxy.zcglkz.ui.userManegement.TeamRelationBean -&gt; com.txxy.zcglkz.ui.userManegement.TeamRelationBean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="922" />
-        <entry key="ENGLISH" value="920" />
+        <entry key="CHINESE" value="925" />
+        <entry key="ENGLISH" value="923" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
