@@ -86,27 +86,4 @@
   <component name="Cache">
     <option name="lastTrimTime" value="1640588878271" />
   </component>
-  <component name="Settings">
-    <option name="aliTranslateSettings">
-      <app-key>
-        <option name="appId" value="LTAI5t9pfEq56N1ShTERBJMs" />
-      </app-key>
-    </option>
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="appId" value="20211025000982071" />
-      </app-key>
-    </option>
-    <option name="overrideFont" value="true" />
-    <option name="phoneticFontFamily" value="Arial" />
-    <option name="primaryFontFamily" value="SimSun" />
-    <option name="takeWordWhenDialogOpens" value="true" />
-    <option name="translateDocumentation" value="true" />
-    <option name="translator" value="YOUDAO" />
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="appId" value="02c69ec9b6aa2aef" />
-      </youdao-translate>
-    </option>
-  </component>
 </application>
