@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="clip To Bounds" />
+      <item value="Intrinsic Size" />
       <item value="use Platform Default Width" />
       <item value="ROLE" />
       <item value="Prevent R8 from leaving Data object members always null" />
@@ -55,13 +57,11 @@
       <item value="Spacer" />
       <item value="compare And Set" />
       <item value="times" />
-      <item value="'fun LazyListScope.allTeamItem(expandWrapper: ExpandWrapper&lt;TeamBean&gt;, onClick: (PersonBean) -&gt; Unit): Unit' can't be called in this context by implicit receiver. Use the explicit one if necessary" />
-      <item value="all Team Item" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="928" />
-        <entry key="ENGLISH" value="928" />
+        <entry key="CHINESE" value="929" />
+        <entry key="ENGLISH" value="930" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
