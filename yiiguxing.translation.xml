@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="enable Implicit Rollback" />
       <item value="clip To Bounds" />
       <item value="Intrinsic Size" />
       <item value="use Platform Default Width" />
@@ -56,12 +57,11 @@
       <item value="Transparent" />
       <item value="Spacer" />
       <item value="compare And Set" />
-      <item value="times" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="929" />
-        <entry key="ENGLISH" value="930" />
+        <entry key="CHINESE" value="930" />
+        <entry key="ENGLISH" value="931" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
