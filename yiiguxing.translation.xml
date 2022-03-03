@@ -2,11 +2,20 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="232" />
-    <option name="newTranslationDialogWidth" value="528" />
+    <option name="newTranslationDialogWidth" value="526" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="所有场景" />
+      <item value="所有" />
+      <item value="s" />
+      <item value="启动状态" />
+      <item value="启动" />
+      <item value="qid" />
+      <item value="scene" />
+      <item value="现场" />
+      <item value="Scene" />
       <item value="Scene Rule" />
       <item value="This cast can never succeed" />
       <item value="JVMTI error: 79(JVMTI_ERROR_UNMODIFIABLE_CLASS)" />
@@ -48,20 +57,11 @@
       <item value="Inherit" />
       <item value="calculation" />
       <item value="计算" />
-      <item value="include Font Padding" />
-      <item value="Arms Panel" />
-      <item value="装备" />
-      <item value="Role Pannel" />
-      <item value="fitness" />
-      <item value="arm" />
-      <item value="profession" />
-      <item value="service" />
-      <item value="component" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="935" />
-        <entry key="ENGLISH" value="936" />
+        <entry key="CHINESE" value="953" />
+        <entry key="ENGLISH" value="953" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
