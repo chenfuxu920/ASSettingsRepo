@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="do not reset audio manager because RTC has control" />
+      <item value="packet delivered to JingleRtpConnection" />
       <item value="infrared" />
       <item value="digit To Int" />
       <item value="until" />
@@ -54,28 +56,6 @@
       <item value="FrameFlowInit app is not supported by frameflow solution" />
       <item value="prefer Codec" />
       <item value="No payload types with name" />
-      <item value="video Codec Hw Acceleration" />
-      <item value="set Swapped Feeds" />
-      <item value="Enumerator" />
-      <item value="Child" />
-      <item value="previse" />
-      <item value="admonish" />
-      <item value="forewarn" />
-      <item value="forestall" />
-      <item value="caution" />
-      <item value="警戒" />
-      <item value="Lifecycles can only be bound to on the main thread!" />
-      <item value="Dispose the resource, the operation should be idempotent." />
-      <item value="手动" />
-      <item value="shoud" />
-      <item value="synthesize Text" />
-      <item value="Inserts all of the elements of the specified collection [elements] into this list at the specified [index]. @return `true` if the list was changed as the result of the operation." />
-      <item value="geometry1 and geometry2 must have equivalent spatial references" />
-      <item value="distinct" />
-      <item value="Patrol" />
-      <item value="set Web View Data Directory Suffix" />
-      <item value="View" />
-      <item value="feedback" />
     </histories>
     <option name="languageScores">
       <map>
