@@ -1,69 +1,71 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="538" />
+    <option name="newTranslationDialogHeight" value="232" />
+    <option name="newTranslationDialogWidth" value="528" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="do not reset audio manager because RTC has control" />
-      <item value="packet delivered to JingleRtpConnection" />
-      <item value="infrared" />
-      <item value="digit To Int" />
-      <item value="until" />
-      <item value="间隙" />
-      <item value="horizontal" />
-      <item value="vertical" />
-      <item value="Line" />
-      <item value="Screen Grid View" />
-      <item value="网格" />
-      <item value="九宫" />
-      <item value="九宫格" />
-      <item value="Gantt Constant" />
-      <item value="测试" />
-      <item value="gr" />
-      <item value="grid" />
-      <item value="9宫格" />
-      <item value="宫格" />
-      <item value="九宫格&#10;" />
-      <item value="Enabled" />
-      <item value="multi Dex Enabled" />
-      <item value="震动传感器" />
-      <item value="Vibration" />
-      <item value="震动" />
-      <item value="zhe" />
-      <item value="zhen" />
-      <item value="longitude" />
-      <item value="Command" />
-      <item value="指令" />
-      <item value="zhi" />
-      <item value="焦距" />
-      <item value="视野角" />
-      <item value="垂直的" />
-      <item value="水平的" />
-      <item value="水平" />
-      <item value="云台" />
-      <item value="油门" />
-      <item value="转弯曲率" />
-      <item value="转弯 " />
-      <item value="转弯" />
-      <item value="纬度" />
-      <item value="经度" />
-      <item value="jingdu" />
-      <item value="炮台" />
-      <item value="paot" />
-      <item value="setPortMode on output to DynamicANWBuffer failed w err -2147483648" />
-      <item value="FrameFlowInit app is not supported by frameflow solution" />
-      <item value="prefer Codec" />
-      <item value="No payload types with name" />
+      <item value="enable Implicit Rollback" />
+      <item value="clip To Bounds" />
+      <item value="Intrinsic Size" />
+      <item value="use Platform Default Width" />
+      <item value="ROLE" />
+      <item value="Prevent R8 from leaving Data object members always null" />
+      <item value="Accessed via reflection, avoid renaming or removal" />
+      <item value="commit Allowing State Loss" />
+      <item value="Appedner Mode Sync" />
+      <item value="Appedner Mode Async" />
+      <item value="on Characteristic Changed" />
+      <item value="Envelope" />
+      <item value="Once" />
+      <item value="Internal Coroutines Api" />
+      <item value="Listener" />
+      <item value="Authentication token manipulation error&#10;" />
+      <item value="snack Id" />
+      <item value="rtl Aware" />
+      <item value="set Message Shown" />
+      <item value="should Randomly Fail" />
+      <item value="episodes" />
+      <item value="top Podcasts" />
+      <item value="associate By" />
+      <item value="Entry" />
+      <item value="cancel Select Arms" />
+      <item value="change" />
+      <item value="negative" />
+      <item value="bg negative button" />
+      <item value="widget" />
+      <item value="控件" />
+      <item value="k" />
+      <item value="co" />
+      <item value="Inherit" />
+      <item value="calculation" />
+      <item value="计算" />
+      <item value="include Font Padding" />
+      <item value="Arms Panel" />
+      <item value="装备" />
+      <item value="Role Pannel" />
+      <item value="fitness" />
+      <item value="arm" />
+      <item value="profession" />
+      <item value="service" />
+      <item value="component" />
+      <item value="bg fragment" />
+      <item value="Detail" />
+      <item value="sealed" />
+      <item value="Transparent" />
+      <item value="Spacer" />
+      <item value="compare And Set" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="829" />
-        <entry key="ENGLISH" value="830" />
+        <entry key="CHINESE" value="930" />
+        <entry key="ENGLISH" value="931" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
+        <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="KANNADA" value="1" />
         <entry key="LATIN" value="2" />
@@ -82,18 +84,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636251778112" />
-  </component>
-  <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
-    <option name="overrideFont" value="true" />
-    <option name="phoneticFontFamily" value="Arial" />
-    <option name="primaryFontFamily" value="SimSun" />
-    <option name="takeWordWhenDialogOpens" value="true" />
-    <option name="translateDocumentation" value="true" />
+    <option name="lastTrimTime" value="1641261151723" />
   </component>
 </application>
