@@ -1,69 +1,71 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="536" />
+    <option name="newTranslationDialogHeight" value="232" />
+    <option name="newTranslationDialogWidth" value="528" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="Maneuver task" />
-      <item value="机动任务" />
-      <item value="机动" />
-      <item value="maneuver" />
-      <item value="Fast maneuver" />
-      <item value="快速机动&#10;" />
-      <item value="机动&#10;" />
-      <item value="快机动&#10;" />
-      <item value="灵活机动&#10;" />
-      <item value="make Notification Read" />
-      <item value="infrared" />
-      <item value="红外" />
-      <item value="红外光" />
-      <item value="set Fps Reduction" />
-      <item value="视角" />
-      <item value="shi" />
-      <item value="TOPOGRAPHIC" />
-      <item value="Sharing is started immediately and never stops." />
-      <item value="Sharing is started when the first subscriber appears and never stops." />
-      <item value="Sharing" />
-      <item value="Atomically compares the current [value] with [expect] and sets it to [update] if it is equal to [expect]. The result is `true` if the [value] was set to [update] and `false` otherwise. This function use a regular comparison using [Any.equals]. If both [expect] and [update] are equal to the current [value], this function returns `true`, but it does not actually change the reference that is stored in the [value]. This method is thread-safe and can be safely invoked from concurrent coroutines without external synchronization." />
-      <item value="Asynchronously send the request and notify {@code callback} of its response or if an error occurred talking to the server, creating the request, or processing the response." />
-      <item value="Resolves the given {@code type} against the type context represented by this type. For example: &lt;pre&gt;{@code new TypeToken&lt;List&lt;String&gt;&gt;() {}.resolveType( List.class.getMethod(&quot;get&quot;, int.class).getGenericReturnType()) =&gt; String.class }&lt;pre&gt;" />
-      <item value="Returns the value type that this adapter uses when converting the HTTP response body to a Java object. For example, the response type for {@code Call&lt;Repo&gt;} is {@code Repo}. This type is used to prepare the {@code call} passed to {@code adapt}. &lt;p&gt;Note: This is typically not the same type as the {@code returnType} provided to this call adapter's factory." />
-      <item value="Rescue Bean" />
-      <item value="parameterized" />
-      <item value="The column userId in the junction entity com.txxy.zcglkz.ui.commonTask.CommonTaskUserBean is being used to resolve a relationship but it is not covered by any index. This might cause a full table scan when resolving the relationship, it is highly advised to create an index that covers this column." />
-      <item value="milliseconds" />
-      <item value="Millis" />
-      <item value="Returns a flow containing only values of the original flow that are not null." />
-      <item value="Tries to emit a [value] to this shared flow without suspending. It returns `true` if the value was emitted successfully. When this function returns `false`, it means that the call to a plain [emit] function will suspend until there is a buffer space available. A shared flow configured with a [BufferOverflow] strategy other than [SUSPEND][BufferOverflow.SUSPEND] (either [DROP_OLDEST][BufferOverflow.DROP_OLDEST] or [DROP_LATEST][BufferOverflow.DROP_LATEST]) never suspends on [emit], and thus `tryEmit` to such a shared flow always returns `true`. This method is thread-safe and can be safely invoked from concurrent coroutines without external synchronization." />
-      <item value="Returns a flow that mirrors the original flow, but filters out values that are followed by the newer values within the given [timeout][timeoutMillis]. The latest value is always emitted. Example: ```kotlin flow { emit(1) delay(90) emit(2) delay(90) emit(3) delay(1010) emit(4) delay(1010) emit(5) }.debounce(1000) ``` &lt;!--- KNIT example-delay-01.kt --&gt; produces the following emissions ```text 3, 4, 5 ``` &lt;!--- TEST --&gt; Note that the resulting flow does not emit anything as long as the original flow emits items faster than every [timeoutMillis] milliseconds." />
-      <item value="RECENTER" />
-      <item value="process" />
-      <item value="Collection contains no element matching the predicate." />
-      <item value="exhaustive" />
-      <item value="This declaration is in a preview state and can be changed in a backwards-incompatible manner with a best-effort migration." />
-      <item value="Experimental" />
-      <item value="Experimental Coroutines Api" />
-      <item value="set Logged In User" />
-      <item value="Stops to listen the given {@code LiveData}. @param toRemote {@code LiveData} to stop to listen @param &lt;S&gt; the type of data hold by {@code source} LiveData" />
-      <item value="The current value of this state flow. Setting a value that is [equal][Any.equals] to the previous one does nothing. This property is thread-safe and can be safely updated from concurrent coroutines without external synchronization." />
-      <item value="Class is referenced as a converter but it does not have any converter methods. - androidx.databinding.adapters.Converters" />
-      <item value="fallback To Destructive Migration" />
-      <item value="Create and pre-populate the database. See this article for more details: https:medium.comgoogle-developers7-pro-tips-for-room-fbadea4bfbd14785" />
-      <item value="should Be Watered" />
-      <item value="fight" />
-      <item value="fighting" />
-      <item value="combat" />
-      <item value="分队作战系统" />
+      <item value="enable Implicit Rollback" />
+      <item value="clip To Bounds" />
+      <item value="Intrinsic Size" />
+      <item value="use Platform Default Width" />
+      <item value="ROLE" />
+      <item value="Prevent R8 from leaving Data object members always null" />
+      <item value="Accessed via reflection, avoid renaming or removal" />
+      <item value="commit Allowing State Loss" />
+      <item value="Appedner Mode Sync" />
+      <item value="Appedner Mode Async" />
+      <item value="on Characteristic Changed" />
+      <item value="Envelope" />
+      <item value="Once" />
+      <item value="Internal Coroutines Api" />
+      <item value="Listener" />
+      <item value="Authentication token manipulation error&#10;" />
+      <item value="snack Id" />
+      <item value="rtl Aware" />
+      <item value="set Message Shown" />
+      <item value="should Randomly Fail" />
+      <item value="episodes" />
+      <item value="top Podcasts" />
+      <item value="associate By" />
+      <item value="Entry" />
+      <item value="cancel Select Arms" />
+      <item value="change" />
+      <item value="negative" />
+      <item value="bg negative button" />
+      <item value="widget" />
+      <item value="控件" />
+      <item value="k" />
+      <item value="co" />
+      <item value="Inherit" />
+      <item value="calculation" />
+      <item value="计算" />
+      <item value="include Font Padding" />
+      <item value="Arms Panel" />
+      <item value="装备" />
+      <item value="Role Pannel" />
+      <item value="fitness" />
+      <item value="arm" />
+      <item value="profession" />
+      <item value="service" />
+      <item value="component" />
+      <item value="bg fragment" />
+      <item value="Detail" />
+      <item value="sealed" />
+      <item value="Transparent" />
+      <item value="Spacer" />
+      <item value="compare And Set" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="801" />
-        <entry key="ENGLISH" value="802" />
+        <entry key="CHINESE" value="930" />
+        <entry key="ENGLISH" value="931" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
+        <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="KANNADA" value="1" />
         <entry key="LATIN" value="2" />
@@ -82,12 +84,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632667450022" />
-  </component>
-  <component name="Settings">
-    <option name="overrideFont" value="true" />
-    <option name="phoneticFontFamily" value="Arial" />
-    <option name="primaryFontFamily" value="SimSun" />
-    <option name="translateDocumentation" value="true" />
+    <option name="lastTrimTime" value="1641261151723" />
   </component>
 </application>

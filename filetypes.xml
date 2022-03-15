@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="OWNERS" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
-      <mapping ext="vmoptions" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
