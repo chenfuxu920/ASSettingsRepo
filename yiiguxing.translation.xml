@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="interaction" />
+      <item value="on Click Label" />
       <item value="semantic accessibility label for the onClick action" />
       <item value="focused" />
       <item value="Indicator" />
@@ -55,13 +57,11 @@
       <item value="should Randomly Fail" />
       <item value="episodes" />
       <item value="top Podcasts" />
-      <item value="associate By" />
-      <item value="Entry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="967" />
-        <entry key="ENGLISH" value="968" />
+        <entry key="CHINESE" value="969" />
+        <entry key="ENGLISH" value="970" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
