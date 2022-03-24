@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="sheet Elevation" />
+      <item value="Bottom" />
       <item value="This syntax is reserved for future use; to call a reference, enclose it in parentheses: (foo::bar)(args)" />
       <item value="associate" />
       <item value="Property in an interface cannot have a backing field" />
@@ -55,13 +57,11 @@
       <item value="clip To Bounds" />
       <item value="Intrinsic Size" />
       <item value="use Platform Default Width" />
-      <item value="ROLE" />
-      <item value="Prevent R8 from leaving Data object members always null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="986" />
-        <entry key="ENGLISH" value="984" />
+        <entry key="CHINESE" value="987" />
+        <entry key="ENGLISH" value="987" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
