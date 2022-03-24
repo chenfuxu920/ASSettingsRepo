@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Show a share sheet for a post" />
       <item value="sheet Elevation" />
       <item value="Bottom" />
       <item value="This syntax is reserved for future use; to call a reference, enclose it in parentheses: (foo::bar)(args)" />
@@ -56,12 +57,11 @@
       <item value="enable Implicit Rollback" />
       <item value="clip To Bounds" />
       <item value="Intrinsic Size" />
-      <item value="use Platform Default Width" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="987" />
-        <entry key="ENGLISH" value="987" />
+        <entry key="ENGLISH" value="988" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
