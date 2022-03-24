@@ -7,8 +7,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="need to do initial synchronization synchronously :(" />
       <item value="The initial value must have an associated anchor." />
+      <item value="need to do initial synchronization synchronously :(" />
       <item value="internal" />
       <item value="Show a share sheet for a post" />
       <item value="sheet Elevation" />
@@ -60,8 +60,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="990" />
-        <entry key="ENGLISH" value="991" />
+        <entry key="CHINESE" value="991" />
+        <entry key="ENGLISH" value="992" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
