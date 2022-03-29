@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns a flow that invokes the given [action] before each value of the upstream flow is emitted downstream." />
+      <item value="Returns" />
       <item value="on Globally Positioned" />
       <item value="The initial value must have an associated anchor." />
       <item value="need to do initial synchronization synchronously :(" />
@@ -55,13 +57,11 @@
       <item value="Scene Rule" />
       <item value="This cast can never succeed" />
       <item value="JVMTI error: 79(JVMTI_ERROR_UNMODIFIABLE_CLASS)" />
-      <item value="Access denied finding property &quot;ro.serialno&quot;" />
-      <item value="should remain that low because later versions introduce dependency to androidx (not sure exactly from what version)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="992" />
-        <entry key="ENGLISH" value="993" />
+        <entry key="CHINESE" value="994" />
+        <entry key="ENGLISH" value="995" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
@@ -84,6 +84,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647941329722" />
+    <option name="lastTrimTime" value="1648522452577" />
   </component>
 </application>
