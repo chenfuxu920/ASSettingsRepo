@@ -2,11 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="232" />
-    <option name="newTranslationDialogWidth" value="526" />
+    <option name="newTranslationDialogWidth" value="524" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="minute" />
+      <item value="Minute" />
+      <item value="Minutes" />
       <item value="Screen" />
       <item value="Instantly jump to the given position in pixels. Cancels the currently running scroll, if any, and suspends until the cancellation is complete. @see animateScrollTo for an animated version @param value number of pixels to scroll by @return the amount of scroll consumed" />
       <item value="on Globally Positioned" />
@@ -54,14 +57,11 @@
       <item value="启动状态" />
       <item value="启动" />
       <item value="qid" />
-      <item value="scene" />
-      <item value="现场" />
-      <item value="Scene" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="998" />
-        <entry key="ENGLISH" value="999" />
+        <entry key="CHINESE" value="1002" />
+        <entry key="ENGLISH" value="1003" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
