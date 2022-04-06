@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A [PagingSource] that uses the &quot;name&quot; field of posts as the key for nextprev pages. Note that this is not the correct consumption of the Reddit API but rather shown here as an alternative implementation which might be more suitable for your backend. @see [PageKeyedSubredditPagingSource]" />
+      <item value="Prepend" />
+      <item value="Append" />
       <item value="Common interface shared by the different repository implementations. Note: this only exists for sample purposes - typically an app would implement a repo once, either network+db, or network-only" />
       <item value="alternatively" />
       <item value="Expand Day Task" />
@@ -54,14 +57,11 @@
       <item value="Indicator" />
       <item value="trailing Icon Color" />
       <item value="ensure Present" />
-      <item value="Parameterized Type Impl" />
-      <item value="secondary Variant" />
-      <item value="interaction Source" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1011" />
-        <entry key="ENGLISH" value="1012" />
+        <entry key="CHINESE" value="1014" />
+        <entry key="ENGLISH" value="1015" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
