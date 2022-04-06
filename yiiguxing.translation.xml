@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The same value, -1, was passed as the prevKey in two sequential Pages loaded from a PagingSource. Re-using load keys in PagingSource is often an error, and must be explicitly enabled by overriding PagingSource.keyReuseSupported." />
       <item value="negative" />
       <item value="The name field is a unique identifier for post items. (no it is not the title of the post :) ) https:www.reddit.comdevapi" />
       <item value="A [PagingSource] that uses the &quot;name&quot; field of posts as the key for nextprev pages. Note that this is not the correct consumption of the Reddit API but rather shown here as an alternative implementation which might be more suitable for your backend. @see [PageKeyedSubredditPagingSource]" />
@@ -56,12 +57,11 @@
       <item value="on Click Label" />
       <item value="semantic accessibility label for the onClick action" />
       <item value="focused" />
-      <item value="Indicator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1016" />
-        <entry key="ENGLISH" value="1017" />
+        <entry key="CHINESE" value="1018" />
+        <entry key="ENGLISH" value="1019" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
