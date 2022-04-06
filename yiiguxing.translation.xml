@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Common interface shared by the different repository implementations. Note: this only exists for sample purposes - typically an app would implement a repo once, either network+db, or network-only" />
       <item value="alternatively" />
       <item value="Expand Day Task" />
       <item value="Cap" />
@@ -56,12 +57,11 @@
       <item value="Parameterized Type Impl" />
       <item value="secondary Variant" />
       <item value="interaction Source" />
-      <item value="推荐场景" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1010" />
-        <entry key="ENGLISH" value="1011" />
+        <entry key="CHINESE" value="1011" />
+        <entry key="ENGLISH" value="1012" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
