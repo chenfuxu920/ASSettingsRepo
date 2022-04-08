@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="circular" />
       <item value="longitude" />
       <item value="Evacuate" />
       <item value="The same value, -1, was passed as the prevKey in two sequential Pages loaded from a PagingSource. Re-using load keys in PagingSource is often an error, and must be explicitly enabled by overriding PagingSource.keyReuseSupported." />
@@ -56,12 +57,11 @@
       <item value="TODO(soboleva): Look at module arrangement so that Box can be used instead of this custom Layout Get the parent's position, size and layout direction" />
       <item value="anchor Bounds" />
       <item value="interaction" />
-      <item value="on Click Label" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1021" />
-        <entry key="ENGLISH" value="1022" />
+        <entry key="CHINESE" value="1022" />
+        <entry key="ENGLISH" value="1023" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
