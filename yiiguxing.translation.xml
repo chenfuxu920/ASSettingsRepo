@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="中间的" />
+      <item value="中间" />
       <item value="circular" />
       <item value="longitude" />
       <item value="Evacuate" />
@@ -55,13 +57,11 @@
       <item value="Trigger" />
       <item value="on Trigger Add" />
       <item value="TODO(soboleva): Look at module arrangement so that Box can be used instead of this custom Layout Get the parent's position, size and layout direction" />
-      <item value="anchor Bounds" />
-      <item value="interaction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1022" />
-        <entry key="ENGLISH" value="1023" />
+        <entry key="CHINESE" value="1031" />
+        <entry key="ENGLISH" value="1032" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
@@ -84,6 +84,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649038860389" />
+    <option name="lastTrimTime" value="1649638360252" />
   </component>
 </application>
