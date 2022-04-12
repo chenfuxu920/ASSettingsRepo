@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="INDICATOR SHOW WHEN TOUCH" />
       <item value="vehicle" />
       <item value="Vehicle" />
       <item value="discription" />
@@ -56,12 +57,11 @@
       <item value="on Selection Change" />
       <item value="aspect ratio" />
       <item value="specified aspect ratio" />
-      <item value="aspect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1036" />
-        <entry key="ENGLISH" value="1037" />
+        <entry key="CHINESE" value="1037" />
+        <entry key="ENGLISH" value="1038" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
