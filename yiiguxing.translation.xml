@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="project" />
+      <item value="longitude" />
       <item value="Show" />
       <item value="rescue List" />
       <item value="INDICATOR SHOW WHEN TOUCH" />
@@ -17,7 +19,6 @@
       <item value="中间的" />
       <item value="中间" />
       <item value="circular" />
-      <item value="longitude" />
       <item value="Evacuate" />
       <item value="The same value, -1, was passed as the prevKey in two sequential Pages loaded from a PagingSource. Re-using load keys in PagingSource is often an error, and must be explicitly enabled by overriding PagingSource.keyReuseSupported." />
       <item value="negative" />
@@ -56,12 +57,11 @@
       <item value="Expands" />
       <item value="expands" />
       <item value="Wrapper" />
-      <item value="on Selection Change" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1040" />
-        <entry key="ENGLISH" value="1041" />
+        <entry key="CHINESE" value="1042" />
+        <entry key="ENGLISH" value="1043" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
