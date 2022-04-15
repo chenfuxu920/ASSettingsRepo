@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="filter" />
+      <item value="过滤器" />
+      <item value="guo" />
       <item value="project" />
       <item value="longitude" />
       <item value="Show" />
@@ -54,14 +57,11 @@
       <item value="associate" />
       <item value="Property in an interface cannot have a backing field" />
       <item value="Abstract member cannot be accessed directly" />
-      <item value="Expands" />
-      <item value="expands" />
-      <item value="Wrapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1042" />
-        <entry key="ENGLISH" value="1043" />
+        <entry key="CHINESE" value="1049" />
+        <entry key="ENGLISH" value="1050" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
