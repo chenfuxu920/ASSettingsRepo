@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="invoke" />
+      <item value="Login" />
       <item value="Wrapper" />
       <item value="filter" />
       <item value="过滤器" />
@@ -55,13 +57,11 @@
       <item value="sheet Elevation" />
       <item value="Bottom" />
       <item value="This syntax is reserved for future use; to call a reference, enclose it in parentheses: (foo::bar)(args)" />
-      <item value="associate" />
-      <item value="Property in an interface cannot have a backing field" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1050" />
-        <entry key="ENGLISH" value="1051" />
+        <entry key="CHINESE" value="1052" />
+        <entry key="ENGLISH" value="1053" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
