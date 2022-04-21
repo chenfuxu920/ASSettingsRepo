@@ -7,6 +7,10 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Cocos [Keeling] Islands" />
+      <item value="Cocos" />
+      <item value="countries&#10;" />
+      <item value="countries" />
       <item value="invoke" />
       <item value="Login" />
       <item value="Wrapper" />
@@ -53,15 +57,11 @@
       <item value="The initial value must have an associated anchor." />
       <item value="need to do initial synchronization synchronously :(" />
       <item value="internal" />
-      <item value="Show a share sheet for a post" />
-      <item value="sheet Elevation" />
-      <item value="Bottom" />
-      <item value="This syntax is reserved for future use; to call a reference, enclose it in parentheses: (foo::bar)(args)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1052" />
-        <entry key="ENGLISH" value="1053" />
+        <entry key="CHINESE" value="1063" />
+        <entry key="ENGLISH" value="1064" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
