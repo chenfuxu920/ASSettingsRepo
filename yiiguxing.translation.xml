@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="paid&#10;" />
+      <item value="pai" />
       <item value="CoroutineScope tied to this Lifecycle. This scope will be cancelled when the Lifecycle is destroyed. This scope is bound to Dispatchers.Main.immediate" />
       <item value="间隔5秒的流" />
       <item value="间隔5秒的 " />
@@ -55,12 +57,10 @@
       <item value="Shown" />
       <item value="Property" />
       <item value="minute" />
-      <item value="Minute" />
-      <item value="Minutes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1073" />
+        <entry key="CHINESE" value="1074" />
         <entry key="ENGLISH" value="1074" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
