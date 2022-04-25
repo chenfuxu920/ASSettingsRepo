@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns true if the code is in [200..300), which means the request was successfully received, understood, and accepted." />
       <item value="egl Slice" />
       <item value="A discriminated union that encapsulates a successful outcome with a value of type T or a failure with an arbitrary Throwable exception." />
       <item value="init Count Down" />
@@ -56,12 +57,11 @@
       <item value="alternatively" />
       <item value="Expand Day Task" />
       <item value="Cap" />
-      <item value="stroke" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1083" />
-        <entry key="ENGLISH" value="1084" />
+        <entry key="CHINESE" value="1084" />
+        <entry key="ENGLISH" value="1085" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
