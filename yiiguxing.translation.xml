@@ -2,11 +2,22 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="232" />
-    <option name="newTranslationDialogWidth" value="522" />
+    <option name="newTranslationDialogWidth" value="518" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="当前朝向" />
+      <item value="当前 " />
+      <item value="当前" />
+      <item value="dang" />
+      <item value="dangq" />
+      <item value="角差" />
+      <item value="角度差" />
+      <item value="角度 " />
+      <item value="j" />
+      <item value="圆&#10;" />
+      <item value="圆" />
       <item value="coordinate" />
       <item value="Returns true if the code is in [200..300), which means the request was successfully received, understood, and accepted." />
       <item value="egl Slice" />
@@ -46,22 +57,11 @@
       <item value="even Odd" />
       <item value="中间的" />
       <item value="中间" />
-      <item value="circular" />
-      <item value="Evacuate" />
-      <item value="The same value, -1, was passed as the prevKey in two sequential Pages loaded from a PagingSource. Re-using load keys in PagingSource is often an error, and must be explicitly enabled by overriding PagingSource.keyReuseSupported." />
-      <item value="negative" />
-      <item value="The name field is a unique identifier for post items. (no it is not the title of the post :) ) https:www.reddit.comdevapi" />
-      <item value="A [PagingSource] that uses the &quot;name&quot; field of posts as the key for nextprev pages. Note that this is not the correct consumption of the Reddit API but rather shown here as an alternative implementation which might be more suitable for your backend. @see [PageKeyedSubredditPagingSource]" />
-      <item value="Prepend" />
-      <item value="Append" />
-      <item value="Common interface shared by the different repository implementations. Note: this only exists for sample purposes - typically an app would implement a repo once, either network+db, or network-only" />
-      <item value="alternatively" />
-      <item value="Expand Day Task" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1085" />
-        <entry key="ENGLISH" value="1086" />
+        <entry key="CHINESE" value="1102" />
+        <entry key="ENGLISH" value="1103" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
