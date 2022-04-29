@@ -7,6 +7,13 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ENQUEUED" />
+      <item value="processor" />
+      <item value="process" />
+      <item value="proce" />
+      <item value="pr" />
+      <item value="prec" />
+      <item value="pre" />
       <item value="Annotates a parameter within an {@link AssistedInject}-annotated constructor." />
       <item value="Assisted" />
       <item value="While Subscribed" />
@@ -50,18 +57,11 @@
       <item value="过滤器" />
       <item value="guo" />
       <item value="project" />
-      <item value="longitude" />
-      <item value="Show" />
-      <item value="rescue List" />
-      <item value="INDICATOR SHOW WHEN TOUCH" />
-      <item value="vehicle" />
-      <item value="Vehicle" />
-      <item value="discription" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1105" />
-        <entry key="ENGLISH" value="1106" />
+        <entry key="CHINESE" value="1106" />
+        <entry key="ENGLISH" value="1107" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
