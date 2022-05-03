@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="toggle Foreground Service" />
       <item value="Used to indicate that the WorkRequest has completed in a failure state. All dependent work will also be marked as FAILED and will never run." />
       <item value="ENQUEUED" />
       <item value="processor" />
@@ -56,12 +57,11 @@
       <item value="Wrapper" />
       <item value="filter" />
       <item value="过滤器" />
-      <item value="guo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1107" />
-        <entry key="ENGLISH" value="1108" />
+        <entry key="CHINESE" value="1108" />
+        <entry key="ENGLISH" value="1109" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
@@ -84,6 +84,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650850482210" />
+    <option name="lastTrimTime" value="1651546503397" />
   </component>
 </application>
