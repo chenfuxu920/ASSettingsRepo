@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="tiramisu" />
+      <item value="tira" />
       <item value="Creates a property delegate for a single process DataStore. This should only be called once in a file (at the top level), and all usages of the DataStore should use a reference the same Instance. The receiver type for the property delegate must be an instance of Context. This should only be used from a single application in a single classloader in a single process. Example usage: val Context.myDataStore by preferencesDataStore(&quot;filename&quot;) class SomeClass(val context: Context) { suspend fun update() = context.myDataStore.edit {...} } 参数: name - The name of the preferences. The preferences will be stored in a file in the &quot;datastore&quot; subdirectory in the application context's files directory and is generated using preferencesDataStoreFile. corruptionHandler - The corruptionHandler is invoked if DataStore encounters a androidx.datastore.core.CorruptionException when attempting to read data. CorruptionExceptions are thrown by serializers when data can not be de-serialized. produceMigrations - produce the migrations. The ApplicationContext is passed in to these callbacks as a parameter. DataMigrations are run before any access to data can occur. Each producer and migration may be run more than once whether or not it already succeeded (potentially because another migration failed or a write to disk failed.) scope - The scope in which IO operations and transform functions will execute. 返回: a property delegate that manages a datastore as a singleton." />
       <item value="toggle Foreground Service" />
       <item value="Used to indicate that the WorkRequest has completed in a failure state. All dependent work will also be marked as FAILED and will never run." />
@@ -55,12 +57,10 @@
       <item value="countries" />
       <item value="invoke" />
       <item value="Login" />
-      <item value="Wrapper" />
-      <item value="filter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1109" />
+        <entry key="CHINESE" value="1110" />
         <entry key="ENGLISH" value="1110" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />

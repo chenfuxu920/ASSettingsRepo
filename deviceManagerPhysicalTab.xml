@@ -12,6 +12,18 @@
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="JAM6R20B05000297" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-03T08:38:00.186921900Z" />
+        <name value="HUAWEI MRX-AN19" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
