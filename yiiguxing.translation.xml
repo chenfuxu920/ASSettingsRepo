@@ -7,12 +7,12 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Eagerly" />
       <item value="Class to store ViewModels. An instance of ViewModelStore must be retained through configuration changes: if an owner of this ViewModelStore is destroyed and recreated due to configuration changes, new instance of an owner should still have the same old instance of ViewModelStore. If an owner of this ViewModelStore is destroyed and is not going to be recreated, then it should call clear() on this ViewModelStore, so ViewModels would be notified that they are no longer used. Use ViewModelStoreOwner.getViewModelStore() to retrieve a ViewModelStore for activities and fragments." />
       <item value="Scope" />
       <item value="[DaggerMissingBinding] androidx.fragment.app.FragmentActivity cannot be provided without an @Inject constructor or an @Provides-annotated method." />
       <item value="regular shared flow -&gt; reset cache" />
       <item value="reset Replay Cache" />
-      <item value="Eagerly" />
       <item value="Marks declarations in the coroutines that are delicate — they have limited use-case and shall be used with care in general code. Any use of a delicate declaration has to be carefully reviewed to make sure it is properly used and does not create problems like memory and resource leaks. Carefully read documentation of any declaration marked as DelicateCoroutinesApi." />
       <item value="Delicate Coroutines Api" />
       <item value="Sharing is started when the first subscriber appears, immediately stops when the last subscriber disappears (by default), keeping the replay cache forever (by default). It has the following optional parameters: stopTimeoutMillis — configures a delay (in milliseconds) between the disappearance of the last subscriber and the stopping of the sharing coroutine. It defaults to zero (stop immediately). replayExpirationMillis — configures a delay (in milliseconds) between the stopping of the sharing coroutine and the resetting of the replay cache (which makes the cache empty for the shareIn operator and resets the cached value to the original initialValue for the stateIn operator). It defaults to Long.MAX_VALUE (keep replay cache forever, never reset buffer). Use zero value to expire the cache immediately. This function throws IllegalArgumentException when either stopTimeoutMillis or replayExpirationMillis are negative." />
@@ -60,8 +60,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1120" />
-        <entry key="ENGLISH" value="1121" />
+        <entry key="CHINESE" value="1121" />
+        <entry key="ENGLISH" value="1122" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="12" />
