@@ -326,6 +326,10 @@
           <option name="url" value="git@github.com:lzyprime/android_demos.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:rantianhua/RfTransceiver.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\android_projects\github_demo" />
