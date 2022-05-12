@@ -334,6 +334,10 @@
           <option name="url" value="git@github.com:xiaojigugu/WifiTalk.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:SpeedataApp/SpeakerCheck.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\android_projects\github_demo" />
