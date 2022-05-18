@@ -6,9 +6,12 @@
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="Web Rtc Audio Record" />
+      <item value="ENABLE INTERNAL TRACER" />
+      <item value="disable Encryption" />
+      <item value="set Loopback" />
       <item value="use SDES" />
       <item value="loopback" />
-      <item value="disable Encryption" />
       <item value="disable Network Monitor" />
       <item value="use Open SLES" />
       <item value="disable Built In AEC" />
@@ -53,14 +56,11 @@
       <item value="当前朝向" />
       <item value="当前 " />
       <item value="当前" />
-      <item value="dang" />
-      <item value="dangq" />
-      <item value="角差" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1142" />
-        <entry key="ENGLISH" value="1142" />
+        <entry key="CHINESE" value="1145" />
+        <entry key="ENGLISH" value="1146" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
