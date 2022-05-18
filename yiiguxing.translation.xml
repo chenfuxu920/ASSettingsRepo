@@ -6,6 +6,15 @@
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="use SDES" />
+      <item value="loopback" />
+      <item value="disable Encryption" />
+      <item value="disable Network Monitor" />
+      <item value="use Open SLES" />
+      <item value="disable Built In AEC" />
+      <item value="set Web Rtc Based Acoustic Echo Canceler" />
+      <item value="set Blacklist Device For Open SLES Usage" />
+      <item value="loudspeaker" />
       <item value="Terminal flow operator that collects the given flow but ignores all emitted values. If any exception occurs during collect or in the provided flow, this exception is rethrown from this method. It is a shorthand for `collect {}`. This operator is usually used with [onEach], [onCompletion] and [catch] operators to process all emitted values and handle an exception that might occur in the upstream flow or during processing, for example:" />
       <item value="Terminal flow operator that [launches][launch] the [collection][collect] of the given flow in the [scope]. It is a shorthand for `scope.launch { flow.collect() }`. This operator is usually used with [onEach], [onCompletion] and [catch] operators to process all emitted values handle an exception that might occur in the upstream flow or during processing, for example:" />
       <item value="Terminal flow operator that [launches][launch] the [collection][collect] of the given flow in the [scope]. It is a shorthand for `scope.launch { flow.collect() }`. This operator is usually used with [onEach], [onCompletion] and [catch] operators to process all emitted values handle an exception that might occur in the upstream flow or during processing, for example: ``` flow .onEach { value -&gt; updateUi(value) } .onCompletion { cause -&gt; updateUi(if (cause == null) &quot;Done&quot; else &quot;Failed&quot;) } .catch { cause -&gt; LOG.error(&quot;Exception: cause&quot;) } .launchIn(uiScope) ``` Note that the resulting value of [launchIn] is not used and the provided scope takes care of cancellation." />
@@ -47,22 +56,14 @@
       <item value="dang" />
       <item value="dangq" />
       <item value="角差" />
-      <item value="角度差" />
-      <item value="角度 " />
-      <item value="j" />
-      <item value="圆&#10;" />
-      <item value="圆" />
-      <item value="coordinate" />
-      <item value="Returns true if the code is in [200..300), which means the request was successfully received, understood, and accepted." />
-      <item value="egl Slice" />
-      <item value="A discriminated union that encapsulates a successful outcome with a value of type T or a failure with an arbitrary Throwable exception." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1132" />
-        <entry key="ENGLISH" value="1133" />
+        <entry key="CHINESE" value="1142" />
+        <entry key="ENGLISH" value="1142" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
+        <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="12" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="3" />
