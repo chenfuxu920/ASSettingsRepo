@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="timeout Millis" />
+      <item value="grace Period Millis" />
+      <item value="stop Server On Cancellation" />
       <item value="The integer literal does not conform to the expected type ApplicationEngineEnvironment" />
       <item value="start Foreground" />
       <item value="SDK INT" />
@@ -53,14 +56,11 @@
       <item value="Class to store ViewModels. An instance of ViewModelStore must be retained through configuration changes: if an owner of this ViewModelStore is destroyed and recreated due to configuration changes, new instance of an owner should still have the same old instance of ViewModelStore. If an owner of this ViewModelStore is destroyed and is not going to be recreated, then it should call clear() on this ViewModelStore, so ViewModels would be notified that they are no longer used. Use ViewModelStoreOwner.getViewModelStore() to retrieve a ViewModelStore for activities and fragments." />
       <item value="Scope" />
       <item value="[DaggerMissingBinding] androidx.fragment.app.FragmentActivity cannot be provided without an @Inject constructor or an @Provides-annotated method." />
-      <item value="regular shared flow -&gt; reset cache" />
-      <item value="reset Replay Cache" />
-      <item value="Marks declarations in the coroutines that are delicate — they have limited use-case and shall be used with care in general code. Any use of a delicate declaration has to be carefully reviewed to make sure it is properly used and does not create problems like memory and resource leaks. Carefully read documentation of any declaration marked as DelicateCoroutinesApi." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1168" />
-        <entry key="ENGLISH" value="1169" />
+        <entry key="CHINESE" value="1171" />
+        <entry key="ENGLISH" value="1172" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
