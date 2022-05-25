@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="The integer literal does not conform to the expected type ApplicationEngineEnvironment" />
+      <item value="start Foreground" />
+      <item value="SDK INT" />
       <item value="Passphrase must meet length requirements" />
       <item value="Identity Changed Listener" />
       <item value="Dns Sd Service Response Listener" />
@@ -53,14 +56,11 @@
       <item value="regular shared flow -&gt; reset cache" />
       <item value="reset Replay Cache" />
       <item value="Marks declarations in the coroutines that are delicate — they have limited use-case and shall be used with care in general code. Any use of a delicate declaration has to be carefully reviewed to make sure it is properly used and does not create problems like memory and resource leaks. Carefully read documentation of any declaration marked as DelicateCoroutinesApi." />
-      <item value="Delicate Coroutines Api" />
-      <item value="Sharing is started when the first subscriber appears, immediately stops when the last subscriber disappears (by default), keeping the replay cache forever (by default). It has the following optional parameters: stopTimeoutMillis — configures a delay (in milliseconds) between the disappearance of the last subscriber and the stopping of the sharing coroutine. It defaults to zero (stop immediately). replayExpirationMillis — configures a delay (in milliseconds) between the stopping of the sharing coroutine and the resetting of the replay cache (which makes the cache empty for the shareIn operator and resets the cached value to the original initialValue for the stateIn operator). It defaults to Long.MAX_VALUE (keep replay cache forever, never reset buffer). Use zero value to expire the cache immediately. This function throws IllegalArgumentException when either stopTimeoutMillis or replayExpirationMillis are negative." />
-      <item value="Experimental Unsigned Types" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1166" />
-        <entry key="ENGLISH" value="1167" />
+        <entry key="CHINESE" value="1168" />
+        <entry key="ENGLISH" value="1169" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
