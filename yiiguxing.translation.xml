@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="associate" />
+      <item value="Limited" />
+      <item value="set Send Limited" />
       <item value="send Limited Size" />
       <item value="sample" />
       <item value="timeout Millis" />
@@ -53,14 +56,11 @@
       <item value="Freeze the preferences since any future mutations will break DataStore. If a user tunnels the value out of DataStore and mutates it, this could be problematic. This is a safe cast, since MutablePreferences is the only implementation of Preferences." />
       <item value="Preference" />
       <item value="Preferences" />
-      <item value="Eagerly" />
-      <item value="Class to store ViewModels. An instance of ViewModelStore must be retained through configuration changes: if an owner of this ViewModelStore is destroyed and recreated due to configuration changes, new instance of an owner should still have the same old instance of ViewModelStore. If an owner of this ViewModelStore is destroyed and is not going to be recreated, then it should call clear() on this ViewModelStore, so ViewModels would be notified that they are no longer used. Use ViewModelStoreOwner.getViewModelStore() to retrieve a ViewModelStore for activities and fragments." />
-      <item value="Scope" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1173" />
-        <entry key="ENGLISH" value="1174" />
+        <entry key="CHINESE" value="1177" />
+        <entry key="ENGLISH" value="1178" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
