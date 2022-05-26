@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="get External Files Dir" />
       <item value="WIFI P 2 P CONNECTION CHANGED ACTION" />
       <item value="associate" />
       <item value="Limited" />
@@ -55,12 +56,11 @@
       <item value="operator" />
       <item value="drop While" />
       <item value="Freeze the preferences since any future mutations will break DataStore. If a user tunnels the value out of DataStore and mutates it, this could be problematic. This is a safe cast, since MutablePreferences is the only implementation of Preferences." />
-      <item value="Preference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1178" />
-        <entry key="ENGLISH" value="1179" />
+        <entry key="CHINESE" value="1179" />
+        <entry key="ENGLISH" value="1180" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
