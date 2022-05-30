@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="remaining" />
       <item value="Unreachable code" />
       <item value="20971520" />
       <item value="limited Generate Size" />
@@ -55,12 +56,11 @@
       <item value="use SDES" />
       <item value="loopback" />
       <item value="disable Network Monitor" />
-      <item value="use Open SLES" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1199" />
-        <entry key="ENGLISH" value="1197" />
+        <entry key="ENGLISH" value="1198" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
