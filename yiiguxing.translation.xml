@@ -2,10 +2,20 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="232" />
-    <option name="newTranslationDialogWidth" value="518" />
+    <option name="newTranslationDialogWidth" value="516" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="20971520" />
+      <item value="limited Generate Size" />
+      <item value="tv generate size" />
+      <item value="生成" />
+      <item value="s" />
+      <item value="general" />
+      <item value="ashcan" />
+      <item value="垃圾桶" />
+      <item value="la'ji" />
+      <item value="laji" />
       <item value="get External Files Dir" />
       <item value="WIFI P 2 P CONNECTION CHANGED ACTION" />
       <item value="associate" />
@@ -46,21 +56,11 @@
       <item value="disable Network Monitor" />
       <item value="use Open SLES" />
       <item value="disable Built In AEC" />
-      <item value="set Blacklist Device For Open SLES Usage" />
-      <item value="loudspeaker" />
-      <item value="Terminal flow operator that collects the given flow but ignores all emitted values. If any exception occurs during collect or in the provided flow, this exception is rethrown from this method. It is a shorthand for `collect {}`. This operator is usually used with [onEach], [onCompletion] and [catch] operators to process all emitted values and handle an exception that might occur in the upstream flow or during processing, for example:" />
-      <item value="Terminal flow operator that [launches][launch] the [collection][collect] of the given flow in the [scope]. It is a shorthand for `scope.launch { flow.collect() }`. This operator is usually used with [onEach], [onCompletion] and [catch] operators to process all emitted values handle an exception that might occur in the upstream flow or during processing, for example:" />
-      <item value="Terminal flow operator that [launches][launch] the [collection][collect] of the given flow in the [scope]. It is a shorthand for `scope.launch { flow.collect() }`. This operator is usually used with [onEach], [onCompletion] and [catch] operators to process all emitted values handle an exception that might occur in the upstream flow or during processing, for example: ``` flow .onEach { value -&gt; updateUi(value) } .onCompletion { cause -&gt; updateUi(if (cause == null) &quot;Done&quot; else &quot;Failed&quot;) } .catch { cause -&gt; LOG.error(&quot;Exception: cause&quot;) } .launchIn(uiScope) ``` Note that the resulting value of [launchIn] is not used and the provided scope takes care of cancellation." />
-      <item value="```" />
-      <item value="Disposable Effect" />
-      <item value="operator" />
-      <item value="drop While" />
-      <item value="Freeze the preferences since any future mutations will break DataStore. If a user tunnels the value out of DataStore and mutates it, this could be problematic. This is a safe cast, since MutablePreferences is the only implementation of Preferences." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1179" />
-        <entry key="ENGLISH" value="1180" />
+        <entry key="CHINESE" value="1198" />
+        <entry key="ENGLISH" value="1197" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
