@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="append Range" />
       <item value="divide by zero" />
       <item value="remaining" />
       <item value="Unreachable code" />
@@ -55,12 +56,11 @@
       <item value="disable Encryption" />
       <item value="set Loopback" />
       <item value="use SDES" />
-      <item value="loopback" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1199" />
-        <entry key="ENGLISH" value="1199" />
+        <entry key="ENGLISH" value="1200" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
