@@ -5,23 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="869111030125152" />
-          </Key>
-        </key>
-        <name value="CONQUEST S28" />
-        <target value="Android 11.0" />
-        <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="JAM6R20B05000297" />
           </Key>
         </key>
         <name value="HUAWEI MRX-AN19" />
         <target value="Android 10.0" />
         <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="869111030125152" />
+          </Key>
+        </key>
+        <name value="CONQUEST S28" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
