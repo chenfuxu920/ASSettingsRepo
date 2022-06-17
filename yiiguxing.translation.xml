@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="schedule Next Idle Ping" />
+      <item value="PING MIN INTERVAL" />
+      <item value="IDLE PING INTERVAL" />
       <item value="Allow a previously configured network to be associated with. If attemptConnect is true, an attempt to connect to the selected network is initiated. This may result in the asynchronous delivery of state change events. Note: Network communication may not use Wi-Fi even if Wi-Fi is connected; traffic may instead be sent through another network, such as cellular data, Bluetooth tethering, or Ethernet. For example, traffic will never use a Wi-Fi network that does not provide Internet access (e.g. a wireless printer), if another network that does offer Internet access (e.g. cellular data) is available. Applications that need to ensure that their network traffic uses Wi-Fi should use APIs such as Network.bindSocket(java.net.Socket), Network.openConnection(java.net.URL), or ConnectivityManager.bindProcessToNetwork to do so. Applications are not allowed to enable networks created by other applications. 已弃用 a) See WifiNetworkSpecifier.Builder.build() for new mechanism to trigger connection to a Wi-Fi network. b) See addNetworkSuggestions(List), removeNetworkSuggestions(List) for new API to add Wi-Fi networks for consideration when auto-connecting to wifi. Compatibility Note: For applications targeting Build.VERSION_CODES.Q or above, this API will always fail and return false. Deprecation Exemptions: Device Owner (DO), Profile Owner (PO) and system apps. 形参: netId – the ID of the network as returned by addNetwork or getConfiguredNetworks. attemptConnect – The way to select a particular network to connect to is specify true for this parameter. 返回值: true if the operation succeeded" />
       <item value="enable Network" />
       <item value="Choir" />
@@ -53,14 +56,11 @@
       <item value="exported" />
       <item value="poisson" />
       <item value="lifter" />
-      <item value="Plain" />
-      <item value="Constraints" />
-      <item value="SPEAKER PHONE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1213" />
-        <entry key="ENGLISH" value="1214" />
+        <entry key="CHINESE" value="1216" />
+        <entry key="ENGLISH" value="1217" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
