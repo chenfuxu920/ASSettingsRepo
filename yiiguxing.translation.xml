@@ -6,6 +6,12 @@
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="NO REQUIREMENT" />
+      <item value="ACCURACY HIGH" />
+      <item value="ACCURACY MEDIUM" />
+      <item value="ACCURACY LOW" />
+      <item value="ACCURACY COARSE" />
+      <item value="ACCURACY FINE" />
       <item value="Criteria" />
       <item value="m Minimum Update Time" />
       <item value="m Minimum Update Distance" />
@@ -50,17 +56,11 @@
       <item value="grace Period Millis" />
       <item value="stop Server On Cancellation" />
       <item value="The integer literal does not conform to the expected type ApplicationEngineEnvironment" />
-      <item value="start Foreground" />
-      <item value="SDK INT" />
-      <item value="Passphrase must meet length requirements" />
-      <item value="Identity Changed Listener" />
-      <item value="Dns Sd Service Response Listener" />
-      <item value="_presence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1220" />
-        <entry key="ENGLISH" value="1221" />
+        <entry key="CHINESE" value="1227" />
+        <entry key="ENGLISH" value="1228" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
