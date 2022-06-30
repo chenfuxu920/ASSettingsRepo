@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="DSL element 'dexOptions' is obsolete and should be removed. It will be removed in version 8.0 of the Android Gradle plugin. Using it has no effect, and the AndroidGradle plugin optimizes dexing automatically." />
       <item value="include Compile Classpath" />
       <item value="国家" />
       <item value="语言" />
@@ -55,12 +56,11 @@
       <item value="laji" />
       <item value="get External Files Dir" />
       <item value="WIFI P 2 P CONNECTION CHANGED ACTION" />
-      <item value="associate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1242" />
-        <entry key="ENGLISH" value="1243" />
+        <entry key="CHINESE" value="1243" />
+        <entry key="ENGLISH" value="1244" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
