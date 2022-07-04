@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="复位" />
+      <item value="重置" />
       <item value="人员" />
       <item value="lift" />
       <item value="人体" />
@@ -54,13 +56,11 @@
       <item value="tv generate size" />
       <item value="生成" />
       <item value="s" />
-      <item value="general" />
-      <item value="ashcan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1274" />
-        <entry key="ENGLISH" value="1274" />
+        <entry key="CHINESE" value="1284" />
+        <entry key="ENGLISH" value="1284" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
