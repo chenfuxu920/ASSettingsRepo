@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="人员" />
+      <item value="lift" />
+      <item value="人体" />
       <item value="人体识别" />
       <item value="re" />
       <item value="DSL element 'dexOptions' is obsolete and should be removed. It will be removed in version 8.0 of the Android Gradle plugin. Using it has no effect, and the AndroidGradle plugin optimizes dexing automatically." />
@@ -53,14 +56,11 @@
       <item value="s" />
       <item value="general" />
       <item value="ashcan" />
-      <item value="垃圾桶" />
-      <item value="la'ji" />
-      <item value="laji" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1255" />
-        <entry key="ENGLISH" value="1256" />
+        <entry key="CHINESE" value="1274" />
+        <entry key="ENGLISH" value="1274" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
