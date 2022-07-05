@@ -6,6 +6,13 @@
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="SCALE ASPECT BALANCED" />
+      <item value="visible Fraction Mismatch Orientation" />
+      <item value="visible Fraction Match Orientation" />
+      <item value="scaling Type Mismatch Orientation" />
+      <item value="scaling Type Match Orientation" />
+      <item value="SCALE ASPECT FIT" />
+      <item value="enable Fixed Size" />
       <item value="复位" />
       <item value="重置" />
       <item value="人员" />
@@ -49,18 +56,11 @@
       <item value="j" />
       <item value="append Range" />
       <item value="divide by zero" />
-      <item value="remaining" />
-      <item value="Unreachable code" />
-      <item value="20971520" />
-      <item value="limited Generate Size" />
-      <item value="tv generate size" />
-      <item value="生成" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1284" />
-        <entry key="ENGLISH" value="1284" />
+        <entry key="CHINESE" value="1292" />
+        <entry key="ENGLISH" value="1293" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
