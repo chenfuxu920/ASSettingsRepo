@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="rotated Frame Height" />
+      <item value="rotated Frame Width" />
       <item value="set Enable Hardware Scaler" />
       <item value="set Z Order Media Overlay" />
       <item value="enable Fixed Size" />
@@ -55,13 +57,11 @@
       <item value="choreographed" />
       <item value="connector" />
       <item value="多" />
-      <item value="It will always be more efficient to use more specific change events if you can. Rely on `notifyDataSetChanged` as a last resort." />
-      <item value="间隔" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1305" />
-        <entry key="ENGLISH" value="1306" />
+        <entry key="CHINESE" value="1307" />
+        <entry key="ENGLISH" value="1308" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
