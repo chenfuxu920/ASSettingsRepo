@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="allocate Locked" />
       <item value="没有" />
       <item value="Route" />
       <item value="Infrared" />
@@ -56,12 +57,11 @@
       <item value="enable Network" />
       <item value="Choir" />
       <item value="The VPN service and tun2socks must agree on the layout of the network. By convention, we assign the following values to the final byte of an address within a subnet." />
-      <item value="ARCGIS IMAGERY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1315" />
-        <entry key="ENGLISH" value="1316" />
+        <entry key="CHINESE" value="1316" />
+        <entry key="ENGLISH" value="1317" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
