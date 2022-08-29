@@ -7,6 +7,10 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="occupancy Rate" />
+      <item value="占用率" />
+      <item value="占用" />
+      <item value="价值" />
       <item value="ashcan Dir" />
       <item value="backup" />
       <item value="Calculates the relative path for this file from [base] file. Note that the [base] file is treated as a directory. If this file matches the [base] file, then a [File] with empty path will be returned. @return File with relative path from [base] to this. @throws IllegalArgumentException if this and base paths have different roots." />
@@ -53,15 +57,11 @@
       <item value="NO REQUIREMENT" />
       <item value="ACCURACY HIGH" />
       <item value="ACCURACY MEDIUM" />
-      <item value="ACCURACY LOW" />
-      <item value="ACCURACY COARSE" />
-      <item value="ACCURACY FINE" />
-      <item value="Criteria" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1341" />
-        <entry key="ENGLISH" value="1342" />
+        <entry key="CHINESE" value="1356" />
+        <entry key="ENGLISH" value="1357" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
