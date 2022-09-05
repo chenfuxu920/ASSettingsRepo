@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Primary" />
       <item value="Recursively" />
       <item value="occupancy Rate" />
       <item value="占用率" />
@@ -56,12 +57,11 @@
       <item value="cleartext Traffic Permitted" />
       <item value="To compile Sample App with matrix source code for further debug: 1. Run `gradle publishToMavenLocal` 2. Set 'compileMatrixWithSrc = true' or with run gradle with args '-PcompileWithSrc=true' Or see `testBuildAndroid` in `.circleciconfig.yaml`." />
       <item value="NO REQUIREMENT" />
-      <item value="ACCURACY HIGH" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1358" />
-        <entry key="ENGLISH" value="1359" />
+        <entry key="CHINESE" value="1359" />
+        <entry key="ENGLISH" value="1360" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
@@ -85,6 +85,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661738613792" />
+    <option name="lastTrimTime" value="1662348544957" />
   </component>
 </application>
