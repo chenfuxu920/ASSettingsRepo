@@ -7,6 +7,16 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="last Modified" />
+      <item value="find Fit Size" />
+      <item value="大小符合" />
+      <item value="大小" />
+      <item value="带下" />
+      <item value="da" />
+      <item value="大小合适的" />
+      <item value="大小合适" />
+      <item value="大小合适de" />
+      <item value="dai" />
       <item value="取" />
       <item value="h" />
       <item value="invoke" />
@@ -47,21 +57,11 @@
       <item value="SCALE ASPECT FILL" />
       <item value="SCALE ASPECT FIT" />
       <item value="visible Fraction Mismatch Orientation" />
-      <item value="visible Fraction Match Orientation" />
-      <item value="scaling Type Mismatch Orientation" />
-      <item value="scaling Type Match Orientation" />
-      <item value="复位" />
-      <item value="重置" />
-      <item value="人员" />
-      <item value="lift" />
-      <item value="人体" />
-      <item value="人体识别" />
-      <item value="re" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1378" />
-        <entry key="ENGLISH" value="1378" />
+        <entry key="CHINESE" value="1397" />
+        <entry key="ENGLISH" value="1398" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
