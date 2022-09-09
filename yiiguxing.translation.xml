@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Head" />
       <item value="last Modified" />
       <item value="find Fit Size" />
       <item value="大小符合" />
@@ -56,12 +57,11 @@
       <item value="SCALE ASPECT BALANCED" />
       <item value="SCALE ASPECT FILL" />
       <item value="SCALE ASPECT FIT" />
-      <item value="visible Fraction Mismatch Orientation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1397" />
-        <entry key="ENGLISH" value="1398" />
+        <entry key="CHINESE" value="1398" />
+        <entry key="ENGLISH" value="1399" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
