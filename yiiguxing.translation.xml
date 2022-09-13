@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="PBC" />
       <item value="explore" />
       <item value="Head" />
       <item value="last Modified" />
@@ -56,12 +57,11 @@
       <item value="set Z Order Media Overlay" />
       <item value="enable Fixed Size" />
       <item value="SCALE ASPECT BALANCED" />
-      <item value="SCALE ASPECT FILL" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1405" />
-        <entry key="ENGLISH" value="1405" />
+        <entry key="ENGLISH" value="1406" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
