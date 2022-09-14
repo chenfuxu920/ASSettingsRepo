@@ -7,6 +7,12 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="剩余的" />
+      <item value="s" />
+      <item value="Remaining" />
+      <item value="剩余" />
+      <item value="Retain" />
+      <item value="Send" />
       <item value="PBC" />
       <item value="explore" />
       <item value="Head" />
@@ -51,17 +57,11 @@
       <item value="没有" />
       <item value="Route" />
       <item value="Infrared" />
-      <item value="rotated Frame Height" />
-      <item value="rotated Frame Width" />
-      <item value="set Enable Hardware Scaler" />
-      <item value="set Z Order Media Overlay" />
-      <item value="enable Fixed Size" />
-      <item value="SCALE ASPECT BALANCED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1405" />
-        <entry key="ENGLISH" value="1406" />
+        <entry key="CHINESE" value="1422" />
+        <entry key="ENGLISH" value="1423" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
