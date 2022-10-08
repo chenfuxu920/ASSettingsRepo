@@ -7,6 +7,15 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Connection" />
+      <item value="Size" />
+      <item value="Generate" />
+      <item value="quick" />
+      <item value="quick Generate Size" />
+      <item value="Quick" />
+      <item value="Listener" />
+      <item value="query" />
+      <item value="on Set Quick Generate Size Listener" />
       <item value="generate" />
       <item value="generate Size" />
       <item value="primary Size Before Send Map" />
@@ -22,7 +31,6 @@
       <item value="未完成" />
       <item value="Dis Completed" />
       <item value="Dis Complete" />
-      <item value="Generate" />
       <item value="et Generate Interval" />
       <item value="Poisson Distribution" />
       <item value="plus" />
@@ -49,19 +57,11 @@
       <item value="invoke" />
       <item value="invo" />
       <item value="执行" />
-      <item value="function" />
-      <item value="方法执行结果" />
-      <item value="执行结果" />
-      <item value="check Receive Complete" />
-      <item value="Complete" />
-      <item value="Primary" />
-      <item value="Recursively" />
-      <item value="occupancy Rate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1477" />
-        <entry key="ENGLISH" value="1477" />
+        <entry key="CHINESE" value="1488" />
+        <entry key="ENGLISH" value="1488" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
@@ -88,6 +88,16 @@
     <option name="lastTrimTime" value="1665216222309" />
   </component>
   <component name="Settings">
+    <option name="aliTranslateSettings">
+      <app-key>
+        <option name="appId" value="LTAI5t9pfEq56N1ShTERBJMs" />
+      </app-key>
+    </option>
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20211025000982071" />
+      </app-key>
+    </option>
     <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
