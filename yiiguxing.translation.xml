@@ -7,6 +7,10 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="mean" />
+      <item value="参数" />
+      <item value="Parameter" />
+      <item value="cansh" />
       <item value="Percent" />
       <item value="Aware" />
       <item value="Connection" />
@@ -53,15 +57,11 @@
       <item value="大小合适的" />
       <item value="大小合适" />
       <item value="大小合适de" />
-      <item value="dai" />
-      <item value="取" />
-      <item value="h" />
-      <item value="invoke" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1490" />
-        <entry key="ENGLISH" value="1490" />
+        <entry key="CHINESE" value="1492" />
+        <entry key="ENGLISH" value="1492" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
