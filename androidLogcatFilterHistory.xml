@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="com.google.android.apps.location.rtt.wifinanscan" />
         <option value="package:mine" />
       </list>
     </option>
