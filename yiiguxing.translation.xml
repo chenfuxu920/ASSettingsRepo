@@ -1,12 +1,38 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="232" />
-    <option name="newTranslationDialogWidth" value="514" />
+    <option name="newTranslationDialogHeight" value="233" />
+    <option name="newTranslationDialogWidth" value="510" />
     <option name="newTranslationDialogX" value="826" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="MATOC" />
+      <item value="项任务订单合同" />
+      <item value="订单任务" />
+      <item value="订单" />
+      <item value="区域半径" />
+      <item value="区域 " />
+      <item value="区域" />
+      <item value="recipient" />
+      <item value="任务接受人" />
+      <item value="任务接受" />
+      <item value="任务接受者" />
+      <item value="任务接受 " />
+      <item value="任务 " />
+      <item value="receiver" />
+      <item value="接受者" />
+      <item value="originator" />
+      <item value="发起人" />
+      <item value="等待时间" />
+      <item value="等待" />
+      <item value="等待接受时长" />
+      <item value="等待接受 " />
+      <item value="等待接受" />
+      <item value="等待 " />
+      <item value="接受任务" />
+      <item value="接受任务&#10;" />
+      <item value="接受" />
       <item value="mean" />
       <item value="参数" />
       <item value="Parameter" />
@@ -31,37 +57,11 @@
       <item value="删除shiba" />
       <item value="删除shibai" />
       <item value="删除是吧" />
-      <item value="s" />
-      <item value="delete fail" />
-      <item value="fail" />
-      <item value="未完成" />
-      <item value="Dis Completed" />
-      <item value="Dis Complete" />
-      <item value="et Generate Interval" />
-      <item value="Poisson Distribution" />
-      <item value="plus" />
-      <item value="剩余的" />
-      <item value="Remaining" />
-      <item value="剩余" />
-      <item value="Retain" />
-      <item value="Send" />
-      <item value="PBC" />
-      <item value="explore" />
-      <item value="Head" />
-      <item value="last Modified" />
-      <item value="find Fit Size" />
-      <item value="大小符合" />
-      <item value="大小" />
-      <item value="带下" />
-      <item value="da" />
-      <item value="大小合适的" />
-      <item value="大小合适" />
-      <item value="大小合适de" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1492" />
-        <entry key="ENGLISH" value="1492" />
+        <entry key="CHINESE" value="1496" />
+        <entry key="ENGLISH" value="1496" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665216222309" />
+    <option name="lastTrimTime" value="1668041803190" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
