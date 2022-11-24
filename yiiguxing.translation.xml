@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Valid" />
       <item value="routeing" />
       <item value="stops" />
       <item value="Container" />
@@ -56,12 +57,11 @@
       <item value="generate" />
       <item value="generate Size" />
       <item value="primary Size Before Send Map" />
-      <item value="Unreachable code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1501" />
-        <entry key="ENGLISH" value="1501" />
+        <entry key="CHINESE" value="1502" />
+        <entry key="ENGLISH" value="1502" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
