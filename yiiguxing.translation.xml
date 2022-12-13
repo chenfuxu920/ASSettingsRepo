@@ -105,4 +105,23 @@
       </youdao-translate>
     </option>
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1670920522493" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="AUTO" />
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="02c69ec9b6aa2aef" />
+      </youdao-translate>
+    </option>
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="mGUPFWHR5nG54VSHEYtDyAznPOYXYKWV&#10;" />
+      <item value="mGUPFWHR5nG54VSHEYtDyAznPOYXYKWV" />
+      <item value="连接已中断，重新搜索服务" />
+    </histories>
+  </component>
 </application>
