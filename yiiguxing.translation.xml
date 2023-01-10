@@ -118,6 +118,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="IntelliJ API Decompiler stub source generated from a class file" />
       <item value="Interface androidx.lifecycle.FullLifecycleObserver implemented by class androidx.lifecycle.DefaultLifecycleObserver is inaccessible" />
       <item value="declaration" />
       <item value="private" />
@@ -133,8 +134,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
