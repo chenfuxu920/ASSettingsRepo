@@ -118,8 +118,11 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="IntelliJ API Decompiler stub source generated from a class file" />
+      <item value="Illegal Access Error" />
+      <item value="Still using ViewGroup.setContent for now" />
+      <item value="DEPRECATION" />
       <item value="Interface androidx.lifecycle.FullLifecycleObserver implemented by class androidx.lifecycle.DefaultLifecycleObserver is inaccessible" />
+      <item value="IntelliJ API Decompiler stub source generated from a class file" />
       <item value="declaration" />
       <item value="private" />
       <item value="This is an example of a MapComponent within the ZHTJ ecosphere. A map component is the building block for all activities within the system. This defines a concrete thought or idea." />
@@ -134,8 +137,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
