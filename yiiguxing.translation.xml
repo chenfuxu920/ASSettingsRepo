@@ -119,6 +119,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="For plugins to have custom radial menus, we need to set the &quot;menu&quot; metadata to contain a well formed xml entry. This only allows for reskinning of existing radial menus with icons and actions that already exist in ZHTJ. In order to perform a completely custom radia menu instalation. You need to define the radial menu as below and then uuencode the sub elements such as images or instructions." />
       <item value="Hack to close the FunctionPanel that automatically opens when a tool plugin is activated." />
       <item value="register a listener for when a the radial menu asks for a special drop down. SpecialDetail is really a skeleton of a class that shows a very basic drop down." />
       <item value="freely" />
@@ -142,8 +143,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>
