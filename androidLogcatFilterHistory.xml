@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -message:addLayerName -tag:chatty" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
+        <option value="package:com.zhtj" />
+        <option value="package:" />
+        <option value="package:com.zhtj.plugin.examples " />
+        <option value="package~:zhtj" />
         <option value="package:mine -message:addLayerName -tag:chatty" />
         <option value="package:mine -message:addLayerName" />
         <option value="package:mine " />

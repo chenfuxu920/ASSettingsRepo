@@ -106,11 +106,10 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1670920522493" />
+    <option name="lastTrimTime" value="1673341717747" />
   </component>
   <component name="Translation.Settings">
-    <option name="primaryLanguage" value="AUTO" />
-    <option name="translator" value="YOUDAO" />
+    <option name="primaryLanguage" value="CHINESE" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="02c69ec9b6aa2aef" />
@@ -119,9 +118,28 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Illegal Access Error" />
+      <item value="Still using ViewGroup.setContent for now" />
+      <item value="DEPRECATION" />
+      <item value="Interface androidx.lifecycle.FullLifecycleObserver implemented by class androidx.lifecycle.DefaultLifecycleObserver is inaccessible" />
+      <item value="IntelliJ API Decompiler stub source generated from a class file" />
+      <item value="declaration" />
+      <item value="private" />
+      <item value="This is an example of a MapComponent within the ZHTJ ecosphere. A map component is the building block for all activities within the system. This defines a concrete thought or idea." />
+      <item value="register a listener for when a the radial menu asks for a special drop down. SpecialDetail is really a skeleton of a class that shows a very basic drop down." />
+      <item value="The GLLayerSpi will automatically create an instance of the renderer when the ExampleLayer is added to the map" />
+      <item value="flower" />
+      <item value="offload the actual update to the GL thread -- GL objects may only be updated on the GL thread (e.g. texture)." />
+      <item value="Disposable" />
       <item value="mGUPFWHR5nG54VSHEYtDyAznPOYXYKWV&#10;" />
       <item value="mGUPFWHR5nG54VSHEYtDyAznPOYXYKWV" />
       <item value="连接已中断，重新搜索服务" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
+      </map>
+    </option>
   </component>
 </application>
