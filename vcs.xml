@@ -378,9 +378,13 @@
           <option name="url" value="https://github.com/FunnySaltyFish/FunnyTranslation.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@8.134.73.119:8822/chenfuxu/plugins.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\android_projects\github_demo" />
+    <option name="cloneParentDir" value="D:\android_projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">

@@ -2,6 +2,8 @@
   <component name="ExternalDiffSettings">
     <option name="DIFF_ENABLED" value="true" />
     <option name="DIFF_EXE_PATH" value="C:\Program Files\TortoiseGit\bin\TortoiseGitMerge.exe" />
+    <option name="EXTERNAL_TOOLS_ENABLED" value="true" />
+    <option name="MIGRATE_OLD_SETTINGS" value="true" />
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
