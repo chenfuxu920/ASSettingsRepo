@@ -119,6 +119,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Exception In Initializer Error" />
       <item value="canonical Name" />
       <item value="For plugins to have custom radial menus, we need to set the &quot;menu&quot; metadata to contain a well formed xml entry. This only allows for reskinning of existing radial menus with icons and actions that already exist in ZHTJ. In order to perform a completely custom radia menu instalation. You need to define the radial menu as below and then uuencode the sub elements such as images or instructions." />
       <item value="Hack to close the FunctionPanel that automatically opens when a tool plugin is activated." />
@@ -144,8 +145,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="22" />
       </map>
     </option>
   </component>
