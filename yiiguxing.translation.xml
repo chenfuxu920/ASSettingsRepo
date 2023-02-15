@@ -119,6 +119,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="has no zero argument constructor" />
       <item value="get External Files Dir" />
       <item value="export Schema" />
       <item value="Exception In Initializer Error" />
@@ -147,8 +148,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
