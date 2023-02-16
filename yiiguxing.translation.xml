@@ -119,6 +119,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Unsupported Operation Exception" />
+      <item value="Operation" />
       <item value="has no zero argument constructor" />
       <item value="get External Files Dir" />
       <item value="export Schema" />
@@ -148,8 +150,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
       </map>
     </option>
   </component>
