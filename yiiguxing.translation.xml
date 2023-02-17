@@ -119,6 +119,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Invocation Target Exception" />
       <item value="Unsupported Operation Exception" />
       <item value="Operation" />
       <item value="has no zero argument constructor" />
@@ -150,8 +151,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="27" />
       </map>
     </option>
   </component>
