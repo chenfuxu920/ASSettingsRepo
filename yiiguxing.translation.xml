@@ -110,7 +110,7 @@
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
-    <option name="translator" value="MICROSOFT" />
+    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="02c69ec9b6aa2aef" />
@@ -118,7 +118,17 @@
     </option>
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="1135" />
+    <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="Original" />
+      <item value="Origin" />
+      <item value="original&#10;" />
+      <item value="origin" />
+      <item value="origin&#10;" />
+      <item value="ori" />
+      <item value="o" />
       <item value="Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by build file 'build.gradle'" />
       <item value="descendant" />
       <item value="Invocation Target Exception" />
@@ -153,8 +163,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="28" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
