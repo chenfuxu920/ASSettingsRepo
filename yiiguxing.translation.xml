@@ -124,6 +124,7 @@
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="virtual" />
       <item value="纽约" />
       <item value="Photoelectric" />
       <item value="对抗措施" />
@@ -173,12 +174,11 @@
       <item value="declaration" />
       <item value="private" />
       <item value="This is an example of a MapComponent within the ZHTJ ecosphere. A map component is the building block for all activities within the system. This defines a concrete thought or idea." />
-      <item value="The GLLayerSpi will automatically create an instance of the renderer when the ExampleLayer is added to the map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="40" />
       </map>
     </option>
   </component>
