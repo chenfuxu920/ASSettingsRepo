@@ -124,6 +124,7 @@
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="Implement in sub-classes to handle errors" />
       <item value="virtual" />
       <item value="纽约" />
       <item value="Photoelectric" />
@@ -173,12 +174,11 @@
       <item value="IntelliJ API Decompiler stub source generated from a class file" />
       <item value="declaration" />
       <item value="private" />
-      <item value="This is an example of a MapComponent within the ZHTJ ecosphere. A map component is the building block for all activities within the system. This defines a concrete thought or idea." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="41" />
       </map>
     </option>
   </component>
