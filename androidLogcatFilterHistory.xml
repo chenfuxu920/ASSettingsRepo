@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="com.zhtj level:error " />
+    <option name="mostRecentlyUsed" value="com.zhtj" />
     <option name="nonFavorites">
       <list>
-        <option value="com.zhtj level:error " />
         <option value="com.zhtj" />
+        <option value="com.zhtj level:error " />
         <option value="package:com.zhtj" />
         <option value="level:error " />
         <option value="package~:com.zhtj.*" />
