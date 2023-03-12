@@ -106,7 +106,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1678180745147" />
+    <option name="lastTrimTime" value="1678615336389" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -124,6 +124,9 @@
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="departures" />
+      <item value="landing" />
+      <item value="Parking" />
       <item value="Implement in sub-classes to handle errors" />
       <item value="virtual" />
       <item value="纽约" />
@@ -171,14 +174,11 @@
       <item value="Still using ViewGroup.setContent for now" />
       <item value="DEPRECATION" />
       <item value="Interface androidx.lifecycle.FullLifecycleObserver implemented by class androidx.lifecycle.DefaultLifecycleObserver is inaccessible" />
-      <item value="IntelliJ API Decompiler stub source generated from a class file" />
-      <item value="declaration" />
-      <item value="private" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="45" />
       </map>
     </option>
   </component>
