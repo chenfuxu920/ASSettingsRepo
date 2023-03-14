@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="所有位置" />
-    <option name="defaultScopeName" value="所有位置" />
+    <option name="customScope" value="项目 'WifiP2P'" />
+    <option name="defaultScopeName" value="项目 'WifiP2P'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="所有位置" />
+    <option name="SEARCH_SCOPE" value="项目 'WifiP2P'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
