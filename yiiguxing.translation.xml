@@ -120,10 +120,16 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="未拆分" />
+      <item value="未" />
+      <item value="unsplit" />
+      <item value="split" />
+      <item value="分离" />
+      <item value="fen" />
       <item value="transparent" />
       <item value="切换" />
       <item value="departures" />
@@ -168,17 +174,11 @@
       <item value="canonical Name" />
       <item value="For plugins to have custom radial menus, we need to set the &quot;menu&quot; metadata to contain a well formed xml entry. This only allows for reskinning of existing radial menus with icons and actions that already exist in ZHTJ. In order to perform a completely custom radia menu instalation. You need to define the radial menu as below and then uuencode the sub elements such as images or instructions." />
       <item value="Hack to close the FunctionPanel that automatically opens when a tool plugin is activated." />
-      <item value="register a listener for when a the radial menu asks for a special drop down. SpecialDetail is really a skeleton of a class that shows a very basic drop down." />
-      <item value="freely" />
-      <item value="fourth" />
-      <item value="formal" />
-      <item value="Illegal Access Error" />
-      <item value="Still using ViewGroup.setContent for now" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="49" />
       </map>
     </option>
   </component>
