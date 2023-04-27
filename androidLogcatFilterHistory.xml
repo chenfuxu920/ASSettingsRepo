@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan" />
+    <option name="mostRecentlyUsed" value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport -package~:com.huawei.hiai.engineservice" />
     <option name="nonFavorites">
       <list>
+        <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport -package~:com.huawei.hiai.engineservice" />
+        <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -package~:com.huawei.hiai.engineservice" />
+        <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan package~:com.huawei.hiai.engineservice" />
         <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan" />
         <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher" />
         <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone" />
@@ -20,9 +23,6 @@
         <option value="tag~:com.zhtj.*" />
         <option value="tag~:com.zhtj" />
         <option value="package~:zhtj" />
-        <option value="package~: com.zhtj" />
-        <option value="package: " />
-        <option value="package:" />
       </list>
     </option>
   </component>
