@@ -106,7 +106,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1679280464568" />
+    <option name="lastTrimTime" value="1682560159435" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -124,6 +124,7 @@
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="child&#10;" />
       <item value="Concurrent Hash Map" />
       <item value="未拆分" />
       <item value="未" />
@@ -173,7 +174,6 @@
       <item value="export Schema" />
       <item value="Exception In Initializer Error" />
       <item value="canonical Name" />
-      <item value="For plugins to have custom radial menus, we need to set the &quot;menu&quot; metadata to contain a well formed xml entry. This only allows for reskinning of existing radial menus with icons and actions that already exist in ZHTJ. In order to perform a completely custom radia menu instalation. You need to define the radial menu as below and then uuencode the sub elements such as images or instructions." />
     </histories>
     <option name="languageScores">
       <map>
