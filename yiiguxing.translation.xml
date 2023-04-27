@@ -119,11 +119,18 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogHeight" value="247" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="unassigned" />
+      <item value="Assigned" />
+      <item value="分配的" />
+      <item value="Distributed" />
+      <item value="分配" />
+      <item value="分配de" />
+      <item value="fen" />
       <item value="Extension" />
       <item value="child&#10;" />
       <item value="Concurrent Hash Map" />
@@ -132,7 +139,6 @@
       <item value="unsplit" />
       <item value="split" />
       <item value="分离" />
-      <item value="fen" />
       <item value="transparent" />
       <item value="切换" />
       <item value="departures" />
@@ -168,17 +174,11 @@
       <item value="Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by build file 'build.gradle'" />
       <item value="descendant" />
       <item value="Invocation Target Exception" />
-      <item value="Unsupported Operation Exception" />
-      <item value="Operation" />
-      <item value="has no zero argument constructor" />
-      <item value="get External Files Dir" />
-      <item value="export Schema" />
-      <item value="Exception In Initializer Error" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="54" />
       </map>
     </option>
   </component>
