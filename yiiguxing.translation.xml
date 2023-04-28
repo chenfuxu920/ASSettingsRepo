@@ -124,6 +124,7 @@
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="the number of values replayed to new subscribers (cannot be negative, defaults to zero)." />
       <item value="DUE NORTH" />
       <item value="TRUE" />
       <item value="get String Similarity" />
@@ -173,12 +174,11 @@
       <item value="弹种" />
       <item value="威胁等级" />
       <item value="威胁 " />
-      <item value="威胁" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="62" />
       </map>
     </option>
   </component>
