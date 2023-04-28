@@ -120,10 +120,12 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="247" />
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="附件" />
+      <item value="f" />
       <item value="The layout &quot;layout_audio_view&quot; in layout has no declaration in the base `layout` folder; this can lead to crashes when the resource is queried in a configuration that does not match this qualifier" />
       <item value="纵深" />
       <item value="面宽" />
@@ -172,8 +174,6 @@
       <item value="数量" />
       <item value="shu" />
       <item value="count" />
-      <item value="Original" />
-      <item value="Origin" />
     </histories>
     <option name="languageScores">
       <map>
