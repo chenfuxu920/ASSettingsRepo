@@ -106,7 +106,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1682560159435" />
+    <option name="lastTrimTime" value="1683163202175" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -124,6 +124,7 @@
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="NORMAL" />
       <item value="is Focusable In Touch Mode" />
       <item value="the number of values replayed to new subscribers (cannot be negative, defaults to zero)." />
       <item value="DUE NORTH" />
@@ -173,12 +174,11 @@
       <item value="Projectile&#10;" />
       <item value="Projectile" />
       <item value="弹种" />
-      <item value="威胁等级" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="64" />
       </map>
     </option>
   </component>
