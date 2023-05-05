@@ -124,6 +124,8 @@
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="personnel" />
+      <item value="personal" />
       <item value="percent" />
       <item value="红外" />
       <item value="红" />
@@ -172,13 +174,11 @@
       <item value="Parking" />
       <item value="Implement in sub-classes to handle errors" />
       <item value="virtual" />
-      <item value="纽约" />
-      <item value="Photoelectric" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="72" />
       </map>
     </option>
   </component>
