@@ -124,6 +124,7 @@
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="percent" />
       <item value="红外" />
       <item value="红" />
       <item value="红外线" />
@@ -173,12 +174,11 @@
       <item value="virtual" />
       <item value="纽约" />
       <item value="Photoelectric" />
-      <item value="对抗措施" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="70" />
       </map>
     </option>
   </component>
