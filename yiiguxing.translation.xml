@@ -124,6 +124,10 @@
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="may need to revisit double reflection trick: PluginLayoutInflator" />
+      <item value="GENERAL" />
+      <item value="awareness raw data" />
+      <item value="singleton" />
       <item value="分割线" />
       <item value="f" />
       <item value="divider" />
@@ -155,7 +159,6 @@
       <item value="Shape appearance overlay style reference to be used to modify the shapeAppearance." />
       <item value="Shape appearance style reference to be used to construct a ShapeAppearanceModel." />
       <item value="subtitle" />
-      <item value="awareness raw data" />
       <item value="unassigned" />
       <item value="Assigned" />
       <item value="分配的" />
@@ -171,14 +174,11 @@
       <item value="unsplit" />
       <item value="split" />
       <item value="分离" />
-      <item value="transparent" />
-      <item value="切换" />
-      <item value="departures" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="78" />
       </map>
     </option>
   </component>
