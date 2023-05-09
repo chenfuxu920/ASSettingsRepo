@@ -106,7 +106,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1683163202175" />
+    <option name="lastTrimTime" value="1683620259120" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -124,6 +124,7 @@
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="minor" />
       <item value="Hack to close the FunctionPanel that automatically opens when a tool plugin is activated." />
       <item value="ANR in com.zhtjcom.zhtj.MainActivity. Reason:63b3ace com.zhtjcom.zhtj.MainActivity (server) is not responding. Waited 5005ms for KeyEvent, seq=1349726" />
       <item value="may need to revisit double reflection trick: PluginLayoutInflator" />
@@ -173,12 +174,11 @@
       <item value="Concurrent Hash Map" />
       <item value="未拆分" />
       <item value="未" />
-      <item value="unsplit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="82" />
       </map>
     </option>
   </component>
