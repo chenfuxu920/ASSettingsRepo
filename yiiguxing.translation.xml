@@ -124,6 +124,8 @@
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="This method will marked internal soon. Please use the new API" />
+      <item value="soon" />
       <item value="Signed" />
       <item value="STYLE ROTATE HEADING MASK" />
       <item value="set Never Persist" />
@@ -172,13 +174,11 @@
       <item value="红外线" />
       <item value="红外 " />
       <item value="exported" />
-      <item value="Mediator Live Data" />
-      <item value="MEDIA RECORDER INFO MAX DURATION REACHED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="99" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="CHINESE" value="101" />
+        <entry key="ENGLISH" value="100" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
