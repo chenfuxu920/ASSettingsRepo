@@ -120,10 +120,23 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="247" />
-    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogWidth" value="578" />
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="seconds" />
+      <item value="度分秒" />
+      <item value="minutes" />
+      <item value="et lon minute" />
+      <item value="tv lon degree" />
+      <item value="经度" />
+      <item value="longitat" />
+      <item value="longitater" />
+      <item value="longitate" />
+      <item value="long" />
+      <item value="longi" />
+      <item value="longirate" />
+      <item value="longira" />
       <item value="minor" />
       <item value="Hack to close the FunctionPanel that automatically opens when a tool plugin is activated." />
       <item value="ANR in com.zhtjcom.zhtj.MainActivity. Reason:63b3ace com.zhtjcom.zhtj.MainActivity (server) is not responding. Waited 5005ms for KeyEvent, seq=1349726" />
@@ -161,24 +174,11 @@
       <item value="m" />
       <item value="Shape appearance overlay style reference to be used to modify the shapeAppearance." />
       <item value="Shape appearance style reference to be used to construct a ShapeAppearanceModel." />
-      <item value="subtitle" />
-      <item value="unassigned" />
-      <item value="Assigned" />
-      <item value="分配的" />
-      <item value="Distributed" />
-      <item value="分配" />
-      <item value="分配de" />
-      <item value="fen" />
-      <item value="Extension" />
-      <item value="child&#10;" />
-      <item value="Concurrent Hash Map" />
-      <item value="未拆分" />
-      <item value="未" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="86" />
       </map>
     </option>
   </component>
