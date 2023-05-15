@@ -106,7 +106,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1683620259120" />
+    <option name="lastTrimTime" value="1684120971204" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -124,6 +124,10 @@
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="tab draw indicator" />
+      <item value="tab indicator height" />
+      <item value="tab indicator solid color" />
+      <item value="tab item is equ width" />
       <item value="输出" />
       <item value="Context.startForegroundService() did not then call Service.startForeground():" />
       <item value="android.app.Foreground Service Did Not Start In Time Exception:" />
@@ -170,15 +174,11 @@
       <item value="may need to revisit double reflection trick: PluginLayoutInflator" />
       <item value="GENERAL" />
       <item value="awareness raw data" />
-      <item value="singleton" />
-      <item value="分割线" />
-      <item value="f" />
-      <item value="divider" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="114" />
+        <entry key="ENGLISH" value="113" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
