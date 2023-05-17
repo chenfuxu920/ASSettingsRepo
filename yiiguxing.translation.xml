@@ -124,6 +124,7 @@
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="APP SCOUT WARNING" />
       <item value="to Multi Line String" />
       <item value="Multi" />
       <item value="Cannot figure out how to read this field from a cursor." />
@@ -173,12 +174,11 @@
       <item value="minutes" />
       <item value="et lon minute" />
       <item value="tv lon degree" />
-      <item value="经度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="128" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
