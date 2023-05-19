@@ -124,6 +124,7 @@
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="precision" />
       <item value="distinct Until Changed" />
       <item value="debounce" />
       <item value="APP SCOUT WARNING" />
@@ -173,12 +174,11 @@
       <item value="下划线" />
       <item value="seconds" />
       <item value="度分秒" />
-      <item value="minutes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="131" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
