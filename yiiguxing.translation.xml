@@ -106,7 +106,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684120971204" />
+    <option name="lastTrimTime" value="1684920317003" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -124,6 +124,7 @@
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="this makes use of an activity that cannot know anything about ZHTJ. This is the same problem as we have with notifications. They run outside of the current ZHTJ classloader paradigm." />
       <item value="precision" />
       <item value="distinct Until Changed" />
       <item value="debounce" />
@@ -173,12 +174,11 @@
       <item value="conclution" />
       <item value="下划线" />
       <item value="seconds" />
-      <item value="度分秒" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="CHINESE" value="133" />
+        <entry key="ENGLISH" value="132" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
