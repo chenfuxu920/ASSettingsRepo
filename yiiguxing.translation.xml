@@ -120,10 +120,12 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="247" />
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="574" />
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="Autostarts" />
+      <item value="自启动" />
       <item value="Bringing down service while still waiting for start foreground" />
       <item value="Exported service does not require permission" />
       <item value="this makes use of an activity that cannot know anything about ZHTJ. This is the same problem as we have with notifications. They run outside of the current ZHTJ classloader paradigm." />
@@ -172,13 +174,11 @@
       <item value="calculation" />
       <item value="计算" />
       <item value="j" />
-      <item value="conclusion" />
-      <item value="conclution" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="134" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="134" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
