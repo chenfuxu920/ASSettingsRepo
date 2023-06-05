@@ -124,6 +124,12 @@
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="damage degree" />
+      <item value="degree" />
+      <item value="damage" />
+      <item value="precision" />
+      <item value="The prompt to display when the spinner's dialog is shown." />
+      <item value="prompt" />
       <item value="revisit" />
       <item value="必填的" />
       <item value="bi" />
@@ -132,7 +138,6 @@
       <item value="Bringing down service while still waiting for start foreground" />
       <item value="Exported service does not require permission" />
       <item value="this makes use of an activity that cannot know anything about ZHTJ. This is the same problem as we have with notifications. They run outside of the current ZHTJ classloader paradigm." />
-      <item value="precision" />
       <item value="distinct Until Changed" />
       <item value="debounce" />
       <item value="APP SCOUT WARNING" />
@@ -169,16 +174,11 @@
       <item value="STYLE ROTATE HEADING MASK" />
       <item value="set Never Persist" />
       <item value="the style of the marker is by default set to show an arrow, this will allow for full rotation. You need to enable the heading mask as well as the narrow mask" />
-      <item value="get Northing Descriptor" />
-      <item value="get Easting Descriptor" />
-      <item value="northing" />
-      <item value="easting" />
-      <item value="DD" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="141" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
