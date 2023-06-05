@@ -2,14 +2,16 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport -package~:com.huawei.hiai.engineservice" />
         <option value="com.zhtj.planning -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport -package~:com.huawei.hiai.engineservice" />
+        <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport -package~:com.huawei.hiai.engineservice" />
       </list>
     </option>
     <option name="mostRecentlyUsed" value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport -package~:com.huawei.hiai.engineservice" />
     <option name="nonFavorites">
       <list>
+        <option value="level:warn  " />
         <option value="level:error " />
+        <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport -package~:com.huawei.hiai.engineservice level:error " />
         <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService  -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport -package~:com.huawei.hiai.engineservice" />
         <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -package~:com.huawei.hiai.engineservice" />
         <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan package~:com.huawei.hiai.engineservice" />
@@ -27,7 +29,6 @@
         <option value="package:mine " />
         <option value="tag~:.*SHOW_PLUGIN" />
         <option value="tag~:com.zhtj.*" />
-        <option value="tag~:com.zhtj" />
       </list>
     </option>
   </component>

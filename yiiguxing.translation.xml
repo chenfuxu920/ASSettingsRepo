@@ -106,7 +106,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684920317003" />
+    <option name="lastTrimTime" value="1685932562514" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -124,6 +124,7 @@
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="revisit" />
       <item value="必填的" />
       <item value="bi" />
       <item value="Autostarts" />
@@ -173,12 +174,11 @@
       <item value="northing" />
       <item value="easting" />
       <item value="DD" />
-      <item value="calculation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="135" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
