@@ -6,9 +6,10 @@
         <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport -package~:com.huawei.hiai.engineservice" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport -package~:com.huawei.hiai.engineservice" />
+    <option name="mostRecentlyUsed" value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport -package~:com.huawei.hiai.engineservice -tag~:OpenGLRenderer" />
     <option name="nonFavorites">
       <list>
+        <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport -package~:com.huawei.hiai.engineservice -tag~:OpenGLRenderer" />
         <option value="level:warn  " />
         <option value="level:error " />
         <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport -package~:com.huawei.hiai.engineservice level:error " />
@@ -28,7 +29,6 @@
         <option value="package~:com.zhtj.*" />
         <option value="package:mine " />
         <option value="tag~:.*SHOW_PLUGIN" />
-        <option value="tag~:com.zhtj.*" />
       </list>
     </option>
   </component>
