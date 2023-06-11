@@ -1,14 +1,9 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.0" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Inconsolata" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="YouYuan" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
+  <metaInfo>
+    <property name="modified">2023-04-12T10:02:43</property>
+    <property name="rainbow 默认语言">true</property>
+  </metaInfo>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -17,6 +12,7 @@
     <option name="EDITOR_FONT_NAME" value="YouYuan" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <attributes>
     <option name="HTML_CODE">
       <value />

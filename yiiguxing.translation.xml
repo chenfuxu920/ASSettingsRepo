@@ -106,39 +106,80 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1673341717747" />
+    <option name="lastTrimTime" value="1685932562514" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
-        <option name="appId" value="02c69ec9b6aa2aef" />
+        <option name="appId" value="71649e938aef8ea0" />
       </youdao-translate>
     </option>
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogHeight" value="238" />
+    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogX" value="1135" />
+    <option name="newTranslationDialogY" value="651" />
     <histories>
-      <item value="Illegal Access Error" />
-      <item value="Still using ViewGroup.setContent for now" />
-      <item value="DEPRECATION" />
-      <item value="Interface androidx.lifecycle.FullLifecycleObserver implemented by class androidx.lifecycle.DefaultLifecycleObserver is inaccessible" />
-      <item value="IntelliJ API Decompiler stub source generated from a class file" />
-      <item value="declaration" />
-      <item value="private" />
-      <item value="This is an example of a MapComponent within the ZHTJ ecosphere. A map component is the building block for all activities within the system. This defines a concrete thought or idea." />
-      <item value="register a listener for when a the radial menu asks for a special drop down. SpecialDetail is really a skeleton of a class that shows a very basic drop down." />
-      <item value="The GLLayerSpi will automatically create an instance of the renderer when the ExampleLayer is added to the map" />
-      <item value="flower" />
-      <item value="offload the actual update to the GL thread -- GL objects may only be updated on the GL thread (e.g. texture)." />
-      <item value="Disposable" />
-      <item value="mGUPFWHR5nG54VSHEYtDyAznPOYXYKWV&#10;" />
-      <item value="mGUPFWHR5nG54VSHEYtDyAznPOYXYKWV" />
-      <item value="连接已中断，重新搜索服务" />
+      <item value="duplicate" />
+      <item value="duplication" />
+      <item value="crossinline" />
+      <item value="busy" />
+      <item value="Invalid" />
+      <item value="Planning Invalid Target List Fragment" />
+      <item value="Invaild" />
+      <item value="percent" />
+      <item value="stop com.zhtj.planning due to from pid 25449by app" />
+      <item value="Once" />
+      <item value="Candidate Scheme Event" />
+      <item value="tooltip" />
+      <item value="目标ID列表" />
+      <item value="EMPHASIS" />
+      <item value="damage degree" />
+      <item value="degree" />
+      <item value="damage" />
+      <item value="precision" />
+      <item value="The prompt to display when the spinner's dialog is shown." />
+      <item value="prompt" />
+      <item value="revisit" />
+      <item value="必填的" />
+      <item value="bi" />
+      <item value="Autostarts" />
+      <item value="自启动" />
+      <item value="Bringing down service while still waiting for start foreground" />
+      <item value="Exported service does not require permission" />
+      <item value="this makes use of an activity that cannot know anything about ZHTJ. This is the same problem as we have with notifications. They run outside of the current ZHTJ classloader paradigm." />
+      <item value="distinct Until Changed" />
+      <item value="debounce" />
+      <item value="APP SCOUT WARNING" />
+      <item value="to Multi Line String" />
+      <item value="Multi" />
+      <item value="Cannot figure out how to read this field from a cursor." />
+      <item value="DESTROYED" />
+      <item value="INVALID" />
+      <item value="VALID" />
+      <item value="Assigned" />
+      <item value="Send Intent Exception" />
+      <item value="Developers may have already registered with this same key by the time we restore state, which caused us to generate a new requestCode that doesn't match what we're about to restore. Clear out the new requestCode to ensure that we use the previously saved requestCode." />
+      <item value="On the chance that developers have already called launch() with this new requestCode, keep the mapping around temporarily to ensure the result is properly delivered to both the new requestCode and the restored requestCode" />
+      <item value="drop down" />
+      <item value="linear" />
+      <item value="gradient" />
+      <item value="tab item is equ width" />
+      <item value="tab draw indicator" />
+      <item value="tab indicator height" />
+      <item value="tab indicator solid color" />
+      <item value="输出" />
+      <item value="Context.startForegroundService() did not then call Service.startForeground():" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="156" />
+        <entry key="ENGLISH" value="155" />
+        <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>

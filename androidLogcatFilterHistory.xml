@@ -1,20 +1,34 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="favorites">
+      <list>
+        <option value="com.zhtj.planning -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport -package~:com.huawei.hiai.engineservice" />
+        <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport -package~:com.huawei.hiai.engineservice" />
+      </list>
+    </option>
+    <option name="mostRecentlyUsed" value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport -package~:com.huawei.hiai.engineservice -tag~:OpenGLRenderer" />
     <option name="nonFavorites">
       <list>
+        <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport -package~:com.huawei.hiai.engineservice -tag~:OpenGLRenderer" />
+        <option value="level:warn  " />
         <option value="level:error " />
+        <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport -package~:com.huawei.hiai.engineservice level:error " />
+        <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService  -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport -package~:com.huawei.hiai.engineservice" />
+        <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -package~:com.huawei.hiai.engineservice" />
+        <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan package~:com.huawei.hiai.engineservice" />
+        <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan" />
+        <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher" />
+        <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone" />
+        <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService" />
+        <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:PublishContactI" />
+        <option value="com.zhtj -tag~:GLMapRenderer -tag~:GLMapRenderer" />
+        <option value="com.zhtj" />
+        <option value="com.zhtj ~tag:GLMapRenderer" />
+        <option value="com.zhtj level:error " />
         <option value="package:com.zhtj" />
-        <option value="package:" />
-        <option value="package:com.zhtj.plugin.examples " />
-        <option value="package~:zhtj" />
-        <option value="package:mine -message:addLayerName -tag:chatty" />
-        <option value="package:mine -message:addLayerName" />
+        <option value="package~:com.zhtj.*" />
         <option value="package:mine " />
-        <option value="package:mine --message:" />
-        <option value="package:mine level:error " />
-        <option value="package:mine" />
-        <option value="com.google.android.apps.location.rtt.wifinanscan" />
+        <option value="tag~:.*SHOW_PLUGIN" />
       </list>
     </option>
   </component>
