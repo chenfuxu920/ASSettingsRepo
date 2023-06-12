@@ -2,11 +2,11 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport  -tag~:OpenGLRenderer  -tag~:DataFunctionPanelReceiver  -package~:com.huawei.hiai.engineservice" />
         <option value="com.zhtj.planning -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport -package~:com.huawei.hiai.engineservice" />
-        <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport -package~:com.huawei.hiai.engineservice" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport -package~:com.huawei.hiai.engineservice -tag~:OpenGLRenderer" />
+    <option name="mostRecentlyUsed" value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport  -tag~:OpenGLRenderer  -tag~:DataFunctionPanelReceiver  -package~:com.huawei.hiai.engineservice" />
     <option name="nonFavorites">
       <list>
         <option value="com.zhtj -tag~:GLMapRenderer -tag~:PublishContactI -tag~:LocationManagerService -tag~:CommoMapCompone -tag~:Dt2FileWatcher -tag~:cmohwscan -tag~:InputTransport -package~:com.huawei.hiai.engineservice -tag~:OpenGLRenderer" />
@@ -28,7 +28,6 @@
         <option value="package:com.zhtj" />
         <option value="package~:com.zhtj.*" />
         <option value="package:mine " />
-        <option value="tag~:.*SHOW_PLUGIN" />
       </list>
     </option>
   </component>
