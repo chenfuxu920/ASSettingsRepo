@@ -106,7 +106,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1685932562514" />
+    <option name="lastTrimTime" value="1686538050282" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -124,6 +124,7 @@
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="solid" />
       <item value="Inconsistency detected." />
       <item value="duplicate" />
       <item value="duplication" />
@@ -173,12 +174,11 @@
       <item value="tab draw indicator" />
       <item value="tab indicator height" />
       <item value="tab indicator solid color" />
-      <item value="输出" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="157" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
