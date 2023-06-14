@@ -124,6 +124,7 @@
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="ignore Offscreen" />
       <item value="fill Color" />
       <item value="stroke Color" />
       <item value="exp" />
@@ -173,12 +174,11 @@
       <item value="Assigned" />
       <item value="Send Intent Exception" />
       <item value="Developers may have already registered with this same key by the time we restore state, which caused us to generate a new requestCode that doesn't match what we're about to restore. Clear out the new requestCode to ensure that we use the previously saved requestCode." />
-      <item value="On the chance that developers have already called launch() with this new requestCode, keep the mapping around temporarily to ensure the result is properly delivered to both the new requestCode and the restored requestCode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
-        <entry key="ENGLISH" value="164" />
+        <entry key="CHINESE" value="166" />
+        <entry key="ENGLISH" value="165" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
