@@ -106,7 +106,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1686538050282" />
+    <option name="lastTrimTime" value="1687138430093" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -124,6 +124,7 @@
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="text" />
       <item value="ignore Offscreen" />
       <item value="fill Color" />
       <item value="stroke Color" />
@@ -173,12 +174,11 @@
       <item value="VALID" />
       <item value="Assigned" />
       <item value="Send Intent Exception" />
-      <item value="Developers may have already registered with this same key by the time we restore state, which caused us to generate a new requestCode that doesn't match what we're about to restore. Clear out the new requestCode to ensure that we use the previously saved requestCode." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="166" />
-        <entry key="ENGLISH" value="165" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="166" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
