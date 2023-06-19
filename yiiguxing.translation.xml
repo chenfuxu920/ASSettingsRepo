@@ -124,6 +124,7 @@
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="event handlers may only abort the incoming event" />
       <item value="Broadcast Receiver that is responsible for getting the data back to the plugin." />
       <item value="WAKEUP alarm trigger action = null" />
       <item value="Preparation" />
@@ -173,12 +174,11 @@
       <item value="Bringing down service while still waiting for start foreground" />
       <item value="Exported service does not require permission" />
       <item value="this makes use of an activity that cannot know anything about ZHTJ. This is the same problem as we have with notifications. They run outside of the current ZHTJ classloader paradigm." />
-      <item value="distinct Until Changed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="175" />
-        <entry key="ENGLISH" value="174" />
+        <entry key="CHINESE" value="176" />
+        <entry key="ENGLISH" value="175" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
