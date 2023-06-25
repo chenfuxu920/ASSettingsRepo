@@ -125,6 +125,12 @@
     <option name="newTranslationDialogY" value="651" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Stroke" />
+      <item value="set Stroke Weight" />
+      <item value="get Association At" />
+      <item value="Association" />
+      <item value="Weight" />
+      <item value="valid" />
       <item value="staleout" />
       <item value="debounce" />
       <item value="dispose" />
@@ -169,17 +175,11 @@
       <item value="damage degree" />
       <item value="degree" />
       <item value="damage" />
-      <item value="precision" />
-      <item value="The prompt to display when the spinner's dialog is shown." />
-      <item value="prompt" />
-      <item value="revisit" />
-      <item value="必填的" />
-      <item value="bi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="182" />
-        <entry key="ENGLISH" value="176" />
+        <entry key="CHINESE" value="189" />
+        <entry key="ENGLISH" value="183" />
         <entry key="FRENCH" value="2" />
         <entry key="INDONESIAN" value="3" />
         <entry key="LUXEMBOURGISH" value="1" />
