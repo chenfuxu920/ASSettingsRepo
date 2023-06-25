@@ -125,6 +125,8 @@
     <option name="newTranslationDialogY" value="651" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="debounce" />
+      <item value="dispose" />
       <item value="perma Group" />
       <item value="perma" />
       <item value="event handlers may only abort the incoming event" />
@@ -173,14 +175,12 @@
       <item value="必填的" />
       <item value="bi" />
       <item value="Autostarts" />
-      <item value="自启动" />
-      <item value="Bringing down service while still waiting for start foreground" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="175" />
-        <entry key="FRENCH" value="1" />
+        <entry key="CHINESE" value="181" />
+        <entry key="ENGLISH" value="176" />
+        <entry key="FRENCH" value="2" />
         <entry key="INDONESIAN" value="3" />
       </map>
     </option>
