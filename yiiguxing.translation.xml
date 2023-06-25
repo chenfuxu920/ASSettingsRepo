@@ -106,7 +106,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1687138430093" />
+    <option name="lastTrimTime" value="1687661017186" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -123,7 +123,10 @@
     <option name="newTranslationDialogWidth" value="570" />
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="perma Group" />
+      <item value="perma" />
       <item value="event handlers may only abort the incoming event" />
       <item value="Broadcast Receiver that is responsible for getting the data back to the plugin." />
       <item value="WAKEUP alarm trigger action = null" />
@@ -172,14 +175,13 @@
       <item value="Autostarts" />
       <item value="自启动" />
       <item value="Bringing down service while still waiting for start foreground" />
-      <item value="Exported service does not require permission" />
-      <item value="this makes use of an activity that cannot know anything about ZHTJ. This is the same problem as we have with notifications. They run outside of the current ZHTJ classloader paradigm." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="176" />
+        <entry key="CHINESE" value="179" />
         <entry key="ENGLISH" value="175" />
         <entry key="FRENCH" value="1" />
+        <entry key="INDONESIAN" value="3" />
       </map>
     </option>
   </component>
