@@ -125,6 +125,7 @@
     <option name="newTranslationDialogY" value="651" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Each subscriber method has a thread mode, which determines in which thread the method is to be called by EventBus. EventBus takes care of threading independently from the posting thread." />
       <item value="Entry" />
       <item value="Stroke" />
       <item value="set Stroke Weight" />
@@ -174,12 +175,11 @@
       <item value="目标ID列表" />
       <item value="EMPHASIS" />
       <item value="damage degree" />
-      <item value="degree" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="190" />
-        <entry key="ENGLISH" value="184" />
+        <entry key="CHINESE" value="191" />
+        <entry key="ENGLISH" value="185" />
         <entry key="FRENCH" value="2" />
         <entry key="INDONESIAN" value="3" />
         <entry key="LUXEMBOURGISH" value="1" />
