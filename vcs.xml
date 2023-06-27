@@ -402,9 +402,17 @@
           <option name="url" value="https://git.zhtj.cloud:8443/eureka/tjplugin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jrvansuita/PickImage.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:jrvansuita/PickImage.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\android_projects" />
+    <option name="cloneParentDir" value="D:\android_projects\github_demo" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">

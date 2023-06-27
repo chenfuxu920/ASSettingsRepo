@@ -125,6 +125,7 @@
     <option name="newTranslationDialogY" value="651" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="this makes use of an activity that cannot know anything about ZHTJ. This is the same problem as we have with notifications. They run outside of the current ZHTJ classloader paradigm." />
       <item value="Visible" />
       <item value="dispose" />
       <item value="dispose Impl" />
@@ -174,12 +175,11 @@
       <item value="Once" />
       <item value="Candidate Scheme Event" />
       <item value="tooltip" />
-      <item value="目标ID列表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="187" />
+        <entry key="CHINESE" value="197" />
+        <entry key="ENGLISH" value="188" />
         <entry key="FRENCH" value="5" />
         <entry key="INDONESIAN" value="3" />
         <entry key="LUXEMBOURGISH" value="1" />
