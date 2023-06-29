@@ -110,7 +110,7 @@
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
-    <option name="translator" value="YOUDAO" />
+    <option name="translator" value="MICROSOFT" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="71649e938aef8ea0" />
@@ -125,6 +125,7 @@
     <option name="newTranslationDialogY" value="651" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="crossfade" />
       <item value="NORTHWEST" />
       <item value="SOUTH" />
       <item value="Broadcast Receiver that is responsible for getting the data back to the plugin." />
@@ -174,12 +175,11 @@
       <item value="solid" />
       <item value="Inconsistency detected." />
       <item value="duplicate" />
-      <item value="duplication" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="199" />
+        <entry key="ENGLISH" value="200" />
         <entry key="FRENCH" value="5" />
         <entry key="INDONESIAN" value="3" />
         <entry key="LUXEMBOURGISH" value="1" />
