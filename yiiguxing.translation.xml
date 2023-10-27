@@ -106,11 +106,11 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1685932562514" />
+    <option name="lastTrimTime" value="1689301140171" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
-    <option name="translator" value="YOUDAO" />
+    <option name="translator" value="MICROSOFT" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="71649e938aef8ea0" />
@@ -120,66 +120,69 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="238" />
-    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogWidth" value="568" />
     <option name="newTranslationDialogX" value="1135" />
     <option name="newTranslationDialogY" value="651" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="duplicate" />
-      <item value="duplication" />
-      <item value="crossinline" />
-      <item value="busy" />
-      <item value="Invalid" />
-      <item value="Planning Invalid Target List Fragment" />
-      <item value="Invaild" />
-      <item value="percent" />
-      <item value="stop com.zhtj.planning due to from pid 25449by app" />
-      <item value="Once" />
-      <item value="Candidate Scheme Event" />
-      <item value="tooltip" />
-      <item value="目标ID列表" />
-      <item value="EMPHASIS" />
-      <item value="damage degree" />
-      <item value="degree" />
-      <item value="damage" />
-      <item value="precision" />
-      <item value="The prompt to display when the spinner's dialog is shown." />
-      <item value="prompt" />
-      <item value="revisit" />
-      <item value="必填的" />
-      <item value="bi" />
-      <item value="Autostarts" />
-      <item value="自启动" />
-      <item value="Bringing down service while still waiting for start foreground" />
-      <item value="Exported service does not require permission" />
+      <item value="audit&#10;" />
+      <item value="audit" />
+      <item value="radius" />
+      <item value="方法" />
+      <item value="f" />
+      <item value="crossfade" />
+      <item value="NORTHWEST" />
+      <item value="SOUTH" />
+      <item value="Broadcast Receiver that is responsible for getting the data back to the plugin." />
+      <item value="Image" />
+      <item value="PHOTO" />
+      <item value="SELECT PHOTO INFO" />
+      <item value="is Exclude" />
+      <item value="original selected images, used in multi mode" />
+      <item value="don't show anything on this selected images" />
+      <item value="is Relative" />
+      <item value="set whether pick action or camera action should return immediate result or not. Only works in single mode for image picker" />
       <item value="this makes use of an activity that cannot know anything about ZHTJ. This is the same problem as we have with notifications. They run outside of the current ZHTJ classloader paradigm." />
-      <item value="distinct Until Changed" />
+      <item value="Visible" />
+      <item value="dispose" />
+      <item value="dispose Impl" />
+      <item value="Each subscriber method has a thread mode, which determines in which thread the method is to be called by EventBus. EventBus takes care of threading independently from the posting thread." />
+      <item value="Entry" />
+      <item value="Stroke" />
+      <item value="set Stroke Weight" />
+      <item value="get Association At" />
+      <item value="Association" />
+      <item value="Weight" />
+      <item value="valid" />
+      <item value="staleout" />
       <item value="debounce" />
-      <item value="APP SCOUT WARNING" />
-      <item value="to Multi Line String" />
-      <item value="Multi" />
-      <item value="Cannot figure out how to read this field from a cursor." />
-      <item value="DESTROYED" />
-      <item value="INVALID" />
-      <item value="VALID" />
-      <item value="Assigned" />
-      <item value="Send Intent Exception" />
-      <item value="Developers may have already registered with this same key by the time we restore state, which caused us to generate a new requestCode that doesn't match what we're about to restore. Clear out the new requestCode to ensure that we use the previously saved requestCode." />
-      <item value="On the chance that developers have already called launch() with this new requestCode, keep the mapping around temporarily to ensure the result is properly delivered to both the new requestCode and the restored requestCode" />
-      <item value="drop down" />
-      <item value="linear" />
-      <item value="gradient" />
-      <item value="tab item is equ width" />
-      <item value="tab draw indicator" />
-      <item value="tab indicator height" />
-      <item value="tab indicator solid color" />
-      <item value="输出" />
-      <item value="Context.startForegroundService() did not then call Service.startForeground():" />
+      <item value="perma Group" />
+      <item value="perma" />
+      <item value="event handlers may only abort the incoming event" />
+      <item value="WAKEUP alarm trigger action = null" />
+      <item value="Preparation" />
+      <item value="EXPIRED" />
+      <item value="TYPE TARGET EXPIRED" />
+      <item value="EXPIRE" />
+      <item value="expire" />
+      <item value="过期" />
+      <item value="g" />
+      <item value="add Preparation Time Alarm" />
+      <item value="text" />
+      <item value="ignore Offscreen" />
+      <item value="fill Color" />
+      <item value="stroke Color" />
+      <item value="exp" />
+      <item value="longitude" />
+      <item value="theta" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="156" />
-        <entry key="ENGLISH" value="155" />
-        <entry key="FRENCH" value="1" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="210" />
+        <entry key="FRENCH" value="5" />
+        <entry key="INDONESIAN" value="3" />
+        <entry key="LUXEMBOURGISH" value="1" />
       </map>
     </option>
   </component>
